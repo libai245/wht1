@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-24 23:40-0500\n"
+"PO-Revision-Date: 2014-12-10 20:41-0500\n"
+"Last-Translator: nohal <pavel@kalian.cz>\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-File: /plugins/dashboard_pi/po/dashboard_pi.pot\n"
+#
+msgid " mag"
+msgstr " магн."
+#
+msgid " true"
+msgstr " ист."
+#
+msgid "Add"
+msgstr "Добавить"
+#
+msgid "Add instrument"
+msgstr "Добавить инструмент"
+#
+msgid "Air Temp."
+msgstr "Температура воздуха"
+#
+msgid "App. Wind Angle"
+msgstr "Кажущ. угол ветра"
+#
+msgid "App. Wind Angle & Speed"
+msgstr "Кажущ. угол и скор. ветра"
+#
+msgid "App. Wind Speed"
+msgstr "Кажущ. скорость ветра"
+#
+msgid "Appearance"
+msgstr "Внешний вид"
+#
+msgid "Barometric history"
+msgstr "История давления"
+#
+msgid "Barometric pressure"
+msgstr "Атмосферное давление"
+#
+msgid "Boat speed units:"
+msgstr "Единицы скорости судна:"
+#
+msgid "COG"
+msgstr "Курс"
+#
+msgid "Caption:"
+msgstr "Название:"
+#
+msgid "Centimeters"
+msgstr "см"
+#
+msgid "Clock"
+msgstr "Часы"
+#
+msgid "Cursor"
+msgstr "Курсор"
+#
+msgid "Dashboard"
+msgstr "Приборная панель"
+#
+msgid "Dashboard PlugIn for OpenCPN"
+msgstr "Модуль «Приборная панель» для OpenCPN"
+#
+msgid ""
+"Dashboard PlugIn for OpenCPN\n"
+"Provides navigation instrument display from NMEA source."
+msgstr ""
+"Модуль «Приборная панель» для OpenCPN\n"
+"Отображает показания навигационных инструментов NMEA."
+#
+msgid "Dashboard preferences"
+msgstr "Настройки приборной панели"
+#
+msgid "Data:"
+msgstr "Данные:"
+#
+msgid "Delete"
+msgstr "Удалить"
+#
+msgid "Depth"
+msgstr "Глубина"
+#
+msgid "Depth units:"
+msgstr "Единицы глубины:"
+#
+msgid "Distance units:"
+msgstr "Единицы расстояния:"
+#
+msgid "Down"
+msgstr "Вниз"
+#
+msgid "E"
+msgstr "В"
+#
+msgid "ENE"
+msgstr "ВСВ"
+#
+msgid "ESE"
+msgstr "ВЮВ"
+#
+msgid "Fathoms"
+msgstr "саж."
+#
+msgid "Feet"
+msgstr "фут"
+#
+msgid "Fonts"
+msgstr "Шрифты"
+#
+msgid "From Ownship"
+msgstr ""
+#
+msgid "GPS Compass"
+msgstr "GPS-компас"
+#
+msgid "GPS Status"
+msgstr "Состояние GPS-приёмника"
+#
+msgid "GPS in View"
+msgstr "Число видимых спутников"
+#
+msgid "Honor OpenCPN settings"
+msgstr "из OpenCPN"
+#
+msgid "Horizontal"
+msgstr "горизонтальная"
+#
+msgid "Inches"
+msgstr "дюйм"
+#
+msgid "Instruments"
+msgstr "Инструменты"
+#
+msgid "Kilometers"
+msgstr "км"
+#
+msgid "Kts"
+msgstr "уз."
+#
+msgid "Label:"
+msgstr "Подпись:"
+#
+#, fuzzy
+msgid "Mag COG"
+msgstr "Магн. путевой угол"
+#
+msgid "Mag HDG"
+msgstr "Магн. путевой угол"
+#
+#, c-format
+msgid "Max %.1f since %02d:%02d  Overall %.1f"
+msgstr "Макс. %.1f после %02d:%02d  Абс. макс. %.1f"
+#
+msgid "Meters"
+msgstr "м"
+#
+msgid "Moon phase"
+msgstr "Фаза луны"
+#
+msgid "N"
+msgstr "С"
+#
+msgid "NE"
+msgstr "СВ"
+#
+msgid "NNE"
+msgstr "ССВ"
+#
+msgid "NNW"
+msgstr "ССЗ"
+#
+msgid "NW"
+msgstr "СЗ"
+#
+msgid "Nautical miles"
+msgstr "м. м."
+#
+msgid "Orientation:"
+msgstr "Ориентация:"
+#
+msgid "Position"
+msgstr "Положение"
+#
+msgid "Preferences..."
+msgstr "Предпочтения…"
+#
+msgid "Rudder Angle"
+msgstr "Угол перекладки руля"
+#
+msgid "S"
+msgstr "Ю"
+#
+msgid "SE"
+msgstr "ЮВ"
+#
+msgid "SOG"
+msgstr "Скорость"
+#
+msgid "SSE"
+msgstr "ЮЮВ"
+#
+msgid "SSW"
+msgstr "ЮЮЗ"
+#
+msgid "STW"
+msgstr "Относ. скорость"
+#
+msgid "SW"
+msgstr "ЮЗ"
+#
+msgid "Select instrument to add:"
+msgstr "Выберите инструмент для добавления:"
+#
+msgid "Small:"
+msgstr "Мелкий текст:"
+#
+msgid "Speedometer"
+msgstr "Спидометр"
+#
+msgid "Speedometer max value:"
+msgstr "Предел спидометра:"
+#
+msgid "Statute miles"
+msgstr "с. м."
+#
+msgid "Sum Log"
+msgstr "Итоговый журнал"
+#
+msgid "Sunrise/Sunset"
+msgstr "Восход-заход"
+#
+msgid "Title:"
+msgstr "Заголовок:"
+#
+msgid "Trip Log"
+msgstr "Журнал плавания"
+#
+msgid "True Compass"
+msgstr "Истинный компас"
+#
+msgid "True HDG"
+msgstr "Ист. путевой угол"
+#
+msgid "True Wind Angle"
+msgstr "Ист. угол ветра"
+#
+msgid "True Wind Angle & Speed"
+msgstr "Ист. угол и скор. ветра"
+#
+msgid "True Wind Dir. & Speed"
+msgstr "Ист. направл. и скор. ветра"
+#
+msgid "True Wind Direction"
+msgstr "Ист. направл. ветра"
+#
+msgid "True Wind Speed"
+msgstr "Ист. скорость ветра"
+#
+msgid "Units, Ranges, Formats"
+msgstr "Единицы измерения, форматы"
+#
+msgid "Up"
+msgstr "Вверх"
+#
+msgid "VMG"
+msgstr "Эффект. скорость"
+#
+msgid "Vertical"
+msgstr "вертикальная"
+#
+msgid "W"
+msgstr "З"
+#
+msgid "WNW"
+msgstr "ЗСЗ"
+#
+msgid "WSW"
+msgstr "ЗЮЗ"
+#
+msgid "Water Temp."
+msgstr "Температура воды"
+#
+msgid "Wind history"
+msgstr "История ветра"
+#
+msgid "Wind speed units:"
+msgstr "Единицы скорости ветра:"
+#
+msgid "km/h"
+msgstr "км/ч"
+#
+msgid "m/s"
+msgstr "м/с"
+#
+msgid "mph"
+msgstr "миль/ч"
+#
+msgid "show this dashboard"
+msgstr "Показать эту панель"

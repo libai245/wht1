@@ -1,0 +1,4222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-24 23:40-0500\n"
+"PO-Revision-Date: 2014-12-24 19:04-0500\n"
+"Last-Translator: nohal <pavel@kalian.cz>\n"
+"Language-Team: Portuguese\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-File: /po/opencpn.pot\n"
+#
+msgid ""
+"\n"
+" - your GPS offset from bow must be within your ship's length"
+msgstr ""
+#
+msgid ""
+"\n"
+" - your GPS offset from midship must be within your ship's beam"
+msgstr ""
+#
+msgid ""
+"\n"
+" - your minimum ship icon size must be between 1 and 100 mm"
+msgstr ""
+#
+msgid ""
+"\n"
+" - your ship's beam must be > 0"
+msgstr ""
+#
+msgid ""
+"\n"
+" - your ship's length must be > 0"
+msgstr ""
+#
+msgid ""
+"\n"
+"OpenCPN is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied\n"
+"warranty of MERCHANTABILITY or FITNESS FOR A\n"
+"PARTICULAR PURPOSE.\n"
+"See the GNU General Public License for more details.\n"
+"\n"
+"OpenCPN must only be used in conjunction with approved\n"
+"paper charts and traditional methods of navigation.\n"
+"\n"
+"DO NOT rely upon OpenCPN for safety of life or property.\n"
+"\n"
+"Please click \"OK\" to agree and proceed, \"Cancel\" to quit.\n"
+msgstr ""
+#
+msgid "    Incompatible PlugIn detected:"
+msgstr ""
+#
+msgid "   Chart File RLL data corrupt on chart "
+msgstr "Ficheiro de carta corrompido.. a desactivar carta"
+#
+msgid "   Chart File contains less than 3 PLY points: "
+msgstr ""
+#
+msgid "   Chart File corrupt in PostInit() on chart "
+msgstr "Ficheiro de carta corrompido.. a desactivar carta"
+#
+msgid "   Chart file has no BSB header, cannot Init."
+msgstr ""
+#
+#, c-format
+msgid "   Could not read first %d bytes of header for chart file: "
+msgstr ""
+#
+msgid "   Error creating Line Index for chart "
+msgstr ""
+#
+msgid ""
+"   External application \"xcalib\" not found. Screen brightness not changed."
+msgstr ""
+#
+msgid "   Line Index corrupt, recreating Index for chart "
+msgstr ""
+#
+msgid "   Result: OK, Internal georef solution used."
+msgstr ""
+#
+msgid "   Trying again with internally calculated georef solution "
+msgstr ""
+#
+msgid ""
+"   VP Final Check with internal georef: Georeference Chart_Error_Factor on "
+"chart "
+msgstr ""
+#
+msgid "   VP Final Check: Georeference Chart_Error_Factor on chart "
+msgstr ""
+#
+msgid " %D Days  %H Hours  %M Minutes"
+msgstr " %D Dias  %H Horas  %M Minutos"
+#
+msgid " %H Hours  %M Minutes"
+msgstr " %H Horas  %M Minutos"
+#
+msgid " (Ctrl-Space)"
+msgstr ""
+#
+msgid " (Last Known)"
+msgstr ""
+#
+msgid " - "
+msgstr ""
+#
+msgid " -- [Portable(-p) executing from "
+msgstr ""
+#
+msgid " COG Unavailable"
+msgstr "Não há Carta Disponível"
+#
+msgid " ChartFile:  "
+msgstr ""
+#
+msgid " Datum:  "
+msgstr ""
+#
+msgid " Depth Units:  "
+msgstr "Unid. Sondas"
+#
+msgid " ID:  "
+msgstr ""
+#
+msgid " Name:  "
+msgstr "Nome da Embarcação:"
+#
+msgid " Projection:  "
+msgstr ""
+#
+#, c-format
+msgid " Scale:  1:%d"
+msgstr ""
+#
+msgid " Ship "
+msgstr " Barco: "
+#
+msgid " Soundings:  "
+msgstr "Sonda Reduzida"
+#
+msgid " Source Edition:  "
+msgstr ""
+#
+msgid " Updated:  "
+msgstr ""
+#
+msgid " for details."
+msgstr ""
+#
+msgid " is incompatible with this version of OpenCPN."
+msgstr ""
+#
+msgid ""
+" shorter than rhumbline.\n"
+"\n"
+msgstr ""
+#
+msgid " to "
+msgstr ""
+#
+msgid "\" is empty, switching to \"All Active Charts\" group."
+msgstr ""
+#
+msgid "\"Ship Name\" MMSI (Call Sign)"
+msgstr ""
+#
+msgid "%D Days, %H:%M"
+msgstr ""
+#
+msgid "%H:%M"
+msgstr ""
+#
+msgid "&AIS"
+msgstr ""
+#
+msgid "&Acknowledge"
+msgstr ""
+#
+msgid "&Activate"
+msgstr "Activar Rota"
+#
+msgid "&Cancel"
+msgstr "&Cancelar"
+#
+msgid "&Center View"
+msgstr ""
+#
+msgid "&Copy all as text"
+msgstr ""
+#
+msgid "&Copy as text"
+msgstr ""
+#
+msgid "&Delete"
+msgstr "Eliminar Marca"
+#
+msgid "&Delete All"
+msgstr "Eliminar Marca"
+#
+msgid "&Export selected..."
+msgstr "Exportar...."
+#
+msgid "&Font family:"
+msgstr "&Tipo:"
+#
+msgid "&Go To"
+msgstr "Mover Barco Para Aqui"
+#
+msgid "&Help"
+msgstr ""
+#
+msgid "&Jump To"
+msgstr ""
+#
+msgid "&Merge Selected Tracks"
+msgstr "Apagar Rastro"
+#
+msgid "&Navigate"
+msgstr ""
+#
+msgid "&New"
+msgstr ""
+#
+msgid "&OK"
+msgstr "&Aceitar"
+#
+msgid "&Point size:"
+msgstr "&Pontos:"
+#
+msgid "&Properties"
+msgstr "Propriedades"
+#
+msgid "&Properties..."
+msgstr "Propriedades"
+#
+msgid "&Remove Selected"
+msgstr "Apagar Rastro"
+#
+msgid "&Reverse"
+msgstr "Rota Inversa"
+#
+msgid "&Send to GPS"
+msgstr "Enviar para GPS..."
+#
+msgid "&Silence Alert"
+msgstr ""
+#
+msgid "&Start Track"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "&Style:"
+msgstr "&Estilo:"
+#
+msgid "&Tools"
+msgstr ""
+#
+msgid "&Underline"
+msgstr "&Sublinhar"
+#
+msgid "&View"
+msgstr ""
+#
+msgid "&Waypoint Properties..."
+msgstr "Propriedades"
+#
+msgid "&Weight:"
+msgstr "&Largura:"
+#
+msgid "(Unnamed Layer)"
+msgstr "Finalizar Rota"
+#
+msgid "(Unnamed Route)"
+msgstr "Finalizar Rota"
+#
+msgid "(Unnamed Track)"
+msgstr "Finalizar Rota"
+#
+msgid "(Unnamed Waypoint)"
+msgstr "Waypoints"
+#
+msgid "(reserved for future use)"
+msgstr ""
+#
+msgid "(unnamed)"
+msgstr "Finalizar Rota"
+#
+msgid ", and all previous versions,"
+msgstr ""
+#
+msgid "-"
+msgstr ""
+#
+msgid "--"
+msgstr ""
+#
+msgid "---"
+msgstr ""
+#
+msgid "---<<< Warning:  Chart georef accuracy is poor. >>>---"
+msgstr ""
+#
+msgid "---<<< Warning:  Chart georef accuracy may be poor. >>>---"
+msgstr ""
+#
+msgid "..."
+msgstr ""
+#
+msgid "...and TCPA is less than (min)"
+msgstr "  ...e TCPA for inferior a [Minutos]:"
+#
+msgid "0"
+msgstr ""
+#
+msgid "1"
+msgstr ""
+#
+msgid "1 pixel"
+msgstr ""
+#
+msgid "1.0 NM along COG"
+msgstr ""
+#
+msgid "10 pixels"
+msgstr ""
+#
+msgid "115200"
+msgstr ""
+#
+msgid "1200"
+msgstr ""
+#
+msgid "150"
+msgstr ""
+#
+msgid "19200"
+msgstr ""
+#
+msgid "2"
+msgstr ""
+#
+msgid "2 Color"
+msgstr "2 Cores"
+#
+msgid "2 pixels"
+msgstr ""
+#
+msgid "230400"
+msgstr ""
+#
+msgid "2400"
+msgstr ""
+#
+msgid "3"
+msgstr ""
+#
+msgid "3 pixels"
+msgstr ""
+#
+msgid "300"
+msgstr ""
+#
+msgid "38400"
+msgstr ""
+#
+msgid "4"
+msgstr ""
+#
+msgid "4 Color"
+msgstr "4 Cores"
+#
+msgid "4 pixels"
+msgstr ""
+#
+msgid "460800"
+msgstr ""
+#
+msgid "4800"
+msgstr ""
+#
+msgid "5"
+msgstr ""
+#
+msgid "5 pixels"
+msgstr ""
+#
+msgid "57600"
+msgstr ""
+#
+msgid "6"
+msgstr ""
+#
+msgid "6 pixels"
+msgstr ""
+#
+msgid "600"
+msgstr ""
+#
+msgid "7"
+msgstr ""
+#
+msgid "7 pixels"
+msgstr ""
+#
+msgid "8"
+msgstr ""
+#
+msgid "8 pixels"
+msgstr ""
+#
+msgid "9"
+msgstr ""
+#
+msgid "9 pixels"
+msgstr ""
+#
+msgid "921600"
+msgstr ""
+#
+msgid "9600"
+msgstr ""
+#
+msgid "<font size=-2>(Sector angles are True Bearings from Seaward)</font><br>"
+msgstr ""
+#
+msgid "?"
+msgstr ""
+#
+msgid "A"
+msgstr ""
+#
+msgid "AIS"
+msgstr ""
+#
+msgid "AIS MAN OVERBOARD"
+msgstr ""
+#
+msgid "AIS MAN OVERBOARD UPDATE"
+msgstr ""
+#
+msgid "AIS Target List..."
+msgstr "Consulta Destino AIS"
+#
+msgid "AIS Target Name"
+msgstr "Consulta Destino AIS"
+#
+msgid "AIS Target Query"
+msgstr "Consulta Destino AIS"
+#
+msgid "AIS Targets"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "AIS target list"
+msgstr "Consulta Destino AIS"
+#
+msgid "AISRollover"
+msgstr "Alerta AIS"
+#
+msgid "AISTargetAlert"
+msgstr ""
+#
+msgid "AISTargetQuery"
+msgstr "Pesquisa AIS"
+#
+msgid "APB bearing precision"
+msgstr ""
+#
+msgid "APRS"
+msgstr ""
+#
+msgid "APRS Position Report"
+msgstr "Hora Última Aquisição:       "
+#
+msgid "ARPA"
+msgstr ""
+#
+msgid "ARPA radar target"
+msgstr ""
+#
+msgid "About"
+msgstr "Acerca de"
+#
+msgid "About OpenCPN"
+msgstr "Acerca do OpenCPN"
+#
+msgid "Accept Sentences"
+msgstr ""
+#
+msgid "Accept only sentences"
+msgstr ""
+#
+msgid "Activate"
+msgstr "Activar Rota"
+#
+msgid "Activate Next Waypoint"
+msgstr "Activar Seguinte na Rota"
+#
+msgid "Active"
+msgstr "Activar Rota"
+#
+msgid "Active Datasets"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "Add"
+msgstr ""
+#
+msgid "Add Connection"
+msgstr "Opções Tipo Letra"
+#
+msgid "Add Dataset..."
+msgstr ""
+#
+msgid "Add Directory..."
+msgstr "Direcção Vento"
+#
+msgid "Add MMSI Properties"
+msgstr ""
+#
+msgid "Add a directory containing chart files"
+msgstr ""
+#
+msgid "Add new"
+msgstr ""
+#
+msgid "Address"
+msgstr ""
+#
+msgid "Adelie Land"
+msgstr ""
+#
+msgid "Advance route waypoint on arrival only"
+msgstr ""
+#
+msgid "Advanced"
+msgstr ""
+#
+msgid "Afghanistan"
+msgstr ""
+#
+msgid "Aground"
+msgstr ""
+#
+msgid "Aid to Navigation"
+msgstr "Dados de Navegação"
+#
+msgid "Alaska"
+msgstr ""
+#
+msgid "Albania"
+msgstr ""
+#
+msgid "Algeria"
+msgstr ""
+#
+msgid "All"
+msgstr ""
+#
+msgid "All Active Charts"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "All Available Charts"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "All Charts"
+msgstr "Cartas"
+#
+msgid "Altitude"
+msgstr "Latitude"
+#
+msgid "Always"
+msgstr ""
+#
+msgid "Always track"
+msgstr ""
+#
+msgid "American Samoa"
+msgstr ""
+#
+msgid ""
+"An NMEA sentence is generally 3 characters long (like RMC, GGA etc.)\n"
+" It can also have a two letter prefix identifying the source, or TALKER, of "
+"the message.\n"
+" The whole sentences then looks like GPGGA or AITXT.\n"
+" You may filter out all the sentences with certain TALKER prefix (like GP, AI "
+"etc.).\n"
+"\n"
+" The filter accepts just these three formats."
+msgstr ""
+#
+msgid "Anchorage Area: Anchorage closed"
+msgstr ""
+#
+msgid "Anchorage Area: Anchorage open"
+msgstr ""
+#
+msgid "Anchorage Area: Anchoring prohibited"
+msgstr ""
+#
+msgid "Anchorage Area: Deep draft anchorage"
+msgstr ""
+#
+msgid "Anchorage Area: Shallow draft anchorage"
+msgstr ""
+#
+msgid "Anchorage Area: Vessel transfer operations"
+msgstr ""
+#
+msgid "Anchorage created "
+msgstr ""
+#
+msgid "Andorra"
+msgstr ""
+#
+msgid "Angola"
+msgstr ""
+#
+msgid "Anguilla"
+msgstr ""
+#
+msgid "Answering 'No' will create a new waypoint at the same location."
+msgstr ""
+#
+msgid "Answering 'No' will create all new waypoints for this route."
+msgstr ""
+#
+msgid "Antigua and Barbuda"
+msgstr ""
+#
+msgid "Antilles"
+msgstr ""
+#
+msgid "Append Waypoint"
+msgstr "Anexar waypoint"
+#
+msgid "Apply"
+msgstr ""
+#
+msgid "Are you sure you want to delete <ALL> routes?"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to delete <ALL> tracks?"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to delete <ALL> waypoints?"
+msgstr "Confirma Que Quer Apagar <TODOS> Os Waypoints?"
+#
+msgid "Are you sure you want to delete the selected object(s)"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to delete this layer and <ALL> of its contents?"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to delete this route?"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to delete this track?"
+msgstr "Confirma Que Quer Apagar <TODAS> As Rotas?"
+#
+msgid "Are you sure you want to remove this waypoint?"
+msgstr "Confirma Que Quer Apagar <TODOS> Os Waypoints?"
+#
+msgid "Argentine Republic"
+msgstr ""
+#
+msgid "Armenia"
+msgstr ""
+#
+msgid "Arrival Radius"
+msgstr ""
+#
+msgid "Aruba"
+msgstr ""
+#
+msgid "Ascension Island"
+msgstr ""
+#
+msgid "Assumed 1 Mile Point"
+msgstr ""
+#
+msgid "Assumed magnetic variation"
+msgstr ""
+#
+msgid "At Anchor"
+msgstr "Autores"
+#
+msgid "AtoN"
+msgstr ""
+#
+msgid "Australia"
+msgstr ""
+#
+msgid "Austria"
+msgstr ""
+#
+msgid "Authors"
+msgstr "Autores"
+#
+msgid "Auto"
+msgstr ""
+#
+msgid "Auto Follow"
+msgstr "Auto Centrar"
+#
+msgid "AutoSort"
+msgstr ""
+#
+msgid "Automatic Daily Tracks"
+msgstr "Marca de Ancoragem Automática"
+#
+msgid "Avg. speed"
+msgstr ""
+#
+msgid "Azerbaijani Republic"
+msgstr ""
+#
+msgid "Azores"
+msgstr ""
+#
+msgid "B"
+msgstr ""
+#
+msgid "Bahamas"
+msgstr ""
+#
+msgid "Bahrain"
+msgstr ""
+#
+msgid "Bangladesh"
+msgstr ""
+#
+msgid "Barbados"
+msgstr ""
+#
+msgid "Base"
+msgstr ""
+#
+msgid "Base Station"
+msgstr "Destino a:"
+#
+msgid "Basic"
+msgstr "Base"
+#
+msgid "Baudrate"
+msgstr ""
+#
+msgid "Beacon, Isolated Danger"
+msgstr ""
+#
+msgid "Beacon, Port Hand"
+msgstr ""
+#
+msgid "Beacon, Preferred Channel Port Hand"
+msgstr ""
+#
+msgid "Beacon, Preferred Channel Starboard Hand"
+msgstr ""
+#
+msgid "Beacon, Safe Water"
+msgstr ""
+#
+msgid "Beacon, Special Mark"
+msgstr ""
+#
+msgid "Beacon, Starboard Hand"
+msgstr ""
+#
+msgid "Bearing"
+msgstr "Azimute"
+#
+msgid "Bearing (M)"
+msgstr "Azimute"
+#
+msgid "Bearings"
+msgstr ""
+#
+msgid "Belarus"
+msgstr ""
+#
+msgid "Belgium"
+msgstr ""
+#
+msgid "Belize"
+msgstr ""
+#
+msgid "Benin"
+msgstr ""
+#
+msgid "Bermuda"
+msgstr ""
+#
+msgid "Bhutan"
+msgstr ""
+#
+msgid "Black"
+msgstr ""
+#
+msgid "Blacklisted plugin detected..."
+msgstr ""
+#
+msgid "Blue"
+msgstr ""
+#
+msgid "Bolivia"
+msgstr ""
+#
+msgid "Bosnia and Herzegovina"
+msgstr ""
+#
+msgid "Botswana"
+msgstr ""
+#
+msgid "Boundaries"
+msgstr "Limites"
+#
+msgid "Brazil"
+msgstr ""
+#
+msgid "Brg"
+msgstr "Azimute"
+#
+msgid "British Virgin Islands"
+msgstr ""
+#
+msgid "Brunei Darussalam"
+msgstr ""
+#
+msgid "Buddy"
+msgstr ""
+#
+msgid "Bulgaria"
+msgstr ""
+#
+msgid "Buoy/Light Labels"
+msgstr ""
+#
+msgid "Buoys/Lights"
+msgstr ""
+#
+msgid "Burkina Faso"
+msgstr ""
+#
+msgid "Burundi"
+msgstr ""
+#
+msgid "C&olour:"
+msgstr "&Cor:"
+#
+msgid "CM93 Detail Level"
+msgstr "Máximo Detalhe Aqui"
+#
+msgid "CM93 Offset Dialog..."
+msgstr ""
+#
+msgid "COG Predictor Length (min)"
+msgstr "      Vector COG Comprimento Previsto[Minutos]:"
+#
+msgid "CPA"
+msgstr "Alarmes CPA/TCPA"
+#
+msgid "CPA Calculation"
+msgstr "CPA Calculo"
+#
+msgid "CPA TCPA"
+msgstr "Alarmes CPA/TCPA"
+#
+msgid "CPA/TCPA Alerts"
+msgstr "Alarmes CPA/TCPA"
+#
+msgid "Call"
+msgstr "Apagar Tudo"
+#
+msgid "Cambodia"
+msgstr ""
+#
+msgid "Cameroon"
+msgstr ""
+#
+msgid "Canada"
+msgstr ""
+#
+msgid "Cancel"
+msgstr "Cancelar"
+#
+msgid "Cancellation - cancel area as identified by Message Linkage ID"
+msgstr ""
+#
+msgid "Cape Verde"
+msgstr ""
+#
+msgid "Card. E"
+msgstr ""
+#
+msgid "Card. N"
+msgstr ""
+#
+msgid "Card. S"
+msgstr ""
+#
+msgid "Card. W"
+msgstr ""
+#
+msgid "Cardinal E Beacon"
+msgstr ""
+#
+msgid "Cardinal Mark E"
+msgstr ""
+#
+msgid "Cardinal Mark N"
+msgstr ""
+#
+msgid "Cardinal Mark S"
+msgstr ""
+#
+msgid "Cardinal Mark W"
+msgstr ""
+#
+msgid "Cardinal N Beacon"
+msgstr ""
+#
+msgid "Cardinal S Beacon"
+msgstr ""
+#
+msgid "Cardinal W Beacon"
+msgstr ""
+#
+msgid "Cargo Ship"
+msgstr ""
+#
+msgid "Caution Area: Cluster of fishing vessels"
+msgstr ""
+#
+msgid "Caution Area: Derelicts (drifting objects)"
+msgstr ""
+#
+msgid "Caution Area: Divers down"
+msgstr ""
+#
+msgid "Caution Area: Dredge operations"
+msgstr ""
+#
+msgid "Caution Area: Fairway closed"
+msgstr ""
+#
+msgid "Caution Area: Fishery - nets in water"
+msgstr ""
+#
+msgid "Caution Area: Harbour closed"
+msgstr ""
+#
+msgid "Caution Area: Marine event"
+msgstr ""
+#
+msgid "Caution Area: Marine mammals habitat (implies whales NOT observed)"
+msgstr ""
+#
+msgid "Caution Area: Marine mammals in area - reduce speed"
+msgstr ""
+#
+msgid "Caution Area: Marine mammals in area - report sightings"
+msgstr ""
+#
+msgid "Caution Area: Marine mammals in area - stay clear"
+msgstr ""
+#
+msgid "Caution Area: Protected habitat - no fishing or anchoring"
+msgstr ""
+#
+msgid "Caution Area: Protected habitat - reduce speed"
+msgstr ""
+#
+msgid "Caution Area: Protected habitat - stay clear"
+msgstr ""
+#
+msgid "Caution Area: Risk (define in Associated text field)"
+msgstr ""
+#
+msgid "Caution Area: Seaplane operations"
+msgstr ""
+#
+msgid "Caution Area: Survey operations"
+msgstr ""
+#
+msgid "Caution Area: Swim area"
+msgstr ""
+#
+msgid "Caution Area: Traffic congestion"
+msgstr ""
+#
+msgid "Caution Area: Underwater operation"
+msgstr ""
+#
+msgid "Caution Area: Underwater vehicle operation"
+msgstr ""
+#
+msgid "Cayman Islands"
+msgstr ""
+#
+msgid "Cell"
+msgstr "Apagar Tudo"
+#
+msgid "Cell Scale"
+msgstr ""
+#
+msgid "Center View"
+msgstr ""
+#
+msgid "Center View..."
+msgstr ""
+#
+msgid "Central African Republic"
+msgstr ""
+#
+msgid "Chad"
+msgstr ""
+#
+msgid "Change Color Scheme"
+msgstr "Trocar Esquema Cor"
+#
+msgid "Chart Detail"
+msgstr ""
+#
+msgid "Chart Display"
+msgstr ""
+#
+msgid "Chart Feature: Bridge closed"
+msgstr ""
+#
+msgid "Chart Feature: Bridge fully open"
+msgstr ""
+#
+msgid "Chart Feature: Bridge partially open"
+msgstr ""
+#
+msgid "Chart Feature: Channel obstruction"
+msgstr ""
+#
+msgid "Chart Feature: Reduced vertical clearance"
+msgstr ""
+#
+msgid "Chart Feature: Semi-submerged object"
+msgstr ""
+#
+msgid "Chart Feature: Shoal area"
+msgstr ""
+#
+msgid "Chart Feature: Shoal area due east"
+msgstr ""
+#
+msgid "Chart Feature: Shoal area due north"
+msgstr ""
+#
+msgid "Chart Feature: Shoal area due south"
+msgstr ""
+#
+msgid "Chart Feature: Shoal area due west"
+msgstr ""
+#
+msgid "Chart Feature: Submerged object"
+msgstr ""
+#
+msgid "Chart Feature: Sunken vessel"
+msgstr ""
+#
+msgid "Chart Files"
+msgstr ""
+#
+msgid "Chart Groups"
+msgstr "Cartas"
+#
+msgid "Chart Information Objects"
+msgstr "Ícone"
+#
+msgid "Chart Print"
+msgstr "Imprimir Carta"
+#
+msgid "Chart Texts"
+msgstr ""
+#
+msgid "Chart Up Mode"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "Chart Zoom/Scale Weighting"
+msgstr ""
+#
+msgid "Chart1::Event...TCMgr Not Available"
+msgstr "Carta 1 :: Evento...TCMgr Não Disponível"
+#
+msgid "ChartTexts"
+msgstr "Cartas"
+#
+msgid "Charts"
+msgstr "Cartas"
+#
+msgid "Chile"
+msgstr ""
+#
+msgid "China"
+msgstr ""
+#
+msgid "Choose Font Color..."
+msgstr "Escolher Tipo Letra..."
+#
+msgid "Choose Font..."
+msgstr "Escolher Tipo Letra..."
+#
+msgid "Choose Format for Copy"
+msgstr ""
+#
+msgid "Choose a file"
+msgstr ""
+#
+msgid "Christmas Island"
+msgstr ""
+#
+msgid "Class"
+msgstr "Fechar"
+#
+msgid "Clear"
+msgstr "Apagar Tudo"
+#
+msgid "Clear All"
+msgstr "Apagar Tudo"
+#
+msgid "Clear Anchor Watch"
+msgstr ""
+#
+msgid "Clear Texture Cache"
+msgstr ""
+#
+msgid "Clearance granted - proceed to berth"
+msgstr ""
+#
+msgid "Click to cancel the font selection."
+msgstr "Pulse para cancelar selecção tipo letra."
+#
+msgid "Click to confirm the font selection."
+msgstr "Pulse para confirmar selecção de letra."
+#
+msgid "Close"
+msgstr "Fechar"
+#
+msgid "CoG"
+msgstr ""
+#
+msgid "Cocos"
+msgstr ""
+#
+msgid "Colombia"
+msgstr ""
+#
+msgid "Color"
+msgstr "&Cor:"
+#
+msgid "Color:"
+msgstr "&Cor:"
+#
+msgid "Colors"
+msgstr "Cores"
+#
+msgid "Combo!"
+msgstr ""
+#
+msgid "Comoros"
+msgstr ""
+#
+msgid "Comoros (Union of the)"
+msgstr ""
+#
+msgid "Confirm deletion of tracks and routes"
+msgstr ""
+#
+msgid "Congo"
+msgstr ""
+#
+msgid "Connection"
+msgstr "Opções Tipo Letra"
+#
+msgid "Connections"
+msgstr "Opções Tipo Letra"
+#
+msgid "Console Legend"
+msgstr ""
+#
+msgid "Console Value"
+msgstr ""
+#
+msgid "Constrained by draught"
+msgstr ""
+#
+msgid "Control checksum"
+msgstr ""
+#
+msgid "Controls"
+msgstr ""
+#
+msgid "Convert AIVDM to AIVDO for this MMSI"
+msgstr ""
+#
+msgid "Cook Islands"
+msgstr ""
+#
+msgid "Copy"
+msgstr ""
+#
+msgid "Copy As KML"
+msgstr ""
+#
+msgid "Copy Log File to Clipboard"
+msgstr ""
+#
+msgid "Copy Settings File to Clipboard"
+msgstr ""
+#
+msgid "Copy as KML"
+msgstr ""
+#
+msgid "Copy as KML..."
+msgstr ""
+#
+msgid "Copy lat/long"
+msgstr ""
+#
+msgid "Costa Rica"
+msgstr ""
+#
+msgid "Course"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "Course (M)"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "Course Up"
+msgstr ""
+#
+msgid "Course Up Mode"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "Course-Up Update Period"
+msgstr ""
+#
+msgid "Create Route"
+msgstr "Criar Rota"
+#
+msgid "Create WPT"
+msgstr "Eliminar waypoint"
+#
+msgid "Create Waypoint"
+msgstr "Eliminar waypoint"
+#
+msgid "Croatia"
+msgstr ""
+#
+msgid "Crozet Archipelago"
+msgstr ""
+#
+msgid "Cuba"
+msgstr ""
+#
+msgid "Current"
+msgstr ""
+#
+msgid "CurrentValue"
+msgstr "Corrente"
+#
+msgid "Cyan"
+msgstr "Cancelar"
+#
+msgid "Cyprus"
+msgstr ""
+#
+msgid "Czech Republic"
+msgstr ""
+#
+msgid "D/V"
+msgstr ""
+#
+msgid "DSC"
+msgstr ""
+#
+msgid "DSC Distress"
+msgstr "Distancia"
+#
+msgid "DSC Position Report"
+msgstr "Hora Última Aquisição:       "
+#
+msgid "Dark Blue"
+msgstr ""
+#
+msgid "Dark Cyan"
+msgstr ""
+#
+msgid "Dark Gray"
+msgstr ""
+#
+msgid "Dark Green"
+msgstr ""
+#
+msgid "Dark Magenta"
+msgstr ""
+#
+msgid "Dark Red"
+msgstr ""
+#
+msgid "Dark Yellow"
+msgstr ""
+#
+msgid "Data Connections"
+msgstr "Opções Tipo Letra"
+#
+msgid "Data Source :"
+msgstr ""
+#
+msgid "Data connection must be input, output or both"
+msgstr ""
+#
+msgid "DataPort"
+msgstr "AIS Porta de dados"
+#
+msgid "Daytime"
+msgstr ""
+#
+msgid "De-Cluttered Text"
+msgstr "Desobstruir Texto (exp.)"
+#
+msgid "Deactivate"
+msgstr "Desactivar Rota"
+#
+msgid "Decimal Degrees"
+msgstr ""
+#
+msgid "Deep Depth"
+msgstr "águas livres"
+#
+msgid "Default"
+msgstr "Cor da Letra."
+#
+msgid "Default color"
+msgstr "Cor da Letra."
+#
+msgid "Default tracking"
+msgstr ""
+#
+msgid "Degrees, Decimal Minutes"
+msgstr ""
+#
+msgid "Degrees, Minutes, Seconds"
+msgstr ""
+#
+msgid "Delete"
+msgstr "Eliminar Marca"
+#
+msgid "Delete All"
+msgstr "Seleccionar Tudo"
+#
+msgid "Delete Group"
+msgstr "Apagar Rota"
+#
+msgid "Delete Waypoint"
+msgstr "Eliminar waypoint"
+#
+msgid "Delete..."
+msgstr "Eliminar Marca"
+#
+msgid "Dem Rep.of the Congo"
+msgstr ""
+#
+msgid "Denmark"
+msgstr ""
+#
+msgid "Depart From"
+msgstr "Partida de:"
+#
+msgid "Departure Time (m/d/y h:m)"
+msgstr ""
+#
+msgid "Depth"
+msgstr ""
+#
+msgid "Depth Soundings"
+msgstr "Sonda Reduzida"
+#
+msgid "Description"
+msgstr "Descrição"
+#
+msgid "Destination"
+msgstr "Destino a:"
+#
+msgid "Dialog"
+msgstr ""
+#
+msgid "Directories"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "Disable"
+msgstr "Distancia"
+#
+msgid "Disable Full Screen Quilting"
+msgstr ""
+#
+msgid "Disable Tracking"
+msgstr ""
+#
+msgid "Display"
+msgstr "Mostrar"
+#
+msgid "Display Category"
+msgstr "Tipo de Visualização"
+#
+msgid "Display Features"
+msgstr ""
+#
+msgid "Display Options"
+msgstr "Opções de Visualização Cartas"
+#
+msgid "Display parameters"
+msgstr "Tipo de Visualização"
+#
+msgid "Distance"
+msgstr "Distancia"
+#
+msgid "Distance Between Rings"
+msgstr "Distancia entre Círculos"
+#
+msgid "Distance Unit"
+msgstr "Distancia"
+#
+msgid "Distance from Ownship"
+msgstr "Distancia"
+#
+msgid "Distress"
+msgstr "Distancia"
+#
+msgid "Distress Area: Person overboard"
+msgstr ""
+#
+msgid "Distress Area: Pollution response area"
+msgstr ""
+#
+msgid "Distress Area: SAR area"
+msgstr ""
+#
+msgid "Distress Area: Vessel abandoning ship"
+msgstr ""
+#
+msgid "Distress Area: Vessel collision"
+msgstr ""
+#
+msgid "Distress Area: Vessel disabled and adrift"
+msgstr ""
+#
+msgid "Distress Area: Vessel fire/explosion"
+msgstr ""
+#
+msgid "Distress Area: Vessel flooding"
+msgstr ""
+#
+msgid "Distress Area: Vessel grounding"
+msgstr ""
+#
+msgid "Distress Area: Vessel listing/capsizing"
+msgstr ""
+#
+msgid "Distress Area: Vessel requests medical assistance"
+msgstr ""
+#
+msgid "Distress Area: Vessel sinking"
+msgstr ""
+#
+msgid "Distress Area: Vessel under assault"
+msgstr ""
+#
+msgid "Djibouti"
+msgstr ""
+#
+msgid ""
+"Do you also want to make the shared waypoints being part of this route "
+"invisible?"
+msgstr ""
+#
+msgid "Dominica"
+msgstr ""
+#
+msgid "Dominican Republic"
+msgstr ""
+#
+msgid "Done."
+msgstr ""
+#
+msgid "Dot"
+msgstr ""
+#
+msgid "Dot dash"
+msgstr ""
+#
+msgid "Dredge"
+msgstr ""
+#
+msgid "Drop MOB Marker"
+msgstr "Colocar Marca Aqui"
+#
+msgid "Drop Mark"
+msgstr "Colocar Marca Aqui"
+#
+msgid "Drop Mark at Boat"
+msgstr ""
+#
+msgid "Drop Mark at Cursor"
+msgstr ""
+#
+msgid "Drop Sentences"
+msgstr ""
+#
+msgid "Drop sentences"
+msgstr ""
+#
+msgid "ETA"
+msgstr "ETE"
+#
+msgid "ETA          "
+msgstr ""
+#
+msgid "ETA (UTC)"
+msgstr ""
+#
+msgid "ETE"
+msgstr ""
+#
+msgid "ETE/ETD"
+msgstr "ETE"
+#
+msgid "Ecuador"
+msgstr ""
+#
+msgid "Edit"
+msgstr ""
+#
+msgid "Edit MMSI Properties"
+msgstr ""
+#
+msgid "Edit..."
+msgstr ""
+#
+msgid "Egypt"
+msgstr ""
+#
+msgid "El Salvador"
+msgstr ""
+#
+msgid "Elapsed time : "
+msgstr ""
+#
+msgid "Elements to print..."
+msgstr ""
+#
+msgid "Enable"
+msgstr ""
+#
+msgid "Enable Chart Quilting"
+msgstr ""
+#
+msgid "Enable Tablet Scaled Graphics interface"
+msgstr ""
+#
+msgid "Enable Target Alert Acknowledge timeout (min)"
+msgstr ""
+#
+msgid "Enable Touchscreen interface"
+msgstr ""
+#
+msgid "Enable Tracking"
+msgstr ""
+#
+msgid "Enable Transparent Toolbar"
+msgstr ""
+#
+msgid "End Route"
+msgstr "Finalizar Rota"
+#
+msgid "Engaged in Fishing"
+msgstr ""
+#
+msgid "Enter Full Screen"
+msgstr ""
+#
+msgid "Enter Group Name"
+msgstr ""
+#
+msgid "Enter the NMEA sentence"
+msgstr ""
+#
+msgid "Enter the NMEA sentence (2, 3 or 5 characters)"
+msgstr ""
+#
+msgid "Environmental Caution Area: Hazardous sea ice"
+msgstr ""
+#
+msgid "Environmental Caution Area: Heavy icing"
+msgstr ""
+#
+msgid "Environmental Caution Area: High waves"
+msgstr ""
+#
+msgid "Environmental Caution Area: High wind"
+msgstr ""
+#
+msgid "Environmental Caution Area: Restricted visibility (fog, rain, etc.)"
+msgstr ""
+#
+msgid "Environmental Caution Area: Storm front (line squall)"
+msgstr ""
+#
+msgid "Environmental Caution Area: Storm warning (storm cell or line of storms)"
+msgstr ""
+#
+msgid "Environmental Caution Area: Strong currents"
+msgstr ""
+#
+msgid "Equatorial Guinea"
+msgstr ""
+#
+msgid "Eritrea"
+msgstr ""
+#
+msgid "Error on Waypoint Upload.  Garmin GPS not connected"
+msgstr ""
+#
+msgid "Error on Waypoint Upload.  Please check logfiles..."
+msgstr ""
+#
+msgid "Estimated time : "
+msgstr ""
+#
+msgid "Estonia"
+msgstr ""
+#
+msgid "Ethiopia"
+msgstr ""
+#
+msgid "EvTwilight"
+msgstr ""
+#
+msgid "Export"
+msgstr "Exportar...."
+#
+msgid "Export All Visible..."
+msgstr "Exportar...."
+#
+msgid "Export GPX file"
+msgstr "Exportar Fichero GPX"
+#
+msgid "Extend"
+msgstr "Finalizar Rota"
+#
+msgid "Extend Route"
+msgstr "Finalizar Rota"
+#
+msgid "Extend Track"
+msgstr "Apagar Rastro"
+#
+msgid "Extended"
+msgstr "Finalizar Rota"
+#
+msgid "Extended Light Sectors"
+msgstr ""
+#
+msgid "ExtendedTideIcon"
+msgstr ""
+#
+msgid "F/V"
+msgstr ""
+#
+msgid "Failed to initialize the user interface. "
+msgstr ""
+#
+msgid "Falkland Islands"
+msgstr ""
+#
+msgid "Faroe Islands"
+msgstr ""
+#
+msgid "Fathoms"
+msgstr "Braças"
+#
+msgid "Feet"
+msgstr "Pés"
+#
+msgid "Fiji"
+msgstr ""
+#
+msgid "Filter NMEA Course and Speed data"
+msgstr ""
+#
+msgid "Filter period (sec)"
+msgstr ""
+#
+msgid "Filters"
+msgstr "&Kilómetros"
+#
+msgid "Finland"
+msgstr ""
+#
+msgid "Fix.Struct."
+msgstr ""
+#
+msgid "Fixed Structure"
+msgstr ""
+#
+msgid "Flag"
+msgstr ""
+#
+msgid "Fonts"
+msgstr ""
+#
+msgid "For this leg the Great Circle route is "
+msgstr ""
+#
+msgid "Force Full Database Rebuild"
+msgstr "Forçar a Reconstrução da Base de Dados de Cartas"
+#
+msgid "Format uploads for Furuno GP3X"
+msgstr ""
+#
+msgid "France"
+msgstr ""
+#
+msgid "French Polynesia"
+msgstr ""
+#
+msgid "From"
+msgstr ""
+#
+msgid "Full Route"
+msgstr "Apagar Rota"
+#
+msgid "GPS Offset from Bow (m)"
+msgstr ""
+#
+msgid "GPS Offset from Midship (m)"
+msgstr ""
+#
+msgid "GPSD"
+msgstr ""
+#
+msgid "GPSGate Buddy"
+msgstr ""
+#
+msgid "GPX"
+msgstr ""
+#
+msgid "GUID"
+msgstr ""
+#
+msgid "Gabonese Republic"
+msgstr ""
+#
+msgid "Gambia"
+msgstr ""
+#
+msgid "General"
+msgstr "AIS Geral"
+#
+msgid "General Options"
+msgstr "Opções de Interface (GUI)"
+#
+msgid "Georgia"
+msgstr ""
+#
+msgid "Germany"
+msgstr ""
+#
+msgid "Ghana"
+msgstr ""
+#
+msgid "Gibraltar"
+msgstr ""
+#
+msgid "Go to "
+msgstr "Mover Barco Para Aqui"
+#
+msgid "GpsGate Buddy"
+msgstr ""
+#
+msgid "Graphics"
+msgstr ""
+#
+msgid "Graphics Style"
+msgstr ""
+#
+msgid "Great Britain"
+msgstr ""
+#
+msgid "Greece"
+msgstr ""
+#
+msgid "Green"
+msgstr ""
+#
+msgid "Greenland"
+msgstr ""
+#
+msgid "Grenada"
+msgstr ""
+#
+msgid "Group \""
+msgstr ""
+#
+msgid "Guadeloupe"
+msgstr ""
+#
+msgid "Guatemala"
+msgstr ""
+#
+msgid "Guiana"
+msgstr ""
+#
+msgid "Guinea"
+msgstr ""
+#
+msgid "Guinea-Bissau"
+msgstr ""
+#
+msgid "Guyana"
+msgstr ""
+#
+msgid "HSC"
+msgstr ""
+#
+msgid "HW"
+msgstr ""
+#
+msgid "Haiti"
+msgstr ""
+#
+msgid "Handle this MMSI as SART/PLB(AIS) MOB."
+msgstr ""
+#
+msgid "Heading"
+msgstr ""
+#
+msgid "Heading Predictor Length (NMi)"
+msgstr ""
+#
+msgid "Help"
+msgstr "Ajuda"
+#
+msgid "Here"
+msgstr "Metros"
+#
+msgid "Hide AIS Targets"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Hide All Tracks"
+msgstr "Consulta Destino AIS"
+#
+msgid "Hide Currents"
+msgstr ""
+#
+msgid "Hide ENC Text (T)"
+msgstr ""
+#
+msgid "Hide Target CPA"
+msgstr "Consulta Destino AIS"
+#
+msgid "Hide Target Track"
+msgstr "Consulta Destino AIS"
+#
+msgid "Hide This Chart"
+msgstr ""
+#
+msgid "Hide Tides"
+msgstr ""
+#
+msgid "Hide WPT names"
+msgstr ""
+#
+msgid "Hide anchored/moored targets, speed max (kn)"
+msgstr "Esconder embarcações alvo Ancoradas/Amarradas"
+#
+msgid "Hide from chart"
+msgstr ""
+#
+msgid "High"
+msgstr ""
+#
+msgid "High Speed Craft"
+msgstr ""
+#
+msgid "Highlight Tracks"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Honduras"
+msgstr ""
+#
+msgid "Hong Kong"
+msgstr ""
+#
+msgid "Hungary"
+msgstr ""
+#
+msgid "I&mport GPX..."
+msgstr "Exportar...."
+#
+msgid "IMO"
+msgstr ""
+#
+msgid "Iceland"
+msgstr ""
+#
+msgid "Icon"
+msgstr "Ícone"
+#
+msgid "If checked, only the sentences with a valid checksum are passed through"
+msgstr ""
+#
+msgid "Ignore"
+msgstr ""
+#
+msgid "Ignore Sentences"
+msgstr ""
+#
+msgid "Ignore sentences"
+msgstr ""
+#
+msgid "Ignore this MMSI"
+msgstr ""
+#
+msgid "Import GPX file"
+msgstr "Importar Fichero GPX"
+#
+msgid "Important Text Only"
+msgstr "Só Texto Importante"
+#
+msgid "Incompatible PlugIn detected:\n"
+msgstr ""
+#
+msgid "India"
+msgstr ""
+#
+msgid "Indonesia"
+msgstr ""
+#
+msgid "Information Message or Message with errors"
+msgstr ""
+#
+msgid "Information: Icebreaker waiting area"
+msgstr ""
+#
+msgid "Information: Location of response units"
+msgstr ""
+#
+msgid "Information: Pilot boarding position"
+msgstr ""
+#
+msgid "Information: Places of refuge"
+msgstr ""
+#
+msgid "Information: Position of icebreakers"
+msgstr ""
+#
+msgid "Inland Blue Flag"
+msgstr ""
+#
+msgid "Input Message filtered and dropped"
+msgstr ""
+#
+msgid "Input filtering"
+msgstr ""
+#
+msgid "Input message filtered, output message filtered and dropped"
+msgstr ""
+#
+msgid "Insert Waypoint"
+msgstr "Inserir Waypoint"
+#
+msgid ""
+"Instruction: Await instructions prior to proceeding beyond this point/juncture"
+msgstr ""
+#
+msgid "Instruction: Contact Port Administration at this point/juncture"
+msgstr ""
+#
+msgid "Instruction: Contact VTS at this point/juncture"
+msgstr ""
+#
+msgid "Instruction: Do not proceed beyond this point/juncture"
+msgstr ""
+#
+msgid "Interface Options"
+msgstr ""
+#
+msgid "Iran"
+msgstr ""
+#
+msgid "Iraq"
+msgstr ""
+#
+msgid "Ireland"
+msgstr ""
+#
+msgid "Isol. Dngr"
+msgstr ""
+#
+msgid "Isolated Danger"
+msgstr ""
+#
+msgid "Israel"
+msgstr ""
+#
+msgid "It seems you have no tide/current harmonic data installed."
+msgstr ""
+#
+msgid "Italy"
+msgstr ""
+#
+msgid "Ivory Coast"
+msgstr ""
+#
+msgid "Jamaica"
+msgstr ""
+#
+msgid "Japan"
+msgstr ""
+#
+msgid "Jordan"
+msgstr ""
+#
+msgid "KML Standard (Google Earth and others)"
+msgstr ""
+#
+msgid "KML with extended waypoint data (QtVlm)"
+msgstr ""
+#
+msgid "Kazakhstan"
+msgstr ""
+#
+msgid "Kenya"
+msgstr ""
+#
+msgid "Kerguelen Islands"
+msgstr ""
+#
+msgid "Kilometers"
+msgstr "&Kilómetros"
+#
+msgid "Kiribati"
+msgstr ""
+#
+msgid "Knots"
+msgstr ""
+#
+msgid "Korea"
+msgstr ""
+#
+msgid "Kuwait"
+msgstr ""
+#
+msgid "Kyrgyz Republic"
+msgstr ""
+#
+msgid "LE/V"
+msgstr ""
+#
+msgid "LMT @ Location"
+msgstr ""
+#
+msgid "LMT @ Track Start"
+msgstr ""
+#
+msgid "LW"
+msgstr ""
+#
+msgid "Language"
+msgstr "Idioma"
+#
+msgid "Lao People's Dem. Rep."
+msgstr ""
+#
+msgid "Larger Scale Chart"
+msgstr ""
+#
+msgid "Lat/Long"
+msgstr ""
+#
+msgid "Latitude"
+msgstr ""
+#
+msgid "Latvia"
+msgstr ""
+#
+msgid "Law Enforcement Vessel"
+msgstr ""
+#
+msgid "Layer Name"
+msgstr "Nome"
+#
+msgid "Layer Route"
+msgstr "Criar Rota"
+#
+msgid "Layer Route: "
+msgstr "Criar Rota"
+#
+msgid "Layer Routepoint"
+msgstr ""
+#
+msgid "Layer Track"
+msgstr "Exportar...."
+#
+msgid "Layer Waypoint"
+msgstr "Activar waypoint"
+#
+msgid "Layers"
+msgstr ""
+#
+msgid "Ldg Lt Front"
+msgstr ""
+#
+msgid "Ldg Lt Rear"
+msgstr ""
+#
+msgid "Leading Light Front"
+msgstr ""
+#
+msgid "Leading Light Rear"
+msgstr ""
+#
+msgid "Lebanon"
+msgstr ""
+#
+msgid "Left"
+msgstr ""
+#
+msgid "Leg"
+msgstr "Perna"
+#
+msgid "Leg: from "
+msgstr "Perna"
+#
+msgid "Legend"
+msgstr ""
+#
+msgid "Length"
+msgstr "Perna"
+#
+msgid "Length Over All (m)"
+msgstr ""
+#
+msgid "Lesotho"
+msgstr ""
+#
+msgid "Liberia"
+msgstr ""
+#
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+#
+msgid "License"
+msgstr "Licença"
+#
+msgid "Liechtenstein"
+msgstr ""
+#
+msgid "Light"
+msgstr "&Largura:"
+#
+msgid "Light Descriptions"
+msgstr "Características sinais luminosos"
+#
+msgid "Light Gray"
+msgstr "&Largura:"
+#
+msgid "Light Vessel/Rig"
+msgstr ""
+#
+msgid "Light w/Sectors"
+msgstr ""
+#
+msgid "Limit range: NM"
+msgstr ""
+#
+msgid "Link"
+msgstr "Ligações"
+#
+msgid "Link Properties"
+msgstr "Propriedades de Marca/WP"
+#
+msgid "Link description"
+msgstr "Descrição"
+#
+msgid "Link not complete, can't be saved."
+msgstr ""
+#
+msgid "Links"
+msgstr "Ligações"
+#
+msgid "Links are opened for editing."
+msgstr ""
+#
+msgid "Links are opened in the default browser."
+msgstr ""
+#
+msgid "List contents"
+msgstr "Licença"
+#
+msgid "Lithuania"
+msgstr ""
+#
+msgid "Local @ PC"
+msgstr ""
+#
+msgid "Local file..."
+msgstr ""
+#
+msgid "Lock Waypoints (Unless waypoint property dialog visible)"
+msgstr ""
+"Bloquear todos os Waypoints a menos que esteja aberta a janela de "
+"propriedades de Waypoints"
+#
+msgid "Long Tow"
+msgstr ""
+#
+msgid "Long dash"
+msgstr ""
+#
+msgid "Longitude"
+msgstr ""
+#
+msgid "Look Ahead Mode"
+msgstr ""
+#
+msgid "Lost Targets"
+msgstr "Alvo Perdido"
+#
+msgid "Low"
+msgstr ""
+#
+msgid "Lt"
+msgstr ""
+#
+msgid "Lt sect."
+msgstr ""
+#
+msgid "LtV/Rig"
+msgstr ""
+#
+msgid "Luxembourg"
+msgstr ""
+#
+msgid "M/T"
+msgstr ""
+#
+msgid "M/V"
+msgstr ""
+#
+msgid "MAN OVERBOARD"
+msgstr "HOMEM À ÁGUA"
+#
+msgid "MMSI"
+msgstr ""
+#
+msgid "MMSI Extended Properties"
+msgstr ""
+#
+msgid "MMSI Properties"
+msgstr ""
+#
+msgid "MOB"
+msgstr ""
+#
+msgid "M_COVR ID"
+msgstr ""
+#
+msgid "Macao"
+msgstr ""
+#
+msgid "Macedonia"
+msgstr ""
+#
+msgid "Madagascar"
+msgstr ""
+#
+msgid "Madeira"
+msgstr ""
+#
+msgid "Magenta"
+msgstr ""
+#
+msgid "Malawi"
+msgstr ""
+#
+msgid "Malaysia"
+msgstr ""
+#
+msgid "Maldives"
+msgstr ""
+#
+msgid "Mali"
+msgstr ""
+#
+msgid "Malta"
+msgstr ""
+#
+msgid "Manual:"
+msgstr ""
+#
+msgid "Mariner's Standard"
+msgstr "Standard Marítimo"
+#
+msgid "Mark targets as lost after (min)"
+msgstr "Marcar Embarcações como alvo perdido após [Minutos]:"
+#
+msgid "Marks"
+msgstr "Nova Marca"
+#
+msgid "Marshall Islands"
+msgstr ""
+#
+msgid "Martinique"
+msgstr ""
+#
+msgid "Mauritania"
+msgstr ""
+#
+msgid "Mauritius"
+msgstr ""
+#
+msgid "Max Detail Here"
+msgstr "Máximo Detalhe Aqui"
+#
+msgid "Measure"
+msgstr "Terminar Medição"
+#
+msgid "Measure Distance"
+msgstr ""
+#
+msgid "Measure Off"
+msgstr "Terminar Medição"
+#
+msgid "Med/V"
+msgstr ""
+#
+msgid "Medical Transport"
+msgstr ""
+#
+msgid "Medium"
+msgstr ""
+#
+msgid "Menu"
+msgstr ""
+#
+msgid "Mercator"
+msgstr ""
+#
+msgid "Merge waypoint?"
+msgstr "Waypoints"
+#
+msgid "Merge waypoints?"
+msgstr "Waypoints"
+#
+msgid "Message accepted"
+msgstr ""
+#
+msgid "Meters"
+msgstr "Metros"
+#
+msgid "Mexico"
+msgstr ""
+#
+msgid "Micronesia"
+msgstr ""
+#
+msgid "Mil/V"
+msgstr ""
+#
+msgid "Military Vessel"
+msgstr ""
+#
+msgid "Minimum Screen Size (mm)"
+msgstr ""
+#
+msgid "MoTwilight"
+msgstr ""
+#
+msgid "Moldova"
+msgstr ""
+#
+msgid "Monaco"
+msgstr ""
+#
+msgid "Mongolia"
+msgstr ""
+#
+msgid "Montenegro"
+msgstr ""
+#
+msgid "Montserrat"
+msgstr ""
+#
+msgid "Moored"
+msgstr ""
+#
+msgid "Morocco"
+msgstr ""
+#
+msgid "Move Boat Here"
+msgstr "Mover Barco Para Aqui"
+#
+msgid "Move Waypoint"
+msgstr "Para Waypoint"
+#
+msgid "Mozambique"
+msgstr ""
+#
+msgid "Mph"
+msgstr ""
+#
+msgid "Myanmar"
+msgstr ""
+#
+msgid "NMEA"
+msgstr ""
+#
+msgid "NMEA 0183"
+msgstr ""
+#
+msgid "NMEA 2000"
+msgstr ""
+#
+msgid "NMi"
+msgstr ""
+#
+msgid "Name"
+msgstr "Nome"
+#
+msgid "Namibia"
+msgstr ""
+#
+msgid "National text on chart"
+msgstr ""
+#
+msgid "Nauru"
+msgstr ""
+#
+msgid "Nautical Miles"
+msgstr "&Milhas Náuticas"
+#
+msgid "Nautical miles"
+msgstr "&Milhas Náuticas"
+#
+msgid "Nav Status"
+msgstr "Condição de Navegação:  "
+#
+msgid "Navigate To Here"
+msgstr "Dados de Navegação"
+#
+msgid "Navigate To This"
+msgstr ""
+#
+msgid "Navigation Mode"
+msgstr ""
+#
+msgid "Nepal"
+msgstr ""
+#
+msgid "Netherlands"
+msgstr ""
+#
+msgid "Network"
+msgstr ""
+#
+msgid "Never"
+msgstr ""
+#
+msgid "Never track"
+msgstr ""
+#
+msgid "New Caledonia"
+msgstr ""
+#
+msgid "New Chart Group"
+msgstr "Cartas"
+#
+msgid "New Group..."
+msgstr ""
+#
+msgid "New Zealand"
+msgstr ""
+#
+msgid "New..."
+msgstr ""
+#
+msgid "Next"
+msgstr ""
+#
+msgid "Next tide event"
+msgstr ""
+#
+msgid "Nicaragua"
+msgstr ""
+#
+msgid "Niger"
+msgstr ""
+#
+msgid "Nigeria"
+msgstr ""
+#
+msgid "Nighttime"
+msgstr ""
+#
+msgid "Niue"
+msgstr ""
+#
+msgid "No CPA Calculation if target range is greater than (NMi)"
+msgstr "Não calcular CPA se a distância for maior que [NMi]:"
+#
+msgid "No Chart Available"
+msgstr "Não há Carta Disponível"
+#
+msgid ""
+"No Charts Installed.\n"
+"Please select chart folders in Options > Charts."
+msgstr ""
+"           Não há cartas instaladas.\n"
+"Por favor seleccione pasta com cartas em Ferramentas->Cartas."
+#
+msgid ""
+"No Serial Ports can be found on this system.\n"
+"You must install a serial port (modprobe correct kernel module) or plug in a "
+"usb serial device.\n"
+msgstr ""
+#
+msgid "No, I don't want to hide it."
+msgstr ""
+#
+msgid "No, and permanently remove the option to hide it."
+msgstr ""
+#
+msgid "No. of items"
+msgstr ""
+#
+msgid "None"
+msgstr ""
+#
+msgid "North Up"
+msgstr ""
+#
+msgid "North Up Mode"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "Northern Mariana Islands"
+msgstr ""
+#
+msgid "Norway"
+msgstr ""
+#
+msgid "Not Under Command"
+msgstr ""
+#
+msgid "OK"
+msgstr ""
+#
+msgid "Object Query"
+msgstr "Informação Dos Objectos"
+#
+msgid "Object Query..."
+msgstr "Informação Dos Objectos"
+#
+msgid "ObjectQuery"
+msgstr "Informação Dos Objectos"
+#
+msgid "Old log will be moved to opencpn.log.log"
+msgstr ""
+#
+msgid "Oman"
+msgstr ""
+#
+msgid "OpenCPN Alert"
+msgstr "Alerta OpenCPN "
+#
+msgid "OpenCPN CM93 Cell Offset Adjustments"
+msgstr ""
+#
+msgid "OpenCPN Chart Add...."
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "OpenCPN Chart Scan...."
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "OpenCPN Chart Update"
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "OpenCPN Converting Track to Route...."
+msgstr ""
+#
+msgid "OpenCPN Create SENC Warning"
+msgstr ""
+#
+msgid "OpenCPN Directory Scan...."
+msgstr ""
+#
+msgid "OpenCPN Group Notice"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN Help"
+msgstr ""
+#
+msgid "OpenCPN Info"
+msgstr "Informação OpenCPN"
+#
+msgid "OpenCPN Remove Waypoint"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN Route"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN Route Create"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN Route Delete"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN S57 SENC File Create..."
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN Track"
+msgstr "Alerta OpenCPN "
+#
+msgid "OpenCPN Track Delete"
+msgstr "Alerta OpenCPN "
+#
+msgid "OpenCPN Warning"
+msgstr ""
+#
+msgid "OpenCPN Waypoint"
+msgstr "OpenCPN Criação De Rota"
+#
+msgid "OpenCPN cannot start. "
+msgstr "Actualização Cartas OpenCPN"
+#
+msgid "OpenCPN info"
+msgstr "Informação OpenCPN"
+#
+msgid "OpenCPN requires access to serial ports to use serial NMEA data.\n"
+msgstr ""
+#
+msgid "Options"
+msgstr "Opções de Interface (GUI)"
+#
+msgid "Options..."
+msgstr ""
+#
+msgid "Other - Define in associated text field"
+msgstr ""
+#
+msgid "Output Message"
+msgstr ""
+#
+msgid "Output filtering"
+msgstr ""
+#
+msgid "Output on this port ( as Autopilot or NMEA Repeater)"
+msgstr ""
+#
+msgid "OverZoom"
+msgstr "Sobre Ampliado"
+#
+msgid "Overwrite existing file?"
+msgstr ""
+#
+msgid "Own Ship"
+msgstr " Barco: "
+#
+msgid "Ownship"
+msgstr ""
+#
+msgid "P/V"
+msgstr ""
+#
+msgid "PC/V"
+msgstr ""
+#
+msgid "Pakistan"
+msgstr ""
+#
+msgid "Palau"
+msgstr ""
+#
+msgid "Palestine"
+msgstr ""
+#
+msgid "Panama"
+msgstr ""
+#
+msgid "Paper Chart"
+msgstr "Carta em Papel"
+#
+msgid "Papua New Guinea"
+msgstr ""
+#
+msgid "Paraguay"
+msgstr ""
+#
+msgid "Parameters"
+msgstr "Metros"
+#
+msgid "Pass/V"
+msgstr ""
+#
+msgid "Passenger Ship"
+msgstr ""
+#
+msgid "Paste"
+msgstr ""
+#
+msgid "Paste Route"
+msgstr "Criar Rota"
+#
+msgid "Paste Track"
+msgstr "Exportar...."
+#
+msgid "Paste Waypoint"
+msgstr "Activar waypoint"
+#
+msgid "Paste lat/long"
+msgstr ""
+#
+msgid "Pause"
+msgstr ""
+#
+msgid "People's Rep. of Korea"
+msgstr ""
+#
+msgid "Persistent"
+msgstr ""
+#
+msgid "Peru"
+msgstr ""
+#
+msgid "Philippines"
+msgstr ""
+#
+msgid "Physical Screen Width"
+msgstr ""
+#
+msgid "Pilot Vessel"
+msgstr ""
+#
+msgid "Pitcairn Island"
+msgstr ""
+#
+msgid "Plain"
+msgstr "Simples"
+#
+msgid "Plan Speed"
+msgstr "Velocidade Prevista"
+#
+msgid "Plan speed"
+msgstr "Velocidade Prevista"
+#
+msgid "Play Ships Bells"
+msgstr ""
+#
+msgid "Play Sound on CPA/TCPA Alerts and DSC/SART emergencies."
+msgstr "Alarme Sonoro CPA/TCPA"
+#
+msgid "Please restart OpenCPN to activate language or style changes."
+msgstr "Por Favor Reinicie OpenCPN para activar novo idioma."
+#
+msgid "Pleasure craft"
+msgstr "Terminar Medição"
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable and will not be loaded.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+#
+#, c-format
+msgid "PlugIn [ %s ] version %i.%i"
+msgstr ""
+#
+msgid "Plugins"
+msgstr ""
+#
+msgid "Poland"
+msgstr ""
+#
+msgid "Pollution Control Vessel"
+msgstr ""
+#
+msgid "Polyconic"
+msgstr ""
+#
+msgid "Port"
+msgstr "Pontos"
+#
+msgid "Port Hand"
+msgstr ""
+#
+msgid "Port Hand Mark"
+msgstr ""
+#
+msgid "Port Tender"
+msgstr ""
+#
+msgid "Portugal"
+msgstr ""
+#
+msgid "Position"
+msgstr "Posição"
+#
+msgid "Position Report"
+msgstr "Hora Última Aquisição:       "
+#
+msgid "Pref. Chnl"
+msgstr ""
+#
+msgid "Preferences"
+msgstr ""
+#
+msgid "Preferences..."
+msgstr ""
+#
+msgid "Preferred Channel Port Hand"
+msgstr ""
+#
+msgid "Preferred Channel Starboard Hand"
+msgstr ""
+#
+msgid "Present Ownship"
+msgstr ""
+#
+msgid "Preserve Scale when Switching Charts"
+msgstr "Manter escala ao alternar entre cartas"
+#
+msgid "Prev"
+msgstr ""
+#
+msgid "Preview:"
+msgstr "Pré-Visualização:"
+#
+msgid "Print"
+msgstr "Impressão"
+#
+msgid "Print Chart"
+msgstr "Imprimir Carta"
+#
+msgid "Print Route"
+msgstr "Apagar Rota"
+#
+msgid "Print Route Selection"
+msgstr "Apagar Rota"
+#
+msgid "Priority"
+msgstr ""
+#
+msgid "Proceed to this location - await instructions"
+msgstr ""
+#
+msgid "Processing Waypoints..."
+msgstr "Eliminar Todos Os Waypoints..."
+#
+msgid "Properties"
+msgstr "Propriedades"
+#
+msgid "Properties..."
+msgstr "Propriedades"
+#
+msgid "Protocol"
+msgstr ""
+#
+msgid "Puerto Rico"
+msgstr ""
+#
+msgid "Qatar"
+msgstr ""
+#
+msgid "Question"
+msgstr "Ajustes"
+#
+msgid "RACON"
+msgstr ""
+#
+msgid "Range"
+msgstr "Idioma"
+#
+msgid "Real"
+msgstr ""
+#
+msgid "Real (On Position)"
+msgstr "Posição"
+#
+msgid "Real Scale Bitmap"
+msgstr ""
+#
+msgid "Real Scale Vector"
+msgstr ""
+#
+msgid "Real(Off Position)"
+msgstr "Posição"
+#
+msgid "Rebuild Texture Cache"
+msgstr ""
+#
+msgid "Rebuilding chart database from configuration file entries..."
+msgstr ""
+"OpenCPN necessita actualizar a base de dados a partir dos arquivos de "
+"configuração...."
+#
+msgid "Receive Input on this Port"
+msgstr ""
+#
+msgid "Record Track"
+msgstr ""
+#
+msgid "Recorded points"
+msgstr "Waypoints"
+#
+msgid "Red"
+msgstr ""
+#
+msgid "Redo"
+msgstr ""
+#
+msgid "Reduce Data Precision"
+msgstr ""
+#
+msgid "Reduce Data..."
+msgstr ""
+#
+msgid "Reduced Detail at Small Scale"
+msgstr ""
+#
+msgid "Ref. Pt"
+msgstr ""
+#
+msgid "Reference Point"
+msgstr "Estação de Referência:"
+#
+msgid "Reference Station :"
+msgstr ""
+#
+msgid "Remaining time : "
+msgstr ""
+#
+msgid "Remove Chart"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "Remove Connection"
+msgstr "Opções Tipo Letra"
+#
+msgid "Remove Selected"
+msgstr "Apagar Rastro"
+#
+msgid "Remove from Route"
+msgstr "Eliminar waypoint da Rota"
+#
+msgid "Remove lost targets after (min)"
+msgstr "Eliminar Alvos perdidos após [Minutos]:"
+#
+msgid "Rename Waypoints?"
+msgstr "Waypoints"
+#
+msgid "Report Age"
+msgstr ""
+#
+msgid "Report as of"
+msgstr ""
+#
+msgid "Report from ship: Icing info"
+msgstr ""
+#
+msgid ""
+"Report from ship: Miscellaneous information - define in Associated text field"
+msgstr ""
+#
+msgid "Reserved 11"
+msgstr ""
+#
+msgid "Reserved 12"
+msgstr ""
+#
+msgid "Reserved 13"
+msgstr ""
+#
+msgid "Reserved 14"
+msgstr ""
+#
+msgid "Restricted Area: Active military OPAREA"
+msgstr ""
+#
+msgid "Restricted Area: Drifting Mines"
+msgstr ""
+#
+msgid "Restricted Area: Entry approval required prior to transit"
+msgstr ""
+#
+msgid "Restricted Area: Entry prohibited"
+msgstr ""
+#
+msgid "Restricted Area: Firing - danger area."
+msgstr ""
+#
+msgid "Restricted Area: Fishing prohibited"
+msgstr ""
+#
+msgid "Restricted Area: No anchoring."
+msgstr ""
+#
+msgid "Restricted Manoeuvrability"
+msgstr ""
+#
+msgid "Resume"
+msgstr ""
+#
+msgid "Retrieving initial Chart Directory set from Windows Registry"
+msgstr ""
+#
+msgid "Retrieving initial language selection from Windows Registry"
+msgstr ""
+#
+msgid "Reunion"
+msgstr ""
+#
+msgid "Reverse..."
+msgstr "Rota Inversa"
+#
+msgid "Right"
+msgstr "&Largura:"
+#
+msgid "Rogue or suspicious vessel"
+msgstr ""
+#
+msgid "Rollover"
+msgstr ""
+#
+msgid "Romania"
+msgstr ""
+#
+msgid "Rotated Mode"
+msgstr ""
+#
+msgid "Route"
+msgstr "Rota"
+#
+msgid "Route & Mark Manager"
+msgstr ""
+#
+msgid "Route && Mark Manager..."
+msgstr ""
+#
+msgid "Route Name"
+msgstr "Rota"
+#
+msgid "Route Print"
+msgstr "Propriedades desta Rota"
+#
+msgid "Route Properties"
+msgstr "Propriedades desta Rota"
+#
+msgid "Route from Track"
+msgstr ""
+#
+msgid "Route: "
+msgstr "Rota"
+#
+msgid "Route: Alternative route"
+msgstr ""
+#
+msgid "Route: Recommended route"
+msgstr ""
+#
+msgid "Route: Recommended route through ice"
+msgstr ""
+#
+msgid "RouteLegInfoRollover"
+msgstr ""
+#
+msgid "Routes"
+msgstr "Rota"
+#
+msgid "Russian"
+msgstr ""
+#
+msgid "Rwanda"
+msgstr ""
+#
+msgid "S/V"
+msgstr ""
+#
+msgid ""
+"S57 Cell Update chain incomplete.\n"
+"ENC features may be incomplete or inaccurate.\n"
+"Check the logfile for details."
+msgstr ""
+#
+msgid "SAR Aircraft"
+msgstr ""
+#
+msgid "SAR/V"
+msgstr ""
+#
+msgid "SART"
+msgstr ""
+#
+msgid "SOG COG"
+msgstr ""
+#
+msgid "Safe Water"
+msgstr ""
+#
+msgid "Safety Broadcast Message"
+msgstr ""
+#
+msgid "Safety Depth"
+msgstr "sonda segura"
+#
+msgid "Sailing Vessel"
+msgstr ""
+#
+msgid "Saint Helena"
+msgstr ""
+#
+msgid "Saint Kitts and Nevis"
+msgstr ""
+#
+msgid "Saint Lucia"
+msgstr ""
+#
+msgid "Saint Paul"
+msgstr ""
+#
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+#
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+#
+msgid "Samoa"
+msgstr ""
+#
+msgid "San Marino"
+msgstr ""
+#
+msgid "Sao Tome and Principe"
+msgstr ""
+#
+msgid "Saudi Arabia"
+msgstr ""
+#
+#, c-format
+msgid "Scale %4.0f (%1.0fx)"
+msgstr ""
+#
+#, c-format
+msgid "Scale %4.0f (%1.1fx)"
+msgstr "Escala Real: %8.0f  Zoom %4.0fx"
+#
+#, c-format
+msgid "Scale %4.0f (%1.2fx)"
+msgstr "Escala Real: %8.0f  Zoom %4.2fx"
+#
+msgid "Scale In"
+msgstr "Aumentar Escala"
+#
+msgid "Scale Out"
+msgstr "Diminuir Escala"
+#
+msgid "Scan Charts and Update Database"
+msgstr ""
+#
+msgid "Search and Rescue Vessel"
+msgstr ""
+#
+msgid "Seatalk"
+msgstr ""
+#
+msgid "Security Alert - Level 1"
+msgstr ""
+#
+msgid "Security Alert - Level 2"
+msgstr ""
+#
+msgid "Security Alert - Level 3"
+msgstr ""
+#
+msgid "See the log file at "
+msgstr ""
+#
+msgid "Select Alert Sound"
+msgstr "Seleccionar Som Alarme"
+#
+msgid "Select All"
+msgstr "Seleccionar Tudo"
+#
+msgid "Select Sound File"
+msgstr "Seleccionar Som Alarme"
+#
+msgid "Select Tide/Current Data"
+msgstr ""
+#
+msgid ""
+"Select the maximum error allowed (in meters)\n"
+"after data reduction:"
+msgstr ""
+#
+msgid "Send To GPS..."
+msgstr "Enviar para GPS..."
+#
+msgid "Send to GPS"
+msgstr "Enviar para GPS..."
+#
+msgid "Send to new GPS"
+msgstr ""
+#
+msgid "Senegal"
+msgstr ""
+#
+msgid "Sentence Filter"
+msgstr "Seleccionar Som Alarme"
+#
+msgid "Serbia"
+msgstr ""
+#
+msgid "Serial"
+msgstr ""
+#
+msgid "Set"
+msgstr "Seguinte"
+#
+msgid "Set Anchor Watch"
+msgstr ""
+#
+msgid "Seychelles"
+msgstr ""
+#
+msgid "Shallow Depth"
+msgstr "baixo"
+#
+msgid "Shift to Larger Scale Chart"
+msgstr "Mudar para Carta a Escala Maior"
+#
+msgid "Shift to Smaller Scale Chart"
+msgstr "Mudar para Carta a Escala Menor"
+#
+msgid "Ship Icon Type"
+msgstr ""
+#
+msgid "Ships"
+msgstr " Barco: "
+#
+msgid "Short dash"
+msgstr "Mostrar Marés"
+#
+msgid "Show"
+msgstr "Mostrar Marés"
+#
+msgid "Show AIS Targets"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show AIS targets real size"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show All Tracks"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show CPA Alert Dialogs"
+msgstr ""
+#
+msgid "Show CPA/TCPA Alert Dialog"
+msgstr "Mostrar Janela de Alarmes CPA/TCPA"
+#
+msgid "Show Chart Bar"
+msgstr ""
+#
+msgid "Show Chart Outlines"
+msgstr "Mostrar limites das Cartas"
+#
+msgid "Show Compass/GPS Status Window"
+msgstr ""
+#
+msgid "Show Current Information"
+msgstr "Ícone"
+#
+msgid "Show Currents"
+msgstr "Mostrar Correntes"
+#
+msgid "Show Depth Units"
+msgstr "Mostrar Unidades da Profundidade"
+#
+msgid "Show Distance from each Waypoint to the next one."
+msgstr ""
+#
+msgid "Show ENC Anchoring Info"
+msgstr ""
+#
+msgid "Show ENC Lights"
+msgstr ""
+#
+msgid "Show ENC Soundings"
+msgstr ""
+#
+msgid "Show ENC Text"
+msgstr "Mostrar Texto ENC"
+#
+msgid "Show ENC Text (T)"
+msgstr ""
+#
+msgid "Show FPS"
+msgstr ""
+#
+msgid "Show Grid"
+msgstr "Mostrar Marés"
+#
+msgid "Show Highway"
+msgstr ""
+#
+msgid "Show Menu Bar"
+msgstr ""
+#
+msgid "Show NMEA Debug Window"
+msgstr "Mostrar Janela de fluxo de dados GPS/NMEA"
+#
+msgid "Show Skewed Raster Charts as North-Up"
+msgstr ""
+#
+msgid "Show Status Bar"
+msgstr "Mostrar na Barra de Estado"
+#
+msgid "Show Target CPA"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show Target Track"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show Target Tracks"
+msgstr ""
+#
+msgid "Show This Chart"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show Tide Information"
+msgstr "Ícone"
+#
+msgid "Show Tides"
+msgstr "Mostrar Marés"
+#
+msgid "Show Toolbar in Fullscreen Mode"
+msgstr ""
+#
+msgid "Show WPT names"
+msgstr "Mostrar Nome"
+#
+msgid "Show Waypoint description."
+msgstr "Descrição"
+#
+msgid "Show Waypoint name."
+msgstr "Waypoints"
+#
+msgid "Show Waypoint position."
+msgstr "Ícone"
+#
+msgid "Show area notices (from AIS binary messages)"
+msgstr ""
+#
+msgid "Show course from each Waypoint to the next one. "
+msgstr ""
+#
+msgid "Show magnetic bearings and headings"
+msgstr ""
+#
+msgid "Show name"
+msgstr "Mostrar Nome"
+#
+msgid "Show names with AIS targets at scale greater than 1:"
+msgstr ""
+#
+msgid "Show on chart"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Show range rings"
+msgstr ""
+#
+msgid "Show target COG predictor arrow, length (min)"
+msgstr "Mostrar Vector COG da embarcação alvo"
+#
+msgid "Show target tracks, length (min)"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Shows the font preview."
+msgstr "Mostrar pré-visualização da Fonte."
+#
+msgid "Sierra Leone"
+msgstr ""
+#
+msgid "Simplified"
+msgstr "Simplificados"
+#
+msgid "Singapore"
+msgstr ""
+#
+msgid "Slovak Republic"
+msgstr ""
+#
+msgid "Slovenia"
+msgstr ""
+#
+msgid "Smaller Scale Chart"
+msgstr ""
+#
+msgid "Smooth Panning / Zooming"
+msgstr ""
+#
+msgid "SoG"
+msgstr ""
+#
+msgid "Solid"
+msgstr "Com símbolos"
+#
+msgid "Solomon Islands"
+msgstr ""
+#
+msgid "Somali Democratic Republic"
+msgstr ""
+#
+msgid "Sound CPA Alarms"
+msgstr ""
+#
+msgid "South Africa"
+msgstr ""
+#
+msgid "South Sudan (Republic of)"
+msgstr ""
+#
+msgid "Spain"
+msgstr ""
+#
+msgid "Spare"
+msgstr "Inicio"
+#
+msgid "Special"
+msgstr ""
+#
+msgid "Special Mark"
+msgstr "Eliminar Marca"
+#
+msgid "Speed"
+msgstr "Velocidade Prevista"
+#
+msgid "Speed (Kts)"
+msgstr "Velocidade Vento, Kts."
+#
+msgid "Split"
+msgstr "Apagar Rota"
+#
+msgid "Split Route"
+msgstr "Apagar Rota"
+#
+msgid "Split Track"
+msgstr "Mostrar Rastro da Embarcação Alvo"
+#
+msgid "Sri Lanka"
+msgstr ""
+#
+msgid "Standard"
+msgstr ""
+#
+msgid "Starboard Hand Mark"
+msgstr ""
+#
+msgid "Start"
+msgstr "Inicio"
+#
+msgid "Statistics"
+msgstr ""
+#
+msgid "StatusBar"
+msgstr "Mostrar na Barra de Estado"
+#
+msgid "Statute miles"
+msgstr ""
+#
+msgid "Stbd"
+msgstr ""
+#
+msgid "Stbd Hand"
+msgstr ""
+#
+msgid "Stop Tracking"
+msgstr ""
+#
+msgid "Style"
+msgstr "&Estilo:"
+#
+msgid "Style:"
+msgstr "&Estilo:"
+#
+msgid "Sudan"
+msgstr ""
+#
+msgid "Sunrise"
+msgstr ""
+#
+msgid "Sunset"
+msgstr ""
+#
+msgid "Suppress blur/fog effects on overzoom"
+msgstr ""
+#
+msgid "Suppress scaled vector charts on overzoom"
+msgstr ""
+#
+msgid "Supress Alerts for anchored/moored targets"
+msgstr "Suprimir Alarme para embarcações amarradas/ancoradas"
+#
+msgid "Suriname"
+msgstr ""
+#
+msgid "Swaziland"
+msgstr ""
+#
+msgid "Sweden"
+msgstr ""
+#
+msgid "Switzerland"
+msgstr ""
+#
+msgid "Symbolized"
+msgstr "Com símbolos"
+#
+msgid "Syrian Arab Republic"
+msgstr ""
+#
+msgid "TCP"
+msgstr "Alarmes CPA/TCPA"
+#
+msgid "TCPA"
+msgstr "Alarmes CPA/TCPA"
+#
+msgid "Taiwan"
+msgstr ""
+#
+msgid "Tajikistan"
+msgstr ""
+#
+msgid "Tanker"
+msgstr ""
+#
+msgid "Tanzania"
+msgstr ""
+#
+msgid "Target Count"
+msgstr "Consulta Destino AIS"
+#
+msgid "Target List..."
+msgstr "Consulta Destino AIS"
+#
+msgid "Target Query..."
+msgstr "Consulta Destino AIS"
+#
+msgid "Target info"
+msgstr "Consulta Destino AIS"
+#
+msgid "Temporary AISMOB Route"
+msgstr ""
+#
+msgid "Temporary GOTO Route"
+msgstr ""
+#
+msgid "Temporary MOB Route"
+msgstr ""
+#
+msgid "Temporary layer"
+msgstr "Importar Fichero GPX"
+#
+msgid "Tender"
+msgstr "Enviar"
+#
+msgid "Test Alert Sound"
+msgstr "Testar Alarme Sonoro"
+#
+msgid "Testing"
+msgstr "Ajustes"
+#
+msgid "Texture Compression"
+msgstr ""
+#
+msgid "Texture Compression Caching"
+msgstr ""
+#
+msgid "Texture Compression with Caching"
+msgstr ""
+#
+msgid "Texture Memory Size (MB)"
+msgstr ""
+#
+msgid "Thailand"
+msgstr ""
+#
+msgid ""
+"The Man Over Board button could be an important safety feature.\n"
+"Are you sure you want to hide it?"
+msgstr ""
+#
+msgid "The Open Source Chart Plotter/Navigator"
+msgstr ""
+"OpenCPN... é um programa em Código Aberto, simples e compacto para navegação "
+"com cartografia náutica."
+#
+#, c-format
+msgid ""
+"The amount of data used by the track\n"
+" was reduced by %d%%."
+msgstr ""
+#
+msgid ""
+"The currently running Track was not merged.\n"
+"You can merge it later when it is completed."
+msgstr ""
+#
+msgid "The font colour."
+msgstr "Cor da Letra."
+#
+msgid "The font family."
+msgstr "Tipo de Letra."
+#
+msgid "The font point size."
+msgstr "Tamanho da Letra em pontos."
+#
+msgid "The font style."
+msgstr "Estilo da Letra."
+#
+msgid "The font weight."
+msgstr "Largura da Letra."
+#
+msgid "The necessary configuration files were not found. "
+msgstr ""
+#
+msgid ""
+"The recently captured track of this target has been recorded.\n"
+"Do you want to continue recording until the end of the current OpenCPN "
+"session?"
+msgstr ""
+#
+msgid "The settings for own ship real size are not correct:"
+msgstr ""
+#
+msgid ""
+"The waypoint you want to delete is used in a route, do you really want to "
+"delete it?"
+msgstr ""
+#
+msgid "There"
+msgstr "Outro"
+#
+msgid ""
+"There are existing waypoints at the same location as some of the ones you are "
+"pasting. Would you like to just merge the pasted data into them?\n"
+"\n"
+msgstr ""
+#
+msgid ""
+"There are some waypoints used in routes or anchor alarms.\n"
+" Do you want to delete them as well?\n"
+" This will change the routes and disable the anchor alarms.\n"
+" Answering No keeps the waypoints used in routes or alarms."
+msgstr ""
+#
+msgid ""
+"There is an existing waypoint at the same location as the one you are "
+"pasting. Would you like to merge the pasted data with it?\n"
+"\n"
+msgstr ""
+#
+msgid ""
+"There was a problem printing.\n"
+"Perhaps your current printer is not set correctly?"
+msgstr ""
+"ocorreu um problema a imprimir.\n"
+"A sua impressora pode não estar correctamente configurada"
+#
+msgid "This Leg"
+msgstr "Esta Pernada"
+#
+msgid "This waypoint is part of a layer and can't be edited"
+msgstr ""
+#
+msgid "Tide"
+msgstr ""
+#
+msgid "TideCurrentGraphRollover"
+msgstr ""
+#
+msgid "Tides && Currents"
+msgstr "Mostrar Correntes"
+#
+msgid "Time Enroute"
+msgstr "Tempo na rota"
+#
+msgid "Time enroute"
+msgstr "Tempo na rota"
+#
+msgid "Time shown as"
+msgstr ""
+#
+msgid "Times shown as"
+msgstr ""
+#
+msgid "Timestamp"
+msgstr ""
+#
+msgid "To"
+msgstr ""
+#
+msgid "To Waypoint"
+msgstr "Para Waypoint"
+#
+msgid "To route"
+msgstr "Tempo na rota"
+#
+msgid "Today"
+msgstr ""
+#
+msgid "Toggle Full Screen"
+msgstr ""
+#
+msgid "Toggle track"
+msgstr "Comutar Rastro"
+#
+msgid "Togolese Republic"
+msgstr ""
+#
+msgid "Tomorrow"
+msgstr ""
+#
+msgid "Tonga"
+msgstr ""
+#
+msgid "ToolTips"
+msgstr ""
+#
+msgid "Toolbar and Window Style"
+msgstr ""
+#
+msgid "Total Distance"
+msgstr "Distancia Total"
+#
+msgid "Total Length: "
+msgstr "Perna"
+#
+msgid "Total distance"
+msgstr "Distancia Total"
+#
+msgid "Tow"
+msgstr ""
+#
+msgid "Track"
+msgstr "Rastro"
+#
+msgid "Track Mode"
+msgstr ""
+#
+msgid "Track Name"
+msgstr "Nome"
+#
+msgid "Track Properties"
+msgstr "Propriedades Do Rastro"
+#
+#, c-format
+msgid "Track Properties, Layer: %d"
+msgstr "Propriedades do Rastro, Layer: %d"
+#
+msgid "Tracking"
+msgstr ""
+#
+msgid "Tracking Precision"
+msgstr "Propriedades Do Rastro"
+#
+msgid "Tracks"
+msgstr "Rastro"
+#
+msgid "Transmit Sentences"
+msgstr ""
+#
+msgid "Transmit sentences"
+msgstr ""
+#
+msgid "Transverse Mercator"
+msgstr ""
+#
+msgid "Treat WPL sentences as APRS position reports"
+msgstr ""
+#
+msgid "Trinidad and Tobago"
+msgstr ""
+#
+msgid "Trk"
+msgstr "Rastro"
+#
+msgid "Tug"
+msgstr ""
+#
+msgid "Tunisia"
+msgstr ""
+#
+msgid "Turkey"
+msgstr ""
+#
+msgid "Turkmenistan"
+msgstr ""
+#
+msgid "Turks and Caicos Islands"
+msgstr ""
+#
+msgid "Turn Rate"
+msgstr ""
+#
+msgid "Tuvalu"
+msgstr ""
+#
+msgid "Type"
+msgstr ""
+#
+msgid "UDP"
+msgstr ""
+#
+msgid "URL"
+msgstr ""
+#
+msgid "UTC"
+msgstr ""
+#
+msgid "Uganda"
+msgstr ""
+#
+msgid "Ukraine"
+msgstr ""
+#
+msgid "Undefined"
+msgstr "&Sublinhar"
+#
+msgid "Undefined (default)"
+msgstr "&Sublinhar"
+#
+msgid "Under way sailing"
+msgstr ""
+#
+msgid "Underway"
+msgstr ""
+#
+msgid "Undo"
+msgstr ""
+#
+msgid "United Arab Emirates"
+msgstr ""
+#
+msgid "United States Virgin Islands"
+msgstr ""
+#
+msgid "United States of America"
+msgstr ""
+#
+msgid "Units"
+msgstr ""
+#
+msgid "Unk"
+msgstr ""
+#
+msgid "Unknown"
+msgstr ""
+#
+msgid "Unlist contents"
+msgstr ""
+#
+msgid "Unreadable PlugIn library detected, check the file permissions:\n"
+msgstr ""
+#
+msgid "Unspecified"
+msgstr "&Sublinhar"
+#
+msgid "Update Control"
+msgstr "Controlo de Actualização"
+#
+msgid "Uruguay"
+msgstr ""
+#
+msgid "Use Accelerated Graphics (OpenGL)"
+msgstr ""
+#
+msgid "Use Accelerated Panning"
+msgstr ""
+#
+msgid "Use Garmin (GRMN) mode for input"
+msgstr ""
+#
+msgid "Use Garmin GRMN (Host) mode for uploads"
+msgstr ""
+#
+msgid "Use magnetic bearings in output sentence ECAPB"
+msgstr ""
+#
+msgid "Use nearby waypoint?"
+msgstr "Usa Waypoint Próximo?"
+#
+msgid "User Interface"
+msgstr ""
+#
+msgid "User X Offset"
+msgstr ""
+#
+msgid "User X Offset (Metres)"
+msgstr ""
+#
+msgid "User Y Offset"
+msgstr ""
+#
+msgid "User Y Offset (Metres)"
+msgstr ""
+#
+msgid "Uzbekistan"
+msgstr ""
+#
+msgid "VDM->VDO"
+msgstr ""
+#
+msgid "VTS active target"
+msgstr "Pastas de Arquivo de Cartas, Activas"
+#
+msgid "Vanuatu"
+msgstr ""
+#
+msgid "Vatican City State"
+msgstr ""
+#
+msgid "Vector Chart Display"
+msgstr ""
+#
+msgid "Venezuela"
+msgstr ""
+#
+msgid "Vessel Diving"
+msgstr ""
+#
+msgid "Vessel Dredging"
+msgstr ""
+#
+msgid "Vessel Fishing"
+msgstr ""
+#
+msgid "Vessel Towing"
+msgstr ""
+#
+msgid "Vessel Towing, Long"
+msgstr ""
+#
+msgid "Vessel requesting non-distress assistance"
+msgstr ""
+#
+msgid "Viet Nam"
+msgstr ""
+#
+msgid "Virtual"
+msgstr ""
+#
+msgid "Virtual (Off Position)"
+msgstr ""
+#
+msgid "Virtual (On Position)"
+msgstr ""
+#
+msgid "Visible buttons"
+msgstr ""
+#
+msgid "WAV files (*.wav)|*.wav|All files (*.*)|*.*"
+msgstr "Ficheiros WAV (*.wav)|*.wav|Todos os Ficheiros (*.*)|*.*"
+#
+msgid "Wallis and Futuna Islands"
+msgstr ""
+#
+msgid "Warn if CPA less than (NMi)"
+msgstr "Avisar se CPA for inferior a [NMi]:"
+#
+msgid "Waypoint"
+msgstr "Waypoints"
+#
+msgid "Waypoint Arrival Circle Radius (NMi)"
+msgstr ""
+#
+msgid "Waypoint Information"
+msgstr "Ícone"
+#
+msgid "Waypoint Name"
+msgstr "Waypoints"
+#
+msgid "Waypoint Properties"
+msgstr "Propriedades"
+#
+msgid "Waypoint Properties, Layer: "
+msgstr "Propriedades de Marca/WP"
+#
+msgid "Waypoint(s) Transmitted."
+msgstr ""
+#
+msgid "Waypoints"
+msgstr ""
+#
+msgid ""
+"Waypoints can be renamed to reflect the new order, the names will be '001', "
+"'002' etc.\n"
+"\n"
+"Do you want to rename the waypoints?"
+msgstr ""
+#
+msgid "Welcome to OpenCPN"
+msgstr "Acerca do OpenCPN"
+#
+msgid "Whether the font is underlined."
+msgstr "Sublinhar a letra?"
+#
+msgid "White"
+msgstr ""
+#
+msgid "Width"
+msgstr ""
+#
+msgid "Width Over All (m)"
+msgstr ""
+#
+msgid "Width:"
+msgstr ""
+#
+msgid "Wing In Ground Effect"
+msgstr ""
+#
+msgid ""
+"With a lower value, the same zoom level shows a less detailed chart.\n"
+"With a higher value, the same zoom level shows a more detailed chart."
+msgstr ""
+#
+msgid "Would you like include the Great Circle routing points for this leg?"
+msgstr ""
+#
+msgid "XTE         L"
+msgstr "XTE         Esq"
+#
+msgid "XTE         R"
+msgstr "XTE         Dir"
+#
+msgid "Yat"
+msgstr ""
+#
+msgid "Yellow"
+msgstr "Apagar Tudo"
+#
+msgid "Yemen"
+msgstr ""
+#
+msgid "Yes, hide it."
+msgstr ""
+#
+msgid "You are trying to delete an active AIS MOB route, are you REALLY sure?"
+msgstr ""
+#
+msgid ""
+"You can't hide the last tool from the toolbar\n"
+"as this would make it inaccessible."
+msgstr ""
+#
+msgid ""
+"You do currently not have permission to access the serial ports on this "
+"system.\n"
+"\n"
+"It is suggested that you exit OpenCPN now,\n"
+"and add yourself to the correct group to enable serial port access.\n"
+"\n"
+"You may do so by executing the following command from the linux command "
+"line:\n"
+"\n"
+"                sudo usermod -a -G "
+msgstr ""
+#
+msgid "You must enter a port..."
+msgstr ""
+#
+msgid "You must enter the address..."
+msgstr ""
+#
+msgid "You must select or enter the port..."
+msgstr ""
+#
+msgid "Zambia"
+msgstr ""
+#
+msgid "Zero XTE"
+msgstr ""
+#
+msgid "Zimbabwe"
+msgstr ""
+#
+msgid "Zoom In"
+msgstr "Aproximar Zoom"
+#
+msgid "Zoom Out"
+msgstr "Afastar Zoom"
+#
+msgid "Zoom to Cursor"
+msgstr "Afastar Zoom"
+#
+msgid "[Class] Type (Status)"
+msgstr ""
+#
+msgid "_A"
+msgstr ""
+#
+msgid "_B"
+msgstr ""
+#
+msgid "_plus"
+msgstr ""
+#
+msgid "cm"
+msgstr ""
+#
+msgid "deg (+W, -E)"
+msgstr ""
+#
+msgid "fa"
+msgstr ""
+#
+msgid "fathoms"
+msgstr ""
+#
+msgid "feet"
+msgstr ""
+#
+msgid "ft"
+msgstr ""
+#
+msgid "in"
+msgstr "Ligações"
+#
+msgid "in "
+msgstr "Ligações"
+#
+msgid "km"
+msgstr ""
+#
+msgid "km/h"
+msgstr ""
+#
+msgid "kts"
+msgstr ""
+#
+msgid "m"
+msgstr ""
+#
+msgid "m/s"
+msgstr ""
+#
+msgid "meters"
+msgstr ""
+#
+msgid "metres"
+msgstr ""
+#
+msgid "mi"
+msgstr ""
+#
+msgid "min"
+msgstr "Ligações"
+#
+msgid "mm"
+msgstr ""
+#
+msgid "mph"
+msgstr ""
+#
+msgid "seconds"
+msgstr ""
+#
+msgid "track"
+msgstr "Rastro"
+#
+msgid "wgsox"
+msgstr ""
+#
+msgid "wgsoy"
+msgstr ""
+#
+msgid "wxFB Website"
+msgstr ""
+#
+msgid "x"
+msgstr ""
+#
+msgid "x.x"
+msgstr ""
+#
+msgid "x.xx"
+msgstr ""
+#
+msgid "x.xxx"
+msgstr ""
+#
+msgid "x.xxxx"
+msgstr ""

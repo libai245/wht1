@@ -1,0 +1,4302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-24 23:40-0500\n"
+"PO-Revision-Date: 2014-12-24 19:04-0500\n"
+"Last-Translator: nohal <pavel@kalian.cz>\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-File: /po/opencpn.pot\n"
+#
+msgid ""
+"\n"
+" - your GPS offset from bow must be within your ship's length"
+msgstr ""
+"\n"
+" - Baş GPS ayarı tekne uzunluğu içinde kalmalıdır"
+#
+msgid ""
+"\n"
+" - your GPS offset from midship must be within your ship's beam"
+msgstr ""
+"\n"
+" - Tekne ortası GPS ayarı tekne genişliği içinde kalmalıdır."
+#
+msgid ""
+"\n"
+" - your minimum ship icon size must be between 1 and 100 mm"
+msgstr ""
+"\n"
+" - Teknenizin en küçük simge büyüklüğü 1 ile 100 arasında olmalıdır."
+#
+msgid ""
+"\n"
+" - your ship's beam must be > 0"
+msgstr ""
+"\n"
+" - Teknenizin eni > 0 olmalıdır."
+#
+msgid ""
+"\n"
+" - your ship's length must be > 0"
+msgstr ""
+"\n"
+" - Teknenizin boyu > 0 olmalıdır."
+#
+msgid ""
+"\n"
+"OpenCPN is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied\n"
+"warranty of MERCHANTABILITY or FITNESS FOR A\n"
+"PARTICULAR PURPOSE.\n"
+"See the GNU General Public License for more details.\n"
+"\n"
+"OpenCPN must only be used in conjunction with approved\n"
+"paper charts and traditional methods of navigation.\n"
+"\n"
+"DO NOT rely upon OpenCPN for safety of life or property.\n"
+"\n"
+"Please click \"OK\" to agree and proceed, \"Cancel\" to quit.\n"
+msgstr ""
+"\n"
+" OpenCPN  HİÇBİR GARANTİ VERMEKSİZİN; hatta \n"
+" TİCARİLEŞTİRİLEBİLİRLİĞİNİN ya da BELİRLİ BİR AMAÇ \n"
+" İÇİN SAĞLAM olduğunun güvencesini vermeksizin\n"
+" sadece kullananlara yararlı olacağı düşünülerek dağıtılmaktadır.\n"
+" Ayrıntılar için \"GNU General Public License\"a bakınız.\n"
+"\n"
+"OpenCPN sadece denenmiş ve onaylanmış kağıt haritalarla\n"
+"ve geleneksel seyir yöntemleriyle birlikte kullanılmalıdır.\n"
+"Can ve mal güvenliğiniz için OpenCPN'ye GÜVENMEYİNİZ\n"
+"\n"
+"Kabul ediyorsanız, lütfen  \"Tamam\" tuşuna basarak devam ediniz;\n"
+"etmiyorsanız,  \"İptal\" tuşuna basarak kurulumdan çıkınız.\n"
+#
+msgid "    Incompatible PlugIn detected:"
+msgstr "  Uyumsuz Uzantı algılandı:"
+#
+msgid "   Chart File RLL data corrupt on chart "
+msgstr "  Haritada, harita dosyası RLL veri bozukluğu."
+#
+msgid "   Chart File contains less than 3 PLY points: "
+msgstr "  Harita dosyası 3 den az PLY noktası içeriyor:"
+#
+msgid "   Chart File corrupt in PostInit() on chart "
+msgstr "  Haritada, PostInit( )de Harita Dosya bozukluğu."
+#
+msgid "   Chart file has no BSB header, cannot Init."
+msgstr "  Harita dosyasının BSB başlığı yok, başlatılamıyor."
+#
+#, c-format
+msgid "   Could not read first %d bytes of header for chart file: "
+msgstr "  Harita dosya başlığındaki ilk %d biti okunamıyor:"
+#
+msgid "   Error creating Line Index for chart "
+msgstr "  Haritada hata oluşturan satır indeksi"
+#
+msgid ""
+"   External application \"xcalib\" not found. Screen brightness not changed."
+msgstr ""
+"  Dış uygulama \"x ölçümü\" bulunamadı. Ekran parlaklığı değiştirilmedi."
+#
+msgid "   Line Index corrupt, recreating Index for chart "
+msgstr "  Satır indeksi bozukluğu, harita indeksi yeniden oluşturuluyor."
+#
+msgid "   Result: OK, Internal georef solution used."
+msgstr "  Sonuç : Tamam, içsel kalibrasyon çözümü kullanıldı."
+#
+msgid "   Trying again with internally calculated georef solution "
+msgstr "  İçsel olarak hesaplanan kalibrasyon çözümüyle yeniden deneniyor. "
+#
+msgid ""
+"   VP Final Check with internal georef: Georeference Chart_Error_Factor on "
+"chart "
+msgstr ""
+"  İçsel kalibrasyonla VP son kontrol: Haritada kalibrasyon Hata_Payı_Unsuru"
+#
+msgid "   VP Final Check: Georeference Chart_Error_Factor on chart "
+msgstr "  VP Son kontrol: Haritada kalibrasyon Hata_Payı_Unsuru"
+#
+msgid " %D Days  %H Hours  %M Minutes"
+msgstr " %D Gün  %H Saat  %M Dakika"
+#
+msgid " %H Hours  %M Minutes"
+msgstr " %S Saat  %D Dakika"
+#
+msgid " (Ctrl-Space)"
+msgstr " (Ctrl-Boşluk)"
+#
+msgid " (Last Known)"
+msgstr "(Son Bilinen)"
+#
+msgid " - "
+msgstr " - "
+#
+msgid " -- [Portable(-p) executing from "
+msgstr " -- [Portable(-p) Uygulanıyor"
+#
+msgid " COG Unavailable"
+msgstr " COG'a Ulaşılamıyor"
+#
+msgid " ChartFile:  "
+msgstr "HaritaDosyası: "
+#
+msgid " Datum:  "
+msgstr " Datum:  "
+#
+msgid " Depth Units:  "
+msgstr " Derinlik Birimleri : "
+#
+msgid " ID:  "
+msgstr " ID: "
+#
+msgid " Name:  "
+msgstr "Ad : "
+#
+msgid " Projection:  "
+msgstr " Projeksiyon : "
+#
+#, c-format
+msgid " Scale:  1:%d"
+msgstr " Ölçek: 1:%d"
+#
+msgid " Ship "
+msgstr "Tekne"
+#
+msgid " Soundings:  "
+msgstr " Derinlik Ölçüleri  : "
+#
+msgid " Source Edition:  "
+msgstr "Kaynak Baskı: "
+#
+msgid " Updated:  "
+msgstr " Güncellendi: "
+#
+msgid " for details."
+msgstr " ayrıntılar için."
+#
+msgid " is incompatible with this version of OpenCPN."
+msgstr ""
+#
+msgid ""
+" shorter than rhumbline.\n"
+"\n"
+msgstr ""
+"Rhumbline'dan daha kısa.\n"
+"\n"
+#
+msgid " to "
+msgstr "Bitiş"
+#
+msgid "\" is empty, switching to \"All Active Charts\" group."
+msgstr "\" boş, geçiş yapılıyor\"Kullanımdaki Tüm Haritalar\"grup."
+#
+msgid "\"Ship Name\" MMSI (Call Sign)"
+msgstr "\"Gemi Adı\" MMSI (Çağrı İşareti)"
+#
+msgid "%D Days, %H:%M"
+msgstr "%G Gün, %S:%D"
+#
+msgid "%H:%M"
+msgstr "%Saat:%Dakika"
+#
+msgid "&AIS"
+msgstr ""
+#
+msgid "&Acknowledge"
+msgstr ""
+#
+msgid "&Activate"
+msgstr "&Etkinleştirr"
+#
+msgid "&Cancel"
+msgstr "&İptal"
+#
+msgid "&Center View"
+msgstr "&Merkez Görünüm"
+#
+msgid "&Copy all as text"
+msgstr "&Hepsini metin olarak kopyala"
+#
+msgid "&Copy as text"
+msgstr "&Metin olarak kopyala"
+#
+msgid "&Delete"
+msgstr "&Sil"
+#
+msgid "&Delete All"
+msgstr "&Tümünü Sil"
+#
+msgid "&Export selected..."
+msgstr "&Rotayı Kaydet "
+#
+msgid "&Font family:"
+msgstr "&Yazı türü:"
+#
+msgid "&Go To"
+msgstr "&Oraya git"
+#
+msgid "&Help"
+msgstr ""
+#
+msgid "&Jump To"
+msgstr ""
+#
+msgid "&Merge Selected Tracks"
+msgstr "&Seçili Seyirizlerini Birleştir"
+#
+msgid "&Navigate"
+msgstr ""
+#
+msgid "&New"
+msgstr "&Yeni"
+#
+msgid "&OK"
+msgstr "&Tamam"
+#
+msgid "&Point size:"
+msgstr "&Nokta büyüklüğü:"
+#
+msgid "&Properties"
+msgstr "&Özellikler"
+#
+msgid "&Properties..."
+msgstr "&Özellikler"
+#
+msgid "&Remove Selected"
+msgstr "&Seçileni Sil"
+#
+msgid "&Reverse"
+msgstr "&Tersine Çevir"
+#
+msgid "&Send to GPS"
+msgstr "&GPS'e Gönder"
+#
+msgid "&Silence Alert"
+msgstr ""
+#
+msgid "&Start Track"
+msgstr "&Seyirizini Başlat"
+#
+msgid "&Style:"
+msgstr "&Tür:"
+#
+msgid "&Tools"
+msgstr ""
+#
+msgid "&Underline"
+msgstr "&Altınıçiz"
+#
+msgid "&View"
+msgstr ""
+#
+msgid "&Waypoint Properties..."
+msgstr "&Seyirnoktası Özellikleri"
+#
+msgid "&Weight:"
+msgstr "&Ağırlık:"
+#
+msgid "(Unnamed Layer)"
+msgstr "(Adsız Etiket)"
+#
+msgid "(Unnamed Route)"
+msgstr "(Adsız Rota)"
+#
+msgid "(Unnamed Track)"
+msgstr "(Adsız Seyirizi)"
+#
+msgid "(Unnamed Waypoint)"
+msgstr "(Adsız Seyirnoktası)"
+#
+msgid "(reserved for future use)"
+msgstr "(sonraki kullanım için bırakıldı)"
+#
+msgid "(unnamed)"
+msgstr "(Adsız)"
+#
+msgid ", and all previous versions,"
+msgstr ""
+#
+msgid "-"
+msgstr "-"
+#
+msgid "--"
+msgstr "--"
+#
+msgid "---"
+msgstr "---"
+#
+msgid "---<<< Warning:  Chart georef accuracy is poor. >>>---"
+msgstr "---<<< Dikkat :  Haritanın kalibrasyonu zayıf. >>>---"
+#
+msgid "---<<< Warning:  Chart georef accuracy may be poor. >>>---"
+msgstr "---<<< Dikkat : Haritanın kalibrasyonu doğru olmayabilir. >>>---"
+#
+msgid "..."
+msgstr "..."
+#
+msgid "...and TCPA is less than (min)"
+msgstr "TCPA'nın En Düşük Değeri (dakika) :"
+#
+msgid "0"
+msgstr "0"
+#
+msgid "1"
+msgstr "1"
+#
+msgid "1 pixel"
+msgstr "1 piksel"
+#
+msgid "1.0 NM along COG"
+msgstr "COG boyunca 1.0 NM"
+#
+msgid "10 pixels"
+msgstr "10 pixel"
+#
+msgid "115200"
+msgstr "115200"
+#
+msgid "1200"
+msgstr "1200"
+#
+msgid "150"
+msgstr "150"
+#
+msgid "19200"
+msgstr "19200"
+#
+msgid "2"
+msgstr "2"
+#
+msgid "2 Color"
+msgstr "2 Renkli"
+#
+msgid "2 pixels"
+msgstr "2 pixel"
+#
+msgid "230400"
+msgstr "230400"
+#
+msgid "2400"
+msgstr "2400"
+#
+msgid "3"
+msgstr "3"
+#
+msgid "3 pixels"
+msgstr "3 pixel"
+#
+msgid "300"
+msgstr "300"
+#
+msgid "38400"
+msgstr "38400"
+#
+msgid "4"
+msgstr "4"
+#
+msgid "4 Color"
+msgstr "4 Renkli"
+#
+msgid "4 pixels"
+msgstr "4 pixel"
+#
+msgid "460800"
+msgstr "460800"
+#
+msgid "4800"
+msgstr "4800"
+#
+msgid "5"
+msgstr "5"
+#
+msgid "5 pixels"
+msgstr "5 pixel"
+#
+msgid "57600"
+msgstr "57600"
+#
+msgid "6"
+msgstr "6"
+#
+msgid "6 pixels"
+msgstr "6 pixel"
+#
+msgid "600"
+msgstr "600"
+#
+msgid "7"
+msgstr "7"
+#
+msgid "7 pixels"
+msgstr "7 pixel"
+#
+msgid "8"
+msgstr "8"
+#
+msgid "8 pixels"
+msgstr "8 pixel"
+#
+msgid "9"
+msgstr "9"
+#
+msgid "9 pixels"
+msgstr "9 pixel"
+#
+msgid "921600"
+msgstr "921600"
+#
+msgid "9600"
+msgstr "9600"
+#
+msgid "<font size=-2>(Sector angles are True Bearings from Seaward)</font><br>"
+msgstr ""
+"<font size=-2>(Sektör açıları denizden alınmış gerçek kerterizlerdir.)</"
+"font><br>"
+#
+msgid "?"
+msgstr "?"
+#
+msgid "A"
+msgstr "A"
+#
+msgid "AIS"
+msgstr "AIS "
+#
+msgid "AIS MAN OVERBOARD"
+msgstr ""
+#
+msgid "AIS MAN OVERBOARD UPDATE"
+msgstr ""
+#
+msgid "AIS Target List..."
+msgstr "AIS Hedef Listesi"
+#
+msgid "AIS Target Name"
+msgstr "AIS Hedef Adı"
+#
+msgid "AIS Target Query"
+msgstr "AIS Hedef Sorgusu"
+#
+msgid "AIS Targets"
+msgstr "AIS Hedefleri"
+#
+msgid "AIS target list"
+msgstr "AIS hedef listesi"
+#
+msgid "AISRollover"
+msgstr "AISRollover"
+#
+msgid "AISTargetAlert"
+msgstr ""
+#
+msgid "AISTargetQuery"
+msgstr "AISHedefAçıklaması"
+#
+msgid "APB bearing precision"
+msgstr ""
+#
+msgid "APRS"
+msgstr "APRS"
+#
+msgid "APRS Position Report"
+msgstr "DSC Mevki Raporu"
+#
+msgid "ARPA"
+msgstr "ARPA"
+#
+msgid "ARPA radar target"
+msgstr "ARPA Radar Hedefi"
+#
+msgid "About"
+msgstr "Hakkında"
+#
+msgid "About OpenCPN"
+msgstr "OpenCPN Kılavuzu"
+#
+msgid "Accept Sentences"
+msgstr "Cümleleri Kabul Edin"
+#
+msgid "Accept only sentences"
+msgstr "Sadece Cümleleri Kabulet."
+#
+msgid "Activate"
+msgstr "Etkinleştir"
+#
+msgid "Activate Next Waypoint"
+msgstr "Sonraki Seyirnoktasını Etkinleştir"
+#
+msgid "Active"
+msgstr "Etkin"
+#
+msgid "Active Datasets"
+msgstr "Etkin Veritabanı"
+#
+msgid "Add"
+msgstr "Ekle"
+#
+msgid "Add Connection"
+msgstr "Bağlantı Ekle"
+#
+msgid "Add Dataset..."
+msgstr "Veritabanı Ekle"
+#
+msgid "Add Directory..."
+msgstr "Klasör Ekle"
+#
+msgid "Add MMSI Properties"
+msgstr ""
+#
+msgid "Add a directory containing chart files"
+msgstr "Harita dosyalarını içeren klasörü ekle."
+#
+msgid "Add new"
+msgstr "Yenisini ekle"
+#
+msgid "Address"
+msgstr "Adres"
+#
+msgid "Adelie Land"
+msgstr ""
+#
+msgid "Advance route waypoint on arrival only"
+msgstr ""
+#
+msgid "Advanced"
+msgstr "İleri"
+#
+msgid "Afghanistan"
+msgstr ""
+#
+msgid "Aground"
+msgstr "Karaya oturmuş"
+#
+msgid "Aid to Navigation"
+msgstr "Seyir Yardımcısı"
+#
+msgid "Alaska"
+msgstr ""
+#
+msgid "Albania"
+msgstr ""
+#
+msgid "Algeria"
+msgstr ""
+#
+msgid "All"
+msgstr "Tümü"
+#
+msgid "All Active Charts"
+msgstr "Tüm Etkin Haritalar"
+#
+msgid "All Available Charts"
+msgstr "Tüm Ulaşılabilir Haritalar"
+#
+msgid "All Charts"
+msgstr "Tüm Haritalar"
+#
+msgid "Altitude"
+msgstr "Enlem"
+#
+msgid "Always"
+msgstr ""
+#
+msgid "Always track"
+msgstr ""
+#
+msgid "American Samoa"
+msgstr ""
+#
+msgid ""
+"An NMEA sentence is generally 3 characters long (like RMC, GGA etc.)\n"
+" It can also have a two letter prefix identifying the source, or TALKER, of "
+"the message.\n"
+" The whole sentences then looks like GPGGA or AITXT.\n"
+" You may filter out all the sentences with certain TALKER prefix (like GP, AI "
+"etc.).\n"
+"\n"
+" The filter accepts just these three formats."
+msgstr ""
+#
+msgid "Anchorage Area: Anchorage closed"
+msgstr "Demirleme Bölgesi: Demirlemeye kapalı"
+#
+msgid "Anchorage Area: Anchorage open"
+msgstr "Demirleme Bölgesi: Demirlemeye açık"
+#
+msgid "Anchorage Area: Anchoring prohibited"
+msgstr "Demirleme Bölgesi: Demirlemek yasak"
+#
+msgid "Anchorage Area: Deep draft anchorage"
+msgstr "Demirleme Bölgesi: Derin draft için demirleme"
+#
+msgid "Anchorage Area: Shallow draft anchorage"
+msgstr "Demirleme Bölgesi: Sığ draft için demirleme"
+#
+msgid "Anchorage Area: Vessel transfer operations"
+msgstr "Demirleme Bölgesi: Tekne transfer işlemleri"
+#
+msgid "Anchorage created "
+msgstr "Demiryeri oluşturuldu."
+#
+msgid "Andorra"
+msgstr ""
+#
+msgid "Angola"
+msgstr ""
+#
+msgid "Anguilla"
+msgstr ""
+#
+msgid "Answering 'No' will create a new waypoint at the same location."
+msgstr "'Hayır' yanıtı, aynı yerde yeni bir seyir noktası oluşturacaktır."
+#
+msgid "Answering 'No' will create all new waypoints for this route."
+msgstr "'Hayır' yanıtı bu rotada tümüyle yeni seyir noktaları oluşturacaktır."
+#
+msgid "Antigua and Barbuda"
+msgstr ""
+#
+msgid "Antilles"
+msgstr ""
+#
+msgid "Append Waypoint"
+msgstr "Yeni Seyirnoktası Ekle"
+#
+msgid "Apply"
+msgstr "Uygula"
+#
+msgid "Are you sure you want to delete <ALL> routes?"
+msgstr "Rotaların<TÜMÜNÜ> silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete <ALL> tracks?"
+msgstr "Seyirizlerinin<TÜMÜNÜ> silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete <ALL> waypoints?"
+msgstr "Seyirnoktalarının<TÜMÜNÜ> silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete the selected object(s)"
+msgstr "Seçilenleri silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete this layer and <ALL> of its contents?"
+msgstr "Rotaların<TÜMÜNÜ> silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete this route?"
+msgstr "Bu rotayıi silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to delete this track?"
+msgstr "Bu seyirizini silmek istediğinizden emin misiniz?"
+#
+msgid "Are you sure you want to remove this waypoint?"
+msgstr "Bu seyirnoktasını silmek istediğinizden emin misiniz?"
+#
+msgid "Argentine Republic"
+msgstr ""
+#
+msgid "Armenia"
+msgstr ""
+#
+msgid "Arrival Radius"
+msgstr ""
+#
+msgid "Aruba"
+msgstr ""
+#
+msgid "Ascension Island"
+msgstr ""
+#
+msgid "Assumed 1 Mile Point"
+msgstr "Varsayılan 1 mil noktası"
+#
+msgid "Assumed magnetic variation"
+msgstr ""
+#
+msgid "At Anchor"
+msgstr "Demirde"
+#
+msgid "AtoN"
+msgstr "A'danN'ye"
+#
+msgid "Australia"
+msgstr ""
+#
+msgid "Austria"
+msgstr ""
+#
+msgid "Authors"
+msgstr "Yazarlar"
+#
+msgid "Auto"
+msgstr ""
+#
+msgid "Auto Follow"
+msgstr "Otomatik İzle"
+#
+msgid "AutoSort"
+msgstr ""
+#
+msgid "Automatic Daily Tracks"
+msgstr "Otomatik Günlük Seyirizleri"
+#
+msgid "Avg. speed"
+msgstr "Ortalama hız"
+#
+msgid "Azerbaijani Republic"
+msgstr ""
+#
+msgid "Azores"
+msgstr ""
+#
+msgid "B"
+msgstr "B"
+#
+msgid "Bahamas"
+msgstr ""
+#
+msgid "Bahrain"
+msgstr ""
+#
+msgid "Bangladesh"
+msgstr ""
+#
+msgid "Barbados"
+msgstr ""
+#
+msgid "Base"
+msgstr "Üs"
+#
+msgid "Base Station"
+msgstr "Ana istasyon"
+#
+msgid "Basic"
+msgstr "Temel"
+#
+msgid "Baudrate"
+msgstr "Verihızı"
+#
+msgid "Beacon, Isolated Danger"
+msgstr "Şamandıra, Denetim Altına Alınmış Tehlike"
+#
+msgid "Beacon, Port Hand"
+msgstr "Şamandıra, İskele Geçişli"
+#
+msgid "Beacon, Preferred Channel Port Hand"
+msgstr "Şamandıra, Kanalın İskelesinden Geçin"
+#
+msgid "Beacon, Preferred Channel Starboard Hand"
+msgstr "Şamandıra, Kanalın Sancağından Geçin"
+#
+msgid "Beacon, Safe Water"
+msgstr "Şamandıra, Güvenli Su"
+#
+msgid "Beacon, Special Mark"
+msgstr "Şamandıra, Özel İşaret"
+#
+msgid "Beacon, Starboard Hand"
+msgstr "Şamandıra, Sancak Geçişli"
+#
+msgid "Bearing"
+msgstr "Kerteriz"
+#
+msgid "Bearing (M)"
+msgstr "Kerteriz (D)"
+#
+msgid "Bearings"
+msgstr ""
+#
+msgid "Belarus"
+msgstr ""
+#
+msgid "Belgium"
+msgstr ""
+#
+msgid "Belize"
+msgstr ""
+#
+msgid "Benin"
+msgstr ""
+#
+msgid "Bermuda"
+msgstr ""
+#
+msgid "Bhutan"
+msgstr ""
+#
+msgid "Black"
+msgstr "Siyah"
+#
+msgid "Blacklisted plugin detected..."
+msgstr "Karalisyeye alınmış eklenti belirlendi..."
+#
+msgid "Blue"
+msgstr "Mavi"
+#
+msgid "Bolivia"
+msgstr ""
+#
+msgid "Bosnia and Herzegovina"
+msgstr ""
+#
+msgid "Botswana"
+msgstr ""
+#
+msgid "Boundaries"
+msgstr "Sınırlar"
+#
+msgid "Brazil"
+msgstr ""
+#
+msgid "Brg"
+msgstr "Kerteriz"
+#
+msgid "British Virgin Islands"
+msgstr ""
+#
+msgid "Brunei Darussalam"
+msgstr ""
+#
+msgid "Buddy"
+msgstr "Ad"
+#
+msgid "Bulgaria"
+msgstr ""
+#
+msgid "Buoy/Light Labels"
+msgstr "Şamandıra/Fener Etiketleri"
+#
+msgid "Buoys/Lights"
+msgstr ""
+#
+msgid "Burkina Faso"
+msgstr ""
+#
+msgid "Burundi"
+msgstr ""
+#
+msgid "C&olour:"
+msgstr "&Renk:"
+#
+msgid "CM93 Detail Level"
+msgstr "  CM93 Harita Ayrıntı Ayarı"
+#
+msgid "CM93 Offset Dialog..."
+msgstr "CM93 Ayarı"
+#
+msgid "COG Predictor Length (min)"
+msgstr "COG Gösterge Ok Uzunluğu (dakika)"
+#
+msgid "CPA"
+msgstr "CPA"
+#
+msgid "CPA Calculation"
+msgstr "CPA Hesaplaması"
+#
+msgid "CPA TCPA"
+msgstr "CPA/TCPA"
+#
+msgid "CPA/TCPA Alerts"
+msgstr "CPA/TCPA Alarmları"
+#
+msgid "Call"
+msgstr "Çağrı"
+#
+msgid "Cambodia"
+msgstr ""
+#
+msgid "Cameroon"
+msgstr ""
+#
+msgid "Canada"
+msgstr ""
+#
+msgid "Cancel"
+msgstr "İptal"
+#
+msgid "Cancellation - cancel area as identified by Message Linkage ID"
+msgstr "İptal işlemi- ID Bağlantılı Mesaj olarak tanımlanmış iptal alanı"
+#
+msgid "Cape Verde"
+msgstr ""
+#
+msgid "Card. E"
+msgstr "Kardinal D"
+#
+msgid "Card. N"
+msgstr "Kardinal K"
+#
+msgid "Card. S"
+msgstr "Kardinal G"
+#
+msgid "Card. W"
+msgstr "Kardinal B"
+#
+msgid "Cardinal E Beacon"
+msgstr "Kardinal Şamandırası D"
+#
+msgid "Cardinal Mark E"
+msgstr "Kardinal İşareti D"
+#
+msgid "Cardinal Mark N"
+msgstr "Kardinal İşareti K"
+#
+msgid "Cardinal Mark S"
+msgstr "Kardinal İşareti G"
+#
+msgid "Cardinal Mark W"
+msgstr "Kardinal İşareti W"
+#
+msgid "Cardinal N Beacon"
+msgstr "Kardinal Şamandırası K"
+#
+msgid "Cardinal S Beacon"
+msgstr "Kardinal Şamandırası G"
+#
+msgid "Cardinal W Beacon"
+msgstr "Kardinal Şamandırası B"
+#
+msgid "Cargo Ship"
+msgstr "Kargo Gemisi"
+#
+msgid "Caution Area: Cluster of fishing vessels"
+msgstr "Bölgesel Uyarı: Balıkçı tekneleri çarpışabilir"
+#
+msgid "Caution Area: Derelicts (drifting objects)"
+msgstr "Bölgesel Uyarı: Sürüklenen nesneler"
+#
+msgid "Caution Area: Divers down"
+msgstr "Bölgesel Uyarı: Dalgıçlar suda"
+#
+msgid "Caution Area: Dredge operations"
+msgstr "Bölgesel Uyarı: Sürükleme manevraları"
+#
+msgid "Caution Area: Fairway closed"
+msgstr "Bölgesel Uyarı: Geçiş kapalı"
+#
+msgid "Caution Area: Fishery - nets in water"
+msgstr "Bölgesel Uyarı: Balıkçılık - suda balıkçı ağları"
+#
+msgid "Caution Area: Harbour closed"
+msgstr "Bölgesel Uyarı: Liman kapalı"
+#
+msgid "Caution Area: Marine event"
+msgstr "Bölgesel Uyarı: Deniz olayı"
+#
+msgid "Caution Area: Marine mammals habitat (implies whales NOT observed)"
+msgstr "Bölgesel Uyarı: Deniz memelileri (balina gözlenmedi)"
+#
+msgid "Caution Area: Marine mammals in area - reduce speed"
+msgstr "Bölgesel Uyarı: Deniz memelileri, hız kesin"
+#
+msgid "Caution Area: Marine mammals in area - report sightings"
+msgstr "Bölgesel Uyarı: Deniz memelileri - görüldüğü belirtildi"
+#
+msgid "Caution Area: Marine mammals in area - stay clear"
+msgstr "Bölgesel Uyarı: Deniz memelileri bölgesi - temiz olun"
+#
+msgid "Caution Area: Protected habitat - no fishing or anchoring"
+msgstr "Bölgesel Uyarı: Doğa koruması - balık avlanmayın, demirlenmeyin"
+#
+msgid "Caution Area: Protected habitat - reduce speed"
+msgstr "Bölgesel Uyarı: Doğa koruması - hızı zaltın"
+#
+msgid "Caution Area: Protected habitat - stay clear"
+msgstr "Bölgesel Uyarı: Doğa koruması - temiz olun"
+#
+msgid "Caution Area: Risk (define in Associated text field)"
+msgstr "Bölgesel Uyarı: Risk (Birleşik metinde belirtiliyor)"
+#
+msgid "Caution Area: Seaplane operations"
+msgstr "Bölgesel Uyarı: Deniz uçağı manevraları"
+#
+msgid "Caution Area: Survey operations"
+msgstr "Bölgesel Uyarı: Survey manevraları"
+#
+msgid "Caution Area: Swim area"
+msgstr "Bölgesel Uyarı: Yüzme bölgesi"
+#
+msgid "Caution Area: Traffic congestion"
+msgstr "Bölgesel Uyarı: Trafik kavşak alanı"
+#
+msgid "Caution Area: Underwater operation"
+msgstr "Bölgesel Uyarı: Sualtı manevrası"
+#
+msgid "Caution Area: Underwater vehicle operation"
+msgstr "Bölgesel Uyarı: Sualtı aracı manevrası"
+#
+msgid "Cayman Islands"
+msgstr ""
+#
+msgid "Cell"
+msgstr "Hücre"
+#
+msgid "Cell Scale"
+msgstr "Hücre Ölçütü"
+#
+msgid "Center View"
+msgstr "Merkez Görünüm"
+#
+msgid "Center View..."
+msgstr "Merkez Görünüm"
+#
+msgid "Central African Republic"
+msgstr ""
+#
+msgid "Chad"
+msgstr ""
+#
+msgid "Change Color Scheme"
+msgstr "Renk Tonunu Değiştir"
+#
+msgid "Chart Detail"
+msgstr ""
+#
+msgid "Chart Display"
+msgstr ""
+#
+msgid "Chart Feature: Bridge closed"
+msgstr "Harita Durumu: Köprü kapalı"
+#
+msgid "Chart Feature: Bridge fully open"
+msgstr "Harita Durumu: Köprü tümüyle açık"
+#
+msgid "Chart Feature: Bridge partially open"
+msgstr "Harita Durumu: Köprü kısmen açık"
+#
+msgid "Chart Feature: Channel obstruction"
+msgstr "Harita Durumu: Kanal engelliyor"
+#
+msgid "Chart Feature: Reduced vertical clearance"
+msgstr "Harita Durumu: Kısıtlı dikey açıklık"
+#
+msgid "Chart Feature: Semi-submerged object"
+msgstr "Harita Durumu: Yarı baıtık nesne"
+#
+msgid "Chart Feature: Shoal area"
+msgstr "Harita Durumu: Sığ su bölgesi"
+#
+msgid "Chart Feature: Shoal area due east"
+msgstr "Harita Durumu: Doğudan sığ su bölgesi"
+#
+msgid "Chart Feature: Shoal area due north"
+msgstr "Harita Durumu: Kuzeyden sığ su bölgesi"
+#
+msgid "Chart Feature: Shoal area due south"
+msgstr "Harita Durumu: Güneyden sığ su bölgesi"
+#
+msgid "Chart Feature: Shoal area due west"
+msgstr "Harita Durumu: Batıdan sığ su bölgesi"
+#
+msgid "Chart Feature: Submerged object"
+msgstr "Harita Durumu: Suüstüne çıkmış nesne"
+#
+msgid "Chart Feature: Sunken vessel"
+msgstr "Harita Durumu: Batık tekne"
+#
+msgid "Chart Files"
+msgstr ""
+#
+msgid "Chart Groups"
+msgstr "Harita Grupları"
+#
+msgid "Chart Information Objects"
+msgstr "Harita Bilgi Nesneleri"
+#
+msgid "Chart Print"
+msgstr "Haritayı Yazdır"
+#
+msgid "Chart Texts"
+msgstr ""
+#
+msgid "Chart Up Mode"
+msgstr "Harita Yukarı Yönlü Durumu"
+#
+msgid "Chart Zoom/Scale Weighting"
+msgstr ""
+#
+msgid "Chart1::Event...TCMgr Not Available"
+msgstr "Harita1::Olay...TCMgr'ye ulaşılmıyor."
+#
+msgid "ChartTexts"
+msgstr "Harita Metinleri"
+#
+msgid "Charts"
+msgstr "Haritalar"
+#
+msgid "Chile"
+msgstr ""
+#
+msgid "China"
+msgstr ""
+#
+msgid "Choose Font Color..."
+msgstr "Yazı Rengini Seçin"
+#
+msgid "Choose Font..."
+msgstr "Yazı Türünü Seçin"
+#
+msgid "Choose Format for Copy"
+msgstr "Kopyalamak İçin Yazı Şekillendirmesini Seçiniz"
+#
+msgid "Choose a file"
+msgstr "Dosya seçin"
+#
+msgid "Christmas Island"
+msgstr ""
+#
+msgid "Class"
+msgstr "Sınıfı"
+#
+msgid "Clear"
+msgstr "Sil"
+#
+msgid "Clear All"
+msgstr "Tümünü Sil"
+#
+msgid "Clear Anchor Watch"
+msgstr "Demir Nöbetçisini Sil"
+#
+msgid "Clear Texture Cache"
+msgstr ""
+#
+msgid "Clearance granted - proceed to berth"
+msgstr "Görüş sağlandı - manevraya  devam"
+#
+msgid "Click to cancel the font selection."
+msgstr "Yazı türü seçimini iptal etmek için tıklayın."
+#
+msgid "Click to confirm the font selection."
+msgstr "Yazı türü seçimini onaylamak için tıklayın."
+#
+msgid "Close"
+msgstr "Kapat"
+#
+msgid "CoG"
+msgstr "COG"
+#
+msgid "Cocos"
+msgstr ""
+#
+msgid "Colombia"
+msgstr ""
+#
+msgid "Color"
+msgstr "Renk"
+#
+msgid "Color:"
+msgstr "Renk:"
+#
+msgid "Colors"
+msgstr "Renkler"
+#
+msgid "Combo!"
+msgstr "Açılır menü!"
+#
+msgid "Comoros"
+msgstr ""
+#
+msgid "Comoros (Union of the)"
+msgstr ""
+#
+msgid "Confirm deletion of tracks and routes"
+msgstr "Rota ve Seyirizlerinin İptalini Onaylat"
+#
+msgid "Congo"
+msgstr ""
+#
+msgid "Connection"
+msgstr "Bağlantılar"
+#
+msgid "Connections"
+msgstr "Bağlantılar"
+#
+msgid "Console Legend"
+msgstr "Kumanda Paneli Açıklaması"
+#
+msgid "Console Value"
+msgstr "Kumanda Paneli Değeri"
+#
+msgid "Constrained by draught"
+msgstr "Su kesimiyle sınırlı"
+#
+msgid "Control checksum"
+msgstr "Toplu denetim "
+#
+msgid "Controls"
+msgstr ""
+#
+msgid "Convert AIVDM to AIVDO for this MMSI"
+msgstr ""
+#
+msgid "Cook Islands"
+msgstr ""
+#
+msgid "Copy"
+msgstr ""
+#
+msgid "Copy As KML"
+msgstr "KML Olarak Kopyala"
+#
+msgid "Copy Log File to Clipboard"
+msgstr "Kütük Dosyasını Panoya Kopyala"
+#
+msgid "Copy Settings File to Clipboard"
+msgstr "Kopya Seçenekleri Dosyasını Panoya Kopyala"
+#
+msgid "Copy as KML"
+msgstr "KML Olarak Kopyala"
+#
+msgid "Copy as KML..."
+msgstr "KML Olarak Kopyala"
+#
+msgid "Copy lat/long"
+msgstr ""
+#
+msgid "Costa Rica"
+msgstr ""
+#
+msgid "Course"
+msgstr "Yön"
+#
+msgid "Course (M)"
+msgstr "Yön (D)"
+#
+msgid "Course Up"
+msgstr ""
+#
+msgid "Course Up Mode"
+msgstr "Yön Yukarı Durumu"
+#
+msgid "Course-Up Update Period"
+msgstr ""
+#
+msgid "Create Route"
+msgstr "Rota Oluştur"
+#
+msgid "Create WPT"
+msgstr "Seyirnoktası Oluştur"
+#
+msgid "Create Waypoint"
+msgstr "Seyirnoktaso Oluştur"
+#
+msgid "Croatia"
+msgstr ""
+#
+msgid "Crozet Archipelago"
+msgstr ""
+#
+msgid "Cuba"
+msgstr ""
+#
+msgid "Current"
+msgstr ""
+#
+msgid "CurrentValue"
+msgstr "Akıntı"
+#
+msgid "Cyan"
+msgstr "Deniz mavisi"
+#
+msgid "Cyprus"
+msgstr ""
+#
+msgid "Czech Republic"
+msgstr ""
+#
+msgid "D/V"
+msgstr "D/V"
+#
+msgid "DSC"
+msgstr "DSC"
+#
+msgid "DSC Distress"
+msgstr "Tehlike"
+#
+msgid "DSC Position Report"
+msgstr "Mevki Raporu"
+#
+msgid "Dark Blue"
+msgstr "Koyu Mavi"
+#
+msgid "Dark Cyan"
+msgstr "Koyu Cyan"
+#
+msgid "Dark Gray"
+msgstr "Koyu Gri"
+#
+msgid "Dark Green"
+msgstr "Koyu Yeşil"
+#
+msgid "Dark Magenta"
+msgstr "Koyu Magenta"
+#
+msgid "Dark Red"
+msgstr "Koyu Kırmızı"
+#
+msgid "Dark Yellow"
+msgstr "Koyu Sarı"
+#
+msgid "Data Connections"
+msgstr "Veri Bağlanıları"
+#
+msgid "Data Source :"
+msgstr ""
+#
+msgid "Data connection must be input, output or both"
+msgstr "Veri bağlantısı gerekir giriş, çıkış veya her ikisi de"
+#
+msgid "DataPort"
+msgstr "Bağlantı Noktası"
+#
+msgid "Daytime"
+msgstr "Gündüz"
+#
+msgid "De-Cluttered Text"
+msgstr "Dağınık Metin"
+#
+msgid "Deactivate"
+msgstr "Etkisizleştir"
+#
+msgid "Decimal Degrees"
+msgstr "Ondalık Dakika"
+#
+msgid "Deep Depth"
+msgstr "Derin Su"
+#
+msgid "Default"
+msgstr "Varsayılan"
+#
+msgid "Default color"
+msgstr "Varsayılan renk"
+#
+msgid "Default tracking"
+msgstr ""
+#
+msgid "Degrees, Decimal Minutes"
+msgstr "Dereceler, Ondalık Dakika"
+#
+msgid "Degrees, Minutes, Seconds"
+msgstr "Derece, Dakika, Saniye"
+#
+msgid "Delete"
+msgstr "Sil"
+#
+msgid "Delete All"
+msgstr "Tümünü sil"
+#
+msgid "Delete Group"
+msgstr "Grubu Sil"
+#
+msgid "Delete Waypoint"
+msgstr "Seyirnoktasını Sil"
+#
+msgid "Delete..."
+msgstr "Sil"
+#
+msgid "Dem Rep.of the Congo"
+msgstr ""
+#
+msgid "Denmark"
+msgstr ""
+#
+msgid "Depart From"
+msgstr "Kalkış Limanı"
+#
+msgid "Departure Time (m/d/y h:m)"
+msgstr "Kalkış (Ay/Gün/Yıl Saat:Dakika)"
+#
+msgid "Depth"
+msgstr ""
+#
+msgid "Depth Soundings"
+msgstr "Derinlik Ölçümleri"
+#
+msgid "Description"
+msgstr "Açıklama"
+#
+msgid "Destination"
+msgstr "Varış Limanı"
+#
+msgid "Dialog"
+msgstr "İletişim"
+#
+msgid "Directories"
+msgstr "Klasörler"
+#
+msgid "Disable"
+msgstr "Kaldır"
+#
+msgid "Disable Full Screen Quilting"
+msgstr "Haritaları Tam Ekranda Birbirine Ekleme"
+#
+msgid "Disable Tracking"
+msgstr ""
+#
+msgid "Display"
+msgstr "Görünüm"
+#
+msgid "Display Category"
+msgstr "Görünüm Sınıfı"
+#
+msgid "Display Features"
+msgstr ""
+#
+msgid "Display Options"
+msgstr "Görünüm Seçenekleri"
+#
+msgid "Display parameters"
+msgstr "Görüntü Değişkenleri"
+#
+msgid "Distance"
+msgstr "Tekneden Uzaklık"
+#
+msgid "Distance Between Rings"
+msgstr "Halkalar Arası Uzaklık"
+#
+msgid "Distance Unit"
+msgstr "Uzaklık Birimi"
+#
+msgid "Distance from Ownship"
+msgstr "Tekneden Uzaklık"
+#
+msgid "Distress"
+msgstr "Tehlike"
+#
+msgid "Distress Area: Person overboard"
+msgstr "Sıkıntılı Bölge: Denize adam düştü"
+#
+msgid "Distress Area: Pollution response area"
+msgstr "Sıkıntılı Bölge: Kirliliğe duyarlı bölge"
+#
+msgid "Distress Area: SAR area"
+msgstr "Sıkıntılı Bölge: SAR bölgesi"
+#
+msgid "Distress Area: Vessel abandoning ship"
+msgstr "Sıkıntılı Bölge: Gemiden ayrılan tekne"
+#
+msgid "Distress Area: Vessel collision"
+msgstr "Sıkıntılı Bölge: Tekne çarpışması"
+#
+msgid "Distress Area: Vessel disabled and adrift"
+msgstr "Sıkıntılı Bölge: Sürüklenen, hareket yeteneği olmayan tekne"
+#
+msgid "Distress Area: Vessel fire/explosion"
+msgstr "Sıkıntılı Bölge: Tekne yangını/patlaması"
+#
+msgid "Distress Area: Vessel flooding"
+msgstr "Sıkıntılı Bölge: Su alan tekne"
+#
+msgid "Distress Area: Vessel grounding"
+msgstr "Sıkıntılı Bölge: Karaya oturan tekne"
+#
+msgid "Distress Area: Vessel listing/capsizing"
+msgstr "Sıkıntılı Bölge: Alabora olan tekne"
+#
+msgid "Distress Area: Vessel requests medical assistance"
+msgstr "Sıkıntılı Bölge: Tıbbi yardım isteyen tekne"
+#
+msgid "Distress Area: Vessel sinking"
+msgstr "Sıkıntılı Bölge: Batan tekne"
+#
+msgid "Distress Area: Vessel under assault"
+msgstr "Sıkıntılı Bölge: Saldırıya uğrayan tekne"
+#
+msgid "Djibouti"
+msgstr ""
+#
+msgid ""
+"Do you also want to make the shared waypoints being part of this route "
+"invisible?"
+msgstr ""
+"Paylaşılmış seyirnoktalarının da bu rotanın bir parçası olarak görünmemesini "
+"istiyor musunuz?"
+#
+msgid "Dominica"
+msgstr ""
+#
+msgid "Dominican Republic"
+msgstr ""
+#
+msgid "Done."
+msgstr "İşlem tamam."
+#
+msgid "Dot"
+msgstr "Noktalı"
+#
+msgid "Dot dash"
+msgstr "Noktalı kesili çizgi"
+#
+msgid "Dredge"
+msgstr "Tarama"
+#
+msgid "Drop MOB Marker"
+msgstr "DAD (Denize Adam Düştü) işareti bırak"
+#
+msgid "Drop Mark"
+msgstr "Seyirnoktası/İşaret Oluştur"
+#
+msgid "Drop Mark at Boat"
+msgstr ""
+#
+msgid "Drop Mark at Cursor"
+msgstr ""
+#
+msgid "Drop Sentences"
+msgstr "Cümleleri Dikkate Alma"
+#
+msgid "Drop sentences"
+msgstr "Cümleleri dikkate alma"
+#
+msgid "ETA"
+msgstr "ETA, Hesaplanan Varış Zamanı :"
+#
+msgid "ETA          "
+msgstr "ETA, Hesaplanan Varış Zamanı                                          "
+#
+msgid "ETA (UTC)"
+msgstr "ETA (UTC)"
+#
+msgid "ETE"
+msgstr "ETE, Hesaplanan Yol Süresi"
+#
+msgid "ETE/ETD"
+msgstr "ETE/ETD Hesaplanan YolSüresi/KalkışZamanı"
+#
+msgid "Ecuador"
+msgstr ""
+#
+msgid "Edit"
+msgstr "Değiştir"
+#
+msgid "Edit MMSI Properties"
+msgstr ""
+#
+msgid "Edit..."
+msgstr ""
+#
+msgid "Egypt"
+msgstr ""
+#
+msgid "El Salvador"
+msgstr ""
+#
+msgid "Elapsed time : "
+msgstr "Geçen süre:"
+#
+msgid "Elements to print..."
+msgstr "Basılacaklar"
+#
+msgid "Enable"
+msgstr "Etkinleştir"
+#
+msgid "Enable Chart Quilting"
+msgstr "Haritaları Birbirine Ekle"
+#
+msgid "Enable Tablet Scaled Graphics interface"
+msgstr ""
+#
+msgid "Enable Target Alert Acknowledge timeout (min)"
+msgstr "Hedef Alarm Bilgisini Etkinleştir, Sıklığı (Dakika ):"
+#
+msgid "Enable Touchscreen interface"
+msgstr ""
+#
+msgid "Enable Tracking"
+msgstr ""
+#
+msgid "Enable Transparent Toolbar"
+msgstr "Şeffaf Araç Çubuğunu Etkinleştir"
+#
+msgid "End Route"
+msgstr "Rota Sonu"
+#
+msgid "Engaged in Fishing"
+msgstr "Balık Avlıyor"
+#
+msgid "Enter Full Screen"
+msgstr ""
+#
+msgid "Enter Group Name"
+msgstr "Grup Adını Gir"
+#
+msgid "Enter the NMEA sentence"
+msgstr "NMEA Cümlesi Gir"
+#
+msgid "Enter the NMEA sentence (2, 3 or 5 characters)"
+msgstr "NMEA Cümlesi Gir (2, 3 ya da 5 harfli)"
+#
+msgid "Environmental Caution Area: Hazardous sea ice"
+msgstr "Çevresel Uyarı Bölgesi: Tehlikeli deniz buzu."
+#
+msgid "Environmental Caution Area: Heavy icing"
+msgstr "Çevresel Uyarı Bölgesi: Ağır buzlanma"
+#
+msgid "Environmental Caution Area: High waves"
+msgstr "Çevresel Uyarı Bölgesi: Yüksek dalgalar"
+#
+msgid "Environmental Caution Area: High wind"
+msgstr "Çevresel Uyarı Bölgesi: Aşırı rüzgar"
+#
+msgid "Environmental Caution Area: Restricted visibility (fog, rain, etc.)"
+msgstr "Çevresel Uyarı Bölgesi: Sınırlı görüş alanı (sis, yağmur, vs.)"
+#
+msgid "Environmental Caution Area: Storm front (line squall)"
+msgstr "Çevresel Uyarı Bölgesi: Fırtına cephesi (fırtına hattı)"
+#
+msgid "Environmental Caution Area: Storm warning (storm cell or line of storms)"
+msgstr "Çevresel Uyarı Bölgesi: Fırtına uyarısı (fırtına hattı ya da alanı)"
+#
+msgid "Environmental Caution Area: Strong currents"
+msgstr "Çevresel Uyarı Bölgesi: Güçlü akıntılar"
+#
+msgid "Equatorial Guinea"
+msgstr ""
+#
+msgid "Eritrea"
+msgstr ""
+#
+msgid "Error on Waypoint Upload.  Garmin GPS not connected"
+msgstr ""
+"Seyirnoktası yüklenirken hata oluştu. Lütfen kayıt dosyalarını kontrol edin..."
+#
+msgid "Error on Waypoint Upload.  Please check logfiles..."
+msgstr ""
+"Seyirnoktası yüklenirken hata oluştu. Lütfen kayıt dosyalarını kontrol edin..."
+#
+msgid "Estimated time : "
+msgstr "Tahmini süre: "
+#
+msgid "Estonia"
+msgstr ""
+#
+msgid "Ethiopia"
+msgstr ""
+#
+msgid "EvTwilight"
+msgstr "GeceYarısı"
+#
+msgid "Export"
+msgstr "&Seyirnoktasını Kaydet "
+#
+msgid "Export All Visible..."
+msgstr "Görünenleri Kaydet"
+#
+msgid "Export GPX file"
+msgstr "Kaydet (.gpx)"
+#
+msgid "Extend"
+msgstr "Uzantı"
+#
+msgid "Extend Route"
+msgstr "Rotayı Uzat"
+#
+msgid "Extend Track"
+msgstr "Seyirizini Uzat"
+#
+msgid "Extended"
+msgstr "Uzantılı"
+#
+msgid "Extended Light Sectors"
+msgstr "Uzatılı Fener Alanları"
+#
+msgid "ExtendedTideIcon"
+msgstr "Uzantılı Gelgit Simgesi"
+#
+msgid "F/V"
+msgstr "F/V"
+#
+msgid "Failed to initialize the user interface. "
+msgstr "Kullanıcı seçenekleri başlatılamadı."
+#
+msgid "Falkland Islands"
+msgstr ""
+#
+msgid "Faroe Islands"
+msgstr ""
+#
+msgid "Fathoms"
+msgstr "Kulaç"
+#
+msgid "Feet"
+msgstr "Ayak"
+#
+msgid "Fiji"
+msgstr ""
+#
+msgid "Filter NMEA Course and Speed data"
+msgstr "NMEA Yön ve Hız Verisini Süz."
+#
+msgid "Filter period (sec)"
+msgstr "Süzme Sıklığı (dakika ) "
+#
+msgid "Filters"
+msgstr "Filtreler"
+#
+msgid "Finland"
+msgstr ""
+#
+msgid "Fix.Struct."
+msgstr "Sabit Yapı"
+#
+msgid "Fixed Structure"
+msgstr "Sabit Yapı"
+#
+msgid "Flag"
+msgstr ""
+#
+msgid "Fonts"
+msgstr "Yazım Şekli Değiştirilebilir Birimler"
+#
+msgid "For this leg the Great Circle route is "
+msgstr "Bu bacak için Büyük Daire Rotası,"
+#
+msgid "Force Full Database Rebuild"
+msgstr "Tüm Veritabanını Yeniden Yapılandırmaya Zorla"
+#
+msgid "Format uploads for Furuno GP3X"
+msgstr "Furuno GP3X'e Göre Formatla"
+#
+msgid "France"
+msgstr ""
+#
+msgid "French Polynesia"
+msgstr ""
+#
+msgid "From"
+msgstr "Kalkış Limanı"
+#
+msgid "Full Route"
+msgstr "Tüm Rota"
+#
+msgid "GPS Offset from Bow (m)"
+msgstr "Pruvadan GPS Ayarı (m)"
+#
+msgid "GPS Offset from Midship (m)"
+msgstr "Tekne Merkezinden GPS ayarı (m)"
+#
+msgid "GPSD"
+msgstr "GÜGD"
+#
+msgid "GPSGate Buddy"
+msgstr "GPSKapı Adı"
+#
+msgid "GPX"
+msgstr "GPX"
+#
+msgid "GUID"
+msgstr "REHBER"
+#
+msgid "Gabonese Republic"
+msgstr ""
+#
+msgid "Gambia"
+msgstr ""
+#
+msgid "General"
+msgstr "Genel"
+#
+msgid "General Options"
+msgstr "Genel Seçenekler"
+#
+msgid "Georgia"
+msgstr ""
+#
+msgid "Germany"
+msgstr ""
+#
+msgid "Ghana"
+msgstr ""
+#
+msgid "Gibraltar"
+msgstr ""
+#
+msgid "Go to "
+msgstr "Oraya git"
+#
+msgid "GpsGate Buddy"
+msgstr "GPS Bağlantı Noktası"
+#
+msgid "Graphics"
+msgstr ""
+#
+msgid "Graphics Style"
+msgstr ""
+#
+msgid "Great Britain"
+msgstr ""
+#
+msgid "Greece"
+msgstr ""
+#
+msgid "Green"
+msgstr "Yeşil"
+#
+msgid "Greenland"
+msgstr ""
+#
+msgid "Grenada"
+msgstr ""
+#
+msgid "Group \""
+msgstr "Grup \""
+#
+msgid "Guadeloupe"
+msgstr ""
+#
+msgid "Guatemala"
+msgstr ""
+#
+msgid "Guiana"
+msgstr ""
+#
+msgid "Guinea"
+msgstr ""
+#
+msgid "Guinea-Bissau"
+msgstr ""
+#
+msgid "Guyana"
+msgstr ""
+#
+msgid "HSC"
+msgstr "HSC"
+#
+msgid "HW"
+msgstr ""
+#
+msgid "Haiti"
+msgstr ""
+#
+msgid "Handle this MMSI as SART/PLB(AIS) MOB."
+msgstr ""
+#
+msgid "Heading"
+msgstr "Puruva"
+#
+msgid "Heading Predictor Length (NMi)"
+msgstr ""
+#
+msgid "Help"
+msgstr "Yardım"
+#
+msgid "Here"
+msgstr "Buraya"
+#
+msgid "Hide AIS Targets"
+msgstr "AIS Hedeflerini Gizle"
+#
+msgid "Hide All Tracks"
+msgstr "Hedef İzlemeyi Gizle"
+#
+msgid "Hide Currents"
+msgstr ""
+#
+msgid "Hide ENC Text (T)"
+msgstr ""
+#
+msgid "Hide Target CPA"
+msgstr "CPA Hedefini Gizle"
+#
+msgid "Hide Target Track"
+msgstr "Hedef İzlemeyi Gizle"
+#
+msgid "Hide This Chart"
+msgstr "Bu Haritayı Gizle"
+#
+msgid "Hide Tides"
+msgstr ""
+#
+msgid "Hide WPT names"
+msgstr "Seyirnoktası adlarını gizle"
+#
+msgid "Hide anchored/moored targets, speed max (kn)"
+msgstr "Demirdeki/Tonozdaki Hedefleri Gizle, En Yüksek Hız (knot)"
+#
+msgid "Hide from chart"
+msgstr "Haritada gizle"
+#
+msgid "High"
+msgstr "Yüksek"
+#
+msgid "High Speed Craft"
+msgstr "Yüksek Hızlı Tekne"
+#
+msgid "Highlight Tracks"
+msgstr "Seyirizlerini Aydınlat"
+#
+msgid "Honduras"
+msgstr ""
+#
+msgid "Hong Kong"
+msgstr ""
+#
+msgid "Hungary"
+msgstr ""
+#
+msgid "I&mport GPX..."
+msgstr "&Dosya Aç (.gpx)"
+#
+msgid "IMO"
+msgstr "IMO"
+#
+msgid "Iceland"
+msgstr ""
+#
+msgid "Icon"
+msgstr "Simge"
+#
+msgid "If checked, only the sentences with a valid checksum are passed through"
+msgstr "Eğer işaretlenmişse, sadece işaret toplamı cümleler geçecektir."
+#
+msgid "Ignore"
+msgstr ""
+#
+msgid "Ignore Sentences"
+msgstr "Cümleleri Dikkate Alma"
+#
+msgid "Ignore sentences"
+msgstr "Cümleleri Dikkate Alma"
+#
+msgid "Ignore this MMSI"
+msgstr ""
+#
+msgid "Import GPX file"
+msgstr "Dosya Aç  (.gpx)"
+#
+msgid "Important Text Only"
+msgstr "Sadece Önemli Metinler"
+#
+msgid "Incompatible PlugIn detected:\n"
+msgstr ""
+#
+msgid "India"
+msgstr ""
+#
+msgid "Indonesia"
+msgstr ""
+#
+msgid "Information Message or Message with errors"
+msgstr ""
+#
+msgid "Information: Icebreaker waiting area"
+msgstr "Bilgi: Buzkıran bekleme sahası"
+#
+msgid "Information: Location of response units"
+msgstr "Bilgi: Karşılık birimlerinin yeri"
+#
+msgid "Information: Pilot boarding position"
+msgstr "Bilgi: Pilot bordalama durumu"
+#
+msgid "Information: Places of refuge"
+msgstr "Bilgi: Sığınmacı yerleri"
+#
+msgid "Information: Position of icebreakers"
+msgstr "Bilgi: Buzkıranların mevkii"
+#
+msgid "Inland Blue Flag"
+msgstr "Anakara Mavi Bayrak"
+#
+msgid "Input Message filtered and dropped"
+msgstr ""
+#
+msgid "Input filtering"
+msgstr "Giriş Filtresi"
+#
+msgid "Input message filtered, output message filtered and dropped"
+msgstr ""
+#
+msgid "Insert Waypoint"
+msgstr "Araya Seyirnoktası Ekle"
+#
+msgid ""
+"Instruction: Await instructions prior to proceeding beyond this point/juncture"
+msgstr "Talimat: Bu noktadan ileri geçmek için talimatları bekleyin"
+#
+msgid "Instruction: Contact Port Administration at this point/juncture"
+msgstr "Talimat: Bu noktada Liman Yönetimiyle bağlantı kurun"
+#
+msgid "Instruction: Contact VTS at this point/juncture"
+msgstr "Talimat: Bu noktada VTS ile bağlantı kurun"
+#
+msgid "Instruction: Do not proceed beyond this point/juncture"
+msgstr "Talimat: Bu noktadan öteye geçmeyin"
+#
+msgid "Interface Options"
+msgstr ""
+#
+msgid "Iran"
+msgstr ""
+#
+msgid "Iraq"
+msgstr ""
+#
+msgid "Ireland"
+msgstr ""
+#
+msgid "Isol. Dngr"
+msgstr "Denetim altına alınmış tehlike"
+#
+msgid "Isolated Danger"
+msgstr "Denetim altına alınmış tehlike"
+#
+msgid "Israel"
+msgstr ""
+#
+msgid "It seems you have no tide/current harmonic data installed."
+msgstr ""
+#
+msgid "Italy"
+msgstr ""
+#
+msgid "Ivory Coast"
+msgstr ""
+#
+msgid "Jamaica"
+msgstr ""
+#
+msgid "Japan"
+msgstr ""
+#
+msgid "Jordan"
+msgstr ""
+#
+msgid "KML Standard (Google Earth and others)"
+msgstr "KML Standardı(Google Earth ve diğer)"
+#
+msgid "KML with extended waypoint data (QtVlm)"
+msgstr "Uzatılmış Seyirnoktası verili KML (QtVlm)"
+#
+msgid "Kazakhstan"
+msgstr ""
+#
+msgid "Kenya"
+msgstr ""
+#
+msgid "Kerguelen Islands"
+msgstr ""
+#
+msgid "Kilometers"
+msgstr "Kilometre"
+#
+msgid "Kiribati"
+msgstr ""
+#
+msgid "Knots"
+msgstr "Knot"
+#
+msgid "Korea"
+msgstr ""
+#
+msgid "Kuwait"
+msgstr ""
+#
+msgid "Kyrgyz Republic"
+msgstr ""
+#
+msgid "LE/V"
+msgstr "LE/V"
+#
+msgid "LMT @ Location"
+msgstr "Mevkideki LMT"
+#
+msgid "LMT @ Track Start"
+msgstr "LMT @ İzsürümü Başlat"
+#
+msgid "LW"
+msgstr ""
+#
+msgid "Language"
+msgstr "Dil"
+#
+msgid "Lao People's Dem. Rep."
+msgstr ""
+#
+msgid "Larger Scale Chart"
+msgstr ""
+#
+msgid "Lat/Long"
+msgstr ""
+#
+msgid "Latitude"
+msgstr "Enlem"
+#
+msgid "Latvia"
+msgstr ""
+#
+msgid "Law Enforcement Vessel"
+msgstr "Yasal Denetim Teknesi"
+#
+msgid "Layer Name"
+msgstr "Etiket Adı"
+#
+msgid "Layer Route"
+msgstr "Etiket Rotası"
+#
+msgid "Layer Route: "
+msgstr "Etiket Rotası"
+#
+msgid "Layer Routepoint"
+msgstr "Etiket Rotanoktası"
+#
+msgid "Layer Track"
+msgstr "Etiket Seyirizi"
+#
+msgid "Layer Waypoint"
+msgstr "Etiket Seyirnoktası"
+#
+msgid "Layers"
+msgstr "Etiketler"
+#
+msgid "Ldg Lt Front"
+msgstr "Ön Işık Ldg"
+#
+msgid "Ldg Lt Rear"
+msgstr "Arka Işık Ldg"
+#
+msgid "Leading Light Front"
+msgstr "Yönlendirici Işık (Ön)"
+#
+msgid "Leading Light Rear"
+msgstr "Yönlendirici Işık (Arka)"
+#
+msgid "Lebanon"
+msgstr ""
+#
+msgid "Left"
+msgstr "Sol"
+#
+msgid "Leg"
+msgstr "Bacak"
+#
+msgid "Leg: from "
+msgstr "Başlangıç"
+#
+msgid "Legend"
+msgstr ""
+#
+msgid "Length"
+msgstr "Uzunluk"
+#
+msgid "Length Over All (m)"
+msgstr "Tüm Uzunluk (m)"
+#
+msgid "Lesotho"
+msgstr ""
+#
+msgid "Liberia"
+msgstr ""
+#
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+#
+msgid "License"
+msgstr "Lisans"
+#
+msgid "Liechtenstein"
+msgstr ""
+#
+msgid "Light"
+msgstr "Fener"
+#
+msgid "Light Descriptions"
+msgstr "Fener Açıklamaları"
+#
+msgid "Light Gray"
+msgstr "Gri Işık"
+#
+msgid "Light Vessel/Rig"
+msgstr "Tekne/donanım Feneri"
+#
+msgid "Light w/Sectors"
+msgstr "Fener w/Alanları"
+#
+msgid "Limit range: NM"
+msgstr "Uzaklık sınırı : NM"
+#
+msgid "Link"
+msgstr "Bağlantı"
+#
+msgid "Link Properties"
+msgstr "Bağlantı Özellikleri"
+#
+msgid "Link description"
+msgstr "Bağlantı açıklaması"
+#
+msgid "Link not complete, can't be saved."
+msgstr "Bağlantı tamamlanmadı, kaydedilemiyor."
+#
+msgid "Links"
+msgstr "Bağlantılar"
+#
+msgid "Links are opened for editing."
+msgstr "Bağlantılar düzeltme için açılır."
+#
+msgid "Links are opened in the default browser."
+msgstr "Bağlantılar varsayılan tarayıcıda açılır."
+#
+msgid "List contents"
+msgstr "İçeriği listele"
+#
+msgid "Lithuania"
+msgstr ""
+#
+msgid "Local @ PC"
+msgstr "Bilgisayardaki yeri"
+#
+msgid "Local file..."
+msgstr "Bilgisayardaki dosya yolu"
+#
+msgid "Lock Waypoints (Unless waypoint property dialog visible)"
+msgstr ""
+"Tüm Seyirnoktalarını Kilitle (Seyirnoktası özellikler penceresi görünmedikçe)"
+#
+msgid "Long Tow"
+msgstr "Uzun Yedek"
+#
+msgid "Long dash"
+msgstr "Uzun kesili çizgi"
+#
+msgid "Longitude"
+msgstr "Boylam"
+#
+msgid "Look Ahead Mode"
+msgstr "Puruva Yönünde Durumu"
+#
+msgid "Lost Targets"
+msgstr "Kayıp Hedefler"
+#
+msgid "Low"
+msgstr "Düşük"
+#
+msgid "Lt"
+msgstr "Fener"
+#
+msgid "Lt sect."
+msgstr "Fener alanı"
+#
+msgid "LtV/Rig"
+msgstr "LtV/Donanımı"
+#
+msgid "Luxembourg"
+msgstr ""
+#
+msgid "M/T"
+msgstr "M/T"
+#
+msgid "M/V"
+msgstr "M/V"
+#
+msgid "MAN OVERBOARD"
+msgstr "DENİZE ADAM DÜŞTÜ"
+#
+msgid "MMSI"
+msgstr "MMSI"
+#
+msgid "MMSI Extended Properties"
+msgstr ""
+#
+msgid "MMSI Properties"
+msgstr ""
+#
+msgid "MOB"
+msgstr ""
+#
+msgid "M_COVR ID"
+msgstr "M_COVR Kimliği"
+#
+msgid "Macao"
+msgstr ""
+#
+msgid "Macedonia"
+msgstr ""
+#
+msgid "Madagascar"
+msgstr ""
+#
+msgid "Madeira"
+msgstr ""
+#
+msgid "Magenta"
+msgstr "Eflatun"
+#
+msgid "Malawi"
+msgstr ""
+#
+msgid "Malaysia"
+msgstr ""
+#
+msgid "Maldives"
+msgstr ""
+#
+msgid "Mali"
+msgstr ""
+#
+msgid "Malta"
+msgstr ""
+#
+msgid "Manual:"
+msgstr ""
+#
+msgid "Mariner's Standard"
+msgstr "Denizci Standardı"
+#
+msgid "Mark targets as lost after (min)"
+msgstr "Hedefleri Kayıp Olarak İşaretleme Süresi (dakika) :"
+#
+msgid "Marks"
+msgstr "İşaretler"
+#
+msgid "Marshall Islands"
+msgstr ""
+#
+msgid "Martinique"
+msgstr ""
+#
+msgid "Mauritania"
+msgstr ""
+#
+msgid "Mauritius"
+msgstr ""
+#
+msgid "Max Detail Here"
+msgstr "Daha Fazla Açıklama Burada"
+#
+msgid "Measure"
+msgstr "Ölç"
+#
+msgid "Measure Distance"
+msgstr ""
+#
+msgid "Measure Off"
+msgstr "Ölçümü Sonlandır"
+#
+msgid "Med/V"
+msgstr "Sağlık/Teknesi"
+#
+msgid "Medical Transport"
+msgstr "Sağlıkhizmeti Taşıması"
+#
+msgid "Medium"
+msgstr "Ortalama"
+#
+msgid "Menu"
+msgstr ""
+#
+msgid "Mercator"
+msgstr "Mercator"
+#
+msgid "Merge waypoint?"
+msgstr "Seyirnoktası birleştirilsin mi ?"
+#
+msgid "Merge waypoints?"
+msgstr "Seyirnoktaları birleştirilsin mi?"
+#
+msgid "Message accepted"
+msgstr ""
+#
+msgid "Meters"
+msgstr "Metre"
+#
+msgid "Mexico"
+msgstr ""
+#
+msgid "Micronesia"
+msgstr ""
+#
+msgid "Mil/V"
+msgstr "Askeril/Tekne"
+#
+msgid "Military Vessel"
+msgstr "Askeri Gemi"
+#
+msgid "Minimum Screen Size (mm)"
+msgstr "Enküçük Ekran Büyüklüğü (mm)"
+#
+msgid "MoTwilight"
+msgstr "GünOrtası"
+#
+msgid "Moldova"
+msgstr ""
+#
+msgid "Monaco"
+msgstr ""
+#
+msgid "Mongolia"
+msgstr ""
+#
+msgid "Montenegro"
+msgstr ""
+#
+msgid "Montserrat"
+msgstr ""
+#
+msgid "Moored"
+msgstr "Tonozda"
+#
+msgid "Morocco"
+msgstr ""
+#
+msgid "Move Boat Here"
+msgstr "Tekneyi Buraya Taşı"
+#
+msgid "Move Waypoint"
+msgstr "Seyirnoktasını Taşı"
+#
+msgid "Mozambique"
+msgstr ""
+#
+msgid "Mph"
+msgstr "Mil/Saat"
+#
+msgid "Myanmar"
+msgstr ""
+#
+msgid "NMEA"
+msgstr "NMEA"
+#
+msgid "NMEA 0183"
+msgstr "NMEA 0183"
+#
+msgid "NMEA 2000"
+msgstr "NMEA 2000"
+#
+msgid "NMi"
+msgstr "NMI"
+#
+msgid "Name"
+msgstr "Adı"
+#
+msgid "Namibia"
+msgstr ""
+#
+msgid "National text on chart"
+msgstr "Haritadaki Ulusal Metin"
+#
+msgid "Nauru"
+msgstr ""
+#
+msgid "Nautical Miles"
+msgstr "Deniz Mili"
+#
+msgid "Nautical miles"
+msgstr "Deniz Mili "
+#
+msgid "Nav Status"
+msgstr "Seyir Durumu"
+#
+msgid "Navigate To Here"
+msgstr "Buraya Doğru Seyret"
+#
+msgid "Navigate To This"
+msgstr "Bu Seyirnoktasına Doğru Seyret"
+#
+msgid "Navigation Mode"
+msgstr ""
+#
+msgid "Nepal"
+msgstr ""
+#
+msgid "Netherlands"
+msgstr ""
+#
+msgid "Network"
+msgstr "Ağ"
+#
+msgid "Never"
+msgstr ""
+#
+msgid "Never track"
+msgstr ""
+#
+msgid "New Caledonia"
+msgstr ""
+#
+msgid "New Chart Group"
+msgstr "Yeni Harita Grubu"
+#
+msgid "New Group..."
+msgstr "Yeni Grup"
+#
+msgid "New Zealand"
+msgstr ""
+#
+msgid "New..."
+msgstr ""
+#
+msgid "Next"
+msgstr ""
+#
+msgid "Next tide event"
+msgstr "Soraki gelgit olayı"
+#
+msgid "Nicaragua"
+msgstr ""
+#
+msgid "Niger"
+msgstr ""
+#
+msgid "Nigeria"
+msgstr ""
+#
+msgid "Nighttime"
+msgstr "Gece"
+#
+msgid "Niue"
+msgstr ""
+#
+msgid "No CPA Calculation if target range is greater than (NMi)"
+msgstr "CPA Hesaplaması Yapılacak En Uzun Hedef Mesafesi (NMi)."
+#
+msgid "No Chart Available"
+msgstr "Kullanılabilir Harita Yok."
+#
+msgid ""
+"No Charts Installed.\n"
+"Please select chart folders in Options > Charts."
+msgstr ""
+"Harita Yüklenmedi \n"
+" Lütfen harita klasörlerini seçiniz (Seçenekler -> Haritalar)."
+#
+msgid ""
+"No Serial Ports can be found on this system.\n"
+"You must install a serial port (modprobe correct kernel module) or plug in a "
+"usb serial device.\n"
+msgstr ""
+"Sistemde seri bağlantı noktası yok.\n"
+"Seri bağlantı noktası (modprobe correct kernel module) yüklemeniz veya bir "
+"usb seri aygıt takmanız gerekiyor\n"
+#
+msgid "No, I don't want to hide it."
+msgstr "Hayır, gizlemek istemiyorum."
+#
+msgid "No, and permanently remove the option to hide it."
+msgstr "Hayır, gizleme seçeneğini sürekli olarak kaldır."
+#
+msgid "No. of items"
+msgstr "Parça Sayısı"
+#
+msgid "None"
+msgstr "Yok"
+#
+msgid "North Up"
+msgstr ""
+#
+msgid "North Up Mode"
+msgstr "Kuzey Yukarı Durumu"
+#
+msgid "Northern Mariana Islands"
+msgstr ""
+#
+msgid "Norway"
+msgstr ""
+#
+msgid "Not Under Command"
+msgstr "Kumanda Altında Değil"
+#
+msgid "OK"
+msgstr "Tamam"
+#
+msgid "Object Query"
+msgstr "Nesne Açıklaması"
+#
+msgid "Object Query..."
+msgstr "Nesne Açıklaması"
+#
+msgid "ObjectQuery"
+msgstr "Nesne Açıklaması"
+#
+msgid "Old log will be moved to opencpn.log.log"
+msgstr "Eski kütük opencpn.log.log dosyasına aktarılacak"
+#
+msgid "Oman"
+msgstr ""
+#
+msgid "OpenCPN Alert"
+msgstr "OpenCPN Alarmı"
+#
+msgid "OpenCPN CM93 Cell Offset Adjustments"
+msgstr "OpenCPN, CM93 Hücre Uzantı Ayarları"
+#
+msgid "OpenCPN Chart Add...."
+msgstr "OpenCPN Harita Ekliyor..."
+#
+msgid "OpenCPN Chart Scan...."
+msgstr "OpenCPN Harita Arıyor..."
+#
+msgid "OpenCPN Chart Update"
+msgstr "OpenCPN Harita Güncelliyor"
+#
+msgid "OpenCPN Converting Track to Route...."
+msgstr "OpenCPN Seyirizini Rotaya Dönüştürüyor"
+#
+msgid "OpenCPN Create SENC Warning"
+msgstr ""
+#
+msgid "OpenCPN Directory Scan...."
+msgstr "OpenCPN Klasör Aranıyor..."
+#
+msgid "OpenCPN Group Notice"
+msgstr "OpenCPN Grubunun dikkatine"
+#
+msgid "OpenCPN Help"
+msgstr ""
+#
+msgid "OpenCPN Info"
+msgstr "OpenCPN Hakkında"
+#
+msgid "OpenCPN Remove Waypoint"
+msgstr "OpenCPN Seyirnoktasını Kaldır"
+#
+msgid "OpenCPN Route"
+msgstr "OpenCPN Rotası"
+#
+msgid "OpenCPN Route Create"
+msgstr "OpenCPN Rotası Oluştur"
+#
+msgid "OpenCPN Route Delete"
+msgstr "OpenCPN Rotasını Sil"
+#
+msgid "OpenCPN S57 SENC File Create..."
+msgstr "OpenCPN S57 SENC Dosyası Oluşturuyor"
+#
+msgid "OpenCPN Track"
+msgstr "OpenCPN Seyirizi"
+#
+msgid "OpenCPN Track Delete"
+msgstr "OpenCPN Seyirizini Sil"
+#
+msgid "OpenCPN Warning"
+msgstr ""
+#
+msgid "OpenCPN Waypoint"
+msgstr "OpenCPN Seyirnoktası"
+#
+msgid "OpenCPN cannot start. "
+msgstr "OpenCPN başlatılamıyor"
+#
+msgid "OpenCPN info"
+msgstr "OpenCPN Hakkında "
+#
+msgid "OpenCPN requires access to serial ports to use serial NMEA data.\n"
+msgstr ""
+"OpenCPN NMEA verisi kullanmak için seri bağlantı noktalarına erişimi "
+"gerektirir. \n"
+#
+msgid "Options"
+msgstr "Seçenekler"
+#
+msgid "Options..."
+msgstr ""
+#
+msgid "Other - Define in associated text field"
+msgstr "Diğer - Açıklama ilişikteki metinde"
+#
+msgid "Output Message"
+msgstr ""
+#
+msgid "Output filtering"
+msgstr "Çıkış Filtresi"
+#
+msgid "Output on this port ( as Autopilot or NMEA Repeater)"
+msgstr "Bu bağlantı noktası çıkışı (Otopilot ya da NMEA cihazı)"
+#
+msgid "OverZoom"
+msgstr "Aşırı Yaklaştırma."
+#
+msgid "Overwrite existing file?"
+msgstr "Varolan dosyanın üstüne yazmak ister misiniz ?"
+#
+msgid "Own Ship"
+msgstr "Tekne"
+#
+msgid "Ownship"
+msgstr ""
+#
+msgid "P/V"
+msgstr "P/V"
+#
+msgid "PC/V"
+msgstr "PC/V"
+#
+msgid "Pakistan"
+msgstr ""
+#
+msgid "Palau"
+msgstr ""
+#
+msgid "Palestine"
+msgstr ""
+#
+msgid "Panama"
+msgstr ""
+#
+msgid "Paper Chart"
+msgstr "Kağıt harita"
+#
+msgid "Papua New Guinea"
+msgstr ""
+#
+msgid "Paraguay"
+msgstr ""
+#
+msgid "Parameters"
+msgstr "Değişkenler"
+#
+msgid "Pass/V"
+msgstr "Pass/V"
+#
+msgid "Passenger Ship"
+msgstr "Yolcu Gemisi"
+#
+msgid "Paste"
+msgstr ""
+#
+msgid "Paste Route"
+msgstr "Rota Yapıştır"
+#
+msgid "Paste Track"
+msgstr "Seyirizini Yapıştır"
+#
+msgid "Paste Waypoint"
+msgstr "Seyirnoktasını Yapıştır"
+#
+msgid "Paste lat/long"
+msgstr ""
+#
+msgid "Pause"
+msgstr ""
+#
+msgid "People's Rep. of Korea"
+msgstr ""
+#
+msgid "Persistent"
+msgstr ""
+#
+msgid "Peru"
+msgstr ""
+#
+msgid "Philippines"
+msgstr ""
+#
+msgid "Physical Screen Width"
+msgstr ""
+#
+msgid "Pilot Vessel"
+msgstr "Pilot Teknesi"
+#
+msgid "Pitcairn Island"
+msgstr ""
+#
+msgid "Plain"
+msgstr "Düz"
+#
+msgid "Plan Speed"
+msgstr "Planlanan Hız"
+#
+msgid "Plan speed"
+msgstr "Planlanan Hız "
+#
+msgid "Play Ships Bells"
+msgstr "Gemi Çanlarını Çal "
+#
+msgid "Play Sound on CPA/TCPA Alerts and DSC/SART emergencies."
+msgstr "CPA/TCPA ve DSC/SART Alarmlarını Sesle Ver."
+#
+msgid "Please restart OpenCPN to activate language or style changes."
+msgstr ""
+"Seçilen dili ya da yazı türü değişikliğini etkinleştirmek için OpenCPN'i "
+"yeniden başlatın."
+#
+msgid "Pleasure craft"
+msgstr "Spor amaçlı tekne, Yat"
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable and will not be loaded.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+"%s Eklentisinin (%s), sürümü%i.%i belirlendi. \n"
+"Bu sürüm geliştirilen sürüme ait olduğu için yüklenmeyecek. \n"
+"Bu eklentinin son dengeli sürümünü lüfen opencpn.org/plugin/downloads "
+"sayfasından indirin."
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+"%s Eklentisinin (%s), sürümü%i.%i belirlendi. \n"
+"Bu sürüm geliştirilen sürüme ait olduğu için yüklenmeyecek. \n"
+"Bu eklentinin son dengeli sürümünü lüfen opencpn.org/plugin/downloads "
+"sayfasından indirin."
+#
+#, c-format
+msgid "PlugIn [ %s ] version %i.%i"
+msgstr ""
+#
+msgid "Plugins"
+msgstr "Eklentiler"
+#
+msgid "Poland"
+msgstr ""
+#
+msgid "Pollution Control Vessel"
+msgstr "Deniz Kirliliği Denetim Teknesi"
+#
+msgid "Polyconic"
+msgstr "Polyconic"
+#
+msgid "Port"
+msgstr "BağlantıNoktası"
+#
+msgid "Port Hand"
+msgstr "İskele Geçişli"
+#
+msgid "Port Hand Mark"
+msgstr "İskele Geçişli İşareti"
+#
+msgid "Port Tender"
+msgstr "Liman Servis Botu"
+#
+msgid "Portugal"
+msgstr ""
+#
+msgid "Position"
+msgstr "Mevki"
+#
+msgid "Position Report"
+msgstr "Mevki Raporu"
+#
+msgid "Pref. Chnl"
+msgstr "Öncelikli Kanal"
+#
+msgid "Preferences"
+msgstr "Seçenekler"
+#
+msgid "Preferences..."
+msgstr ""
+#
+msgid "Preferred Channel Port Hand"
+msgstr "Kanalın İskele Tarafından Geçin"
+#
+msgid "Preferred Channel Starboard Hand"
+msgstr "Kanalın Sancak Tarafından Geçin"
+#
+msgid "Present Ownship"
+msgstr ""
+#
+msgid "Preserve Scale when Switching Charts"
+msgstr "Haritaları Değiştirirken Ölçüyü Koru "
+#
+msgid "Prev"
+msgstr ""
+#
+msgid "Preview:"
+msgstr "Önizleme :"
+#
+msgid "Print"
+msgstr "Yazdır"
+#
+msgid "Print Chart"
+msgstr "Haritayı Bas"
+#
+msgid "Print Route"
+msgstr "Rotayı Bas"
+#
+msgid "Print Route Selection"
+msgstr "Seçili Rotayı Bas"
+#
+msgid "Priority"
+msgstr "Öncelik"
+#
+msgid "Proceed to this location - await instructions"
+msgstr "Bu noktaya geçin ve talimatları bekleyin"
+#
+msgid "Processing Waypoints..."
+msgstr "Seyirnoktası Oluşturuluyor"
+#
+msgid "Properties"
+msgstr "Özellikler"
+#
+msgid "Properties..."
+msgstr "Özellikler"
+#
+msgid "Protocol"
+msgstr "Protokol"
+#
+msgid "Puerto Rico"
+msgstr ""
+#
+msgid "Qatar"
+msgstr ""
+#
+msgid "Question"
+msgstr "Soru"
+#
+msgid "RACON"
+msgstr "RACON"
+#
+msgid "Range"
+msgstr "Uzaklık"
+#
+msgid "Real"
+msgstr "Gerçek"
+#
+msgid "Real (On Position)"
+msgstr "Gerçek (Mevkide)"
+#
+msgid "Real Scale Bitmap"
+msgstr "Gerçek Ölçekli Resim"
+#
+msgid "Real Scale Vector"
+msgstr "Gerçek Ölçekli Vektör"
+#
+msgid "Real(Off Position)"
+msgstr "Gerçek (Mevki Dışında)"
+#
+msgid "Rebuild Texture Cache"
+msgstr ""
+#
+msgid "Rebuilding chart database from configuration file entries..."
+msgstr ""
+"Yapılandırma dosya girişlerinden, yeniden harita veritabanı oluşturuluyor..."
+#
+msgid "Receive Input on this Port"
+msgstr "Bu bağlantı noktasına girdi alın"
+#
+msgid "Record Track"
+msgstr ""
+#
+msgid "Recorded points"
+msgstr "Kayıtlı noktalar"
+#
+msgid "Red"
+msgstr "Kırmızı"
+#
+msgid "Redo"
+msgstr "Yinele"
+#
+msgid "Reduce Data Precision"
+msgstr "Veri Kesinliğini Azalt"
+#
+msgid "Reduce Data..."
+msgstr "Veriyi Azalt"
+#
+msgid "Reduced Detail at Small Scale"
+msgstr "Küçük Ölçekte Azaltılmış Ayrıntı "
+#
+msgid "Ref. Pt"
+msgstr "Başvuru Noktası"
+#
+msgid "Reference Point"
+msgstr "Kerteriz Noktası"
+#
+msgid "Reference Station :"
+msgstr ""
+#
+msgid "Remaining time : "
+msgstr "Kalan Süre : "
+#
+msgid "Remove Chart"
+msgstr "Haritayı Kaldır"
+#
+msgid "Remove Connection"
+msgstr "Bağlantıyı Kaldır"
+#
+msgid "Remove Selected"
+msgstr "Seçileni Kaldır"
+#
+msgid "Remove from Route"
+msgstr "Rotadan Kaldır"
+#
+msgid "Remove lost targets after (min)"
+msgstr "Kayıp Hedeflerin Kaldırılacağı Süre (dakika)"
+#
+msgid "Rename Waypoints?"
+msgstr "Seyirnoktaları yeniden adlandırılsın mı?"
+#
+msgid "Report Age"
+msgstr "Rapor Yaşı"
+#
+msgid "Report as of"
+msgstr "Raporlanan"
+#
+msgid "Report from ship: Icing info"
+msgstr "Gemiden rapor edilen: Buzlanma bilgisi"
+#
+msgid ""
+"Report from ship: Miscellaneous information - define in Associated text field"
+msgstr "Gemiden rapor edilen: Çeşitli bilgiler - açıklama ilişkteki metinde"
+#
+msgid "Reserved 11"
+msgstr "11 Saklı"
+#
+msgid "Reserved 12"
+msgstr "12 Saklı"
+#
+msgid "Reserved 13"
+msgstr "13 Saklı"
+#
+msgid "Reserved 14"
+msgstr "14 Saklı"
+#
+msgid "Restricted Area: Active military OPAREA"
+msgstr "Yasak Bölge: Etkin askeri manevra"
+#
+msgid "Restricted Area: Drifting Mines"
+msgstr "Yasak Bölge: Sürüklenen mayınlar"
+#
+msgid "Restricted Area: Entry approval required prior to transit"
+msgstr "Yasak Bölge: Geçiş öncesinde giriş için onay gerekir"
+#
+msgid "Restricted Area: Entry prohibited"
+msgstr "Yasak Bölge: Girmek yasaktır"
+#
+msgid "Restricted Area: Firing - danger area."
+msgstr "Yasak Bölge: Yanan tehlikeli bölge"
+#
+msgid "Restricted Area: Fishing prohibited"
+msgstr "Yasak Bölge: Balık avlamak yasaktır"
+#
+msgid "Restricted Area: No anchoring."
+msgstr "Yasak Bölge: Demirlemek yasaktır"
+#
+msgid "Restricted Manoeuvrability"
+msgstr "Sınırlı Manevra Yeteneği"
+#
+msgid "Resume"
+msgstr ""
+#
+msgid "Retrieving initial Chart Directory set from Windows Registry"
+msgstr "Başlangıçtaki Harita Klasörü, Windows Kaydından alınıyor."
+#
+msgid "Retrieving initial language selection from Windows Registry"
+msgstr "Başlangıçta seçilen dil, Windows kaydından alınıyor."
+#
+msgid "Reunion"
+msgstr ""
+#
+msgid "Reverse..."
+msgstr "Ters döndür"
+#
+msgid "Right"
+msgstr "Sağ"
+#
+msgid "Rogue or suspicious vessel"
+msgstr "Yasa dışı ya da süpheli tekne "
+#
+msgid "Rollover"
+msgstr "Uzatmalar"
+#
+msgid "Romania"
+msgstr ""
+#
+msgid "Rotated Mode"
+msgstr ""
+#
+msgid "Route"
+msgstr "Rota"
+#
+msgid "Route & Mark Manager"
+msgstr ""
+#
+msgid "Route && Mark Manager..."
+msgstr ""
+#
+msgid "Route Name"
+msgstr "Rota Adı"
+#
+msgid "Route Print"
+msgstr "Rotayı Bas"
+#
+msgid "Route Properties"
+msgstr "Rota Özellikleri"
+#
+msgid "Route from Track"
+msgstr "Seyirizinden Rota"
+#
+msgid "Route: "
+msgstr "Rota:"
+#
+msgid "Route: Alternative route"
+msgstr "Rota: Alternatif rota"
+#
+msgid "Route: Recommended route"
+msgstr "Rota: Önerilen rota"
+#
+msgid "Route: Recommended route through ice"
+msgstr "Rota: Buzdan geçişte önerilen rota"
+#
+msgid "RouteLegInfoRollover"
+msgstr "Rota Bacağı Bilgisi"
+#
+msgid "Routes"
+msgstr "Rotalar"
+#
+msgid "Russian"
+msgstr ""
+#
+msgid "Rwanda"
+msgstr ""
+#
+msgid "S/V"
+msgstr "S/V"
+#
+msgid ""
+"S57 Cell Update chain incomplete.\n"
+"ENC features may be incomplete or inaccurate.\n"
+"Check the logfile for details."
+msgstr ""
+#
+msgid "SAR Aircraft"
+msgstr "SAR Uçağı"
+#
+msgid "SAR/V"
+msgstr "SAR/V"
+#
+msgid "SART"
+msgstr "SART"
+#
+msgid "SOG COG"
+msgstr "SOG / COG "
+#
+msgid "Safe Water"
+msgstr "Güvenli Su"
+#
+msgid "Safety Broadcast Message"
+msgstr "Güvenli Yayın Mesajı"
+#
+msgid "Safety Depth"
+msgstr "Güvenli Derinlik"
+#
+msgid "Sailing Vessel"
+msgstr "Yelkenli Tekne"
+#
+msgid "Saint Helena"
+msgstr ""
+#
+msgid "Saint Kitts and Nevis"
+msgstr ""
+#
+msgid "Saint Lucia"
+msgstr ""
+#
+msgid "Saint Paul"
+msgstr ""
+#
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+#
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+#
+msgid "Samoa"
+msgstr ""
+#
+msgid "San Marino"
+msgstr ""
+#
+msgid "Sao Tome and Principe"
+msgstr ""
+#
+msgid "Saudi Arabia"
+msgstr ""
+#
+#, c-format
+msgid "Scale %4.0f (%1.0fx)"
+msgstr ""
+#
+#, c-format
+msgid "Scale %4.0f (%1.1fx)"
+msgstr "Ölçüm %4.0f (%1.1fx)"
+#
+#, c-format
+msgid "Scale %4.0f (%1.2fx)"
+msgstr "Ölçüm %4.0f (%1.2fx)"
+#
+msgid "Scale In"
+msgstr "Ölçümü Arttır"
+#
+msgid "Scale Out"
+msgstr "Ölçümü Azalt"
+#
+msgid "Scan Charts and Update Database"
+msgstr "Haritaları Gözden Geçir ve Veritabanını Güncelle"
+#
+msgid "Search and Rescue Vessel"
+msgstr "Arama Kurtarma Gemisi"
+#
+msgid "Seatalk"
+msgstr "Gemici Dili"
+#
+msgid "Security Alert - Level 1"
+msgstr "Güvenlik Alarmı - Derece 1"
+#
+msgid "Security Alert - Level 2"
+msgstr "Güvenlik Alarmı - Derece 2"
+#
+msgid "Security Alert - Level 3"
+msgstr "Güvenlik Alarmı - Derece 3"
+#
+msgid "See the log file at "
+msgstr "Kütük dosyasına bakınız "
+#
+msgid "Select Alert Sound"
+msgstr "Alarm Sesini Seçin"
+#
+msgid "Select All"
+msgstr "Tümünü Seç   "
+#
+msgid "Select Sound File"
+msgstr "Ses Dosyasını Seçin"
+#
+msgid "Select Tide/Current Data"
+msgstr "Gelgit/Akıntı Verisini Seçin."
+#
+msgid ""
+"Select the maximum error allowed (in meters)\n"
+"after data reduction:"
+msgstr ""
+"Veri düzeltimi sonrasında\n"
+" kabul edilir en çok hata payı (metre)"
+#
+msgid "Send To GPS..."
+msgstr "GPS'e Gönder"
+#
+msgid "Send to GPS"
+msgstr "GPS'e Gönder"
+#
+msgid "Send to new GPS"
+msgstr ""
+#
+msgid "Senegal"
+msgstr ""
+#
+msgid "Sentence Filter"
+msgstr "Cümle Filtresi"
+#
+msgid "Serbia"
+msgstr ""
+#
+msgid "Serial"
+msgstr "Seri"
+#
+msgid "Set"
+msgstr "Belirle"
+#
+msgid "Set Anchor Watch"
+msgstr "Demir Nöbetçisi Yap"
+#
+msgid "Seychelles"
+msgstr ""
+#
+msgid "Shallow Depth"
+msgstr "Sığ Derinlik"
+#
+msgid "Shift to Larger Scale Chart"
+msgstr "Büyük Ölçekli Haritaya Geç."
+#
+msgid "Shift to Smaller Scale Chart"
+msgstr "Küçük Ölçekli Haritaya Geç"
+#
+msgid "Ship Icon Type"
+msgstr "Tekne Simgesinin Türü"
+#
+msgid "Ships"
+msgstr "Tekneler"
+#
+msgid "Short dash"
+msgstr "Kısa kesili çizgi"
+#
+msgid "Show"
+msgstr "Göster"
+#
+msgid "Show AIS Targets"
+msgstr "AIS Hedeflerini Göster"
+#
+msgid "Show AIS targets real size"
+msgstr "AIS Hedeflerini Gerçek Boyutta Göster"
+#
+msgid "Show All Tracks"
+msgstr "Hedef İzlerini Göster"
+#
+msgid "Show CPA Alert Dialogs"
+msgstr ""
+#
+msgid "Show CPA/TCPA Alert Dialog"
+msgstr "CPA/TCPA Alarm Durumunu Göster"
+#
+msgid "Show Chart Bar"
+msgstr ""
+#
+msgid "Show Chart Outlines"
+msgstr "Harita Sınırlarını Göster"
+#
+msgid "Show Compass/GPS Status Window"
+msgstr "Pusula/GPS Durumu Penceresini Göster"
+#
+msgid "Show Current Information"
+msgstr "Akıntı Bilgisini Göster"
+#
+msgid "Show Currents"
+msgstr "Akıntıları Göster"
+#
+msgid "Show Depth Units"
+msgstr "Derinlik Birimlerini Göster"
+#
+msgid "Show Distance from each Waypoint to the next one."
+msgstr "Seyirnoktalarının birinden diğerine uzaklığını göster"
+#
+msgid "Show ENC Anchoring Info"
+msgstr ""
+#
+msgid "Show ENC Lights"
+msgstr ""
+#
+msgid "Show ENC Soundings"
+msgstr ""
+#
+msgid "Show ENC Text"
+msgstr "Harita Metinlerini Göster"
+#
+msgid "Show ENC Text (T)"
+msgstr ""
+#
+msgid "Show FPS"
+msgstr ""
+#
+msgid "Show Grid"
+msgstr "Enlem/Boylamı Göster"
+#
+msgid "Show Highway"
+msgstr "Otoyolu Göster"
+#
+msgid "Show Menu Bar"
+msgstr ""
+#
+msgid "Show NMEA Debug Window"
+msgstr "NMEA Veri Akış Penceresini Göster"
+#
+msgid "Show Skewed Raster Charts as North-Up"
+msgstr "Çarpık Raster Haritalarını Kuzey Yukarı Durumunda Göster"
+#
+msgid "Show Status Bar"
+msgstr "Durum Çubuğunu Göster"
+#
+msgid "Show Target CPA"
+msgstr "CPA Hedeflerini Göster"
+#
+msgid "Show Target Track"
+msgstr "Hedef İzlerini Göster"
+#
+msgid "Show Target Tracks"
+msgstr ""
+#
+msgid "Show This Chart"
+msgstr "Bu Haritayı Göster"
+#
+msgid "Show Tide Information"
+msgstr "Gelgit Bilgisini Göster"
+#
+msgid "Show Tides"
+msgstr "Gelgitleri Göster"
+#
+msgid "Show Toolbar in Fullscreen Mode"
+msgstr "Araç Çubuğunu Tam Ekran Durumunda Göster"
+#
+msgid "Show WPT names"
+msgstr "Etiket Adlarını Göster"
+#
+msgid "Show Waypoint description."
+msgstr "Seyirnoktası Açıklamasını Göster"
+#
+msgid "Show Waypoint name."
+msgstr "Seyirnoktası Adını Göster"
+#
+msgid "Show Waypoint position."
+msgstr "Seyirnoktası Mevkiini Göster"
+#
+msgid "Show area notices (from AIS binary messages)"
+msgstr "Bölgesel Uyarıları Göster (AIS sayısal mesajlarından)"
+#
+msgid "Show course from each Waypoint to the next one. "
+msgstr "Seyirnoktalarının birinden diğerine yönünü göster."
+#
+msgid "Show magnetic bearings and headings"
+msgstr ""
+#
+msgid "Show name"
+msgstr "Adı Göster"
+#
+msgid "Show names with AIS targets at scale greater than 1:"
+msgstr "Ölçeği 1 den Büyük Olan AIS Hedef Adlarını Göster"
+#
+msgid "Show on chart"
+msgstr "Haritada Göster"
+#
+msgid "Show range rings"
+msgstr ""
+#
+msgid "Show target COG predictor arrow, length (min)"
+msgstr "Hedef COG Oklarını Göster, Uzunluk (dakika)"
+#
+msgid "Show target tracks, length (min)"
+msgstr "Hedef İzsürümünü Göster, Uzunluk (dakika)"
+#
+msgid "Shows the font preview."
+msgstr "Harf önizlenmeyi gösterir"
+#
+msgid "Sierra Leone"
+msgstr ""
+#
+msgid "Simplified"
+msgstr "Basitleştirilmiş"
+#
+msgid "Singapore"
+msgstr ""
+#
+msgid "Slovak Republic"
+msgstr ""
+#
+msgid "Slovenia"
+msgstr ""
+#
+msgid "Smaller Scale Chart"
+msgstr ""
+#
+msgid "Smooth Panning / Zooming"
+msgstr "Tıklamayla Düzgün Yakınlaştırma"
+#
+msgid "SoG"
+msgstr "SoG"
+#
+msgid "Solid"
+msgstr "Kalın"
+#
+msgid "Solomon Islands"
+msgstr ""
+#
+msgid "Somali Democratic Republic"
+msgstr ""
+#
+msgid "Sound CPA Alarms"
+msgstr ""
+#
+msgid "South Africa"
+msgstr ""
+#
+msgid "South Sudan (Republic of)"
+msgstr ""
+#
+msgid "Spain"
+msgstr ""
+#
+msgid "Spare"
+msgstr "Yedek"
+#
+msgid "Special"
+msgstr "Özel"
+#
+msgid "Special Mark"
+msgstr "Özel İşaret"
+#
+msgid "Speed"
+msgstr "Hız"
+#
+msgid "Speed (Kts)"
+msgstr "Hız (Kts)"
+#
+msgid "Split"
+msgstr "Rotayı Böl"
+#
+msgid "Split Route"
+msgstr "Rotayı Böl"
+#
+msgid "Split Track"
+msgstr "Seyirizini Böl"
+#
+msgid "Sri Lanka"
+msgstr ""
+#
+msgid "Standard"
+msgstr "Standart"
+#
+msgid "Starboard Hand Mark"
+msgstr "Sancaktan Geç İşareti"
+#
+msgid "Start"
+msgstr "Kalkış"
+#
+msgid "Statistics"
+msgstr "İstatistik değerleri"
+#
+msgid "StatusBar"
+msgstr "Durum Çubuğu"
+#
+msgid "Statute miles"
+msgstr "Kara Mili"
+#
+msgid "Stbd"
+msgstr "Sancak"
+#
+msgid "Stbd Hand"
+msgstr "Sancak Geçişli"
+#
+msgid "Stop Tracking"
+msgstr ""
+#
+msgid "Style"
+msgstr "Tür"
+#
+msgid "Style:"
+msgstr "Türü:"
+#
+msgid "Sudan"
+msgstr ""
+#
+msgid "Sunrise"
+msgstr "Gündoğumu"
+#
+msgid "Sunset"
+msgstr "Günbatımı"
+#
+msgid "Suppress blur/fog effects on overzoom"
+msgstr ""
+#
+msgid "Suppress scaled vector charts on overzoom"
+msgstr ""
+#
+msgid "Supress Alerts for anchored/moored targets"
+msgstr "Demirdeki/Tonozdaki Hedefler İçin Alarm Verme. "
+#
+msgid "Suriname"
+msgstr ""
+#
+msgid "Swaziland"
+msgstr ""
+#
+msgid "Sweden"
+msgstr ""
+#
+msgid "Switzerland"
+msgstr ""
+#
+msgid "Symbolized"
+msgstr "Simgeleştirilmiş"
+#
+msgid "Syrian Arab Republic"
+msgstr ""
+#
+msgid "TCP"
+msgstr "TCP"
+#
+msgid "TCPA"
+msgstr "TCPA"
+#
+msgid "Taiwan"
+msgstr ""
+#
+msgid "Tajikistan"
+msgstr ""
+#
+msgid "Tanker"
+msgstr "Tanker"
+#
+msgid "Tanzania"
+msgstr ""
+#
+msgid "Target Count"
+msgstr "Hedef Hesabı"
+#
+msgid "Target List..."
+msgstr "Hedef Listesi"
+#
+msgid "Target Query..."
+msgstr "Hedef Sorgusu"
+#
+msgid "Target info"
+msgstr "Hedef Bilgisi"
+#
+msgid "Temporary AISMOB Route"
+msgstr ""
+#
+msgid "Temporary GOTO Route"
+msgstr "Geçici OrayaGit Rotası"
+#
+msgid "Temporary MOB Route"
+msgstr "Geçici Denize Adam Düştü (DAD) Rotası"
+#
+msgid "Temporary layer"
+msgstr "Geçici Etiket"
+#
+msgid "Tender"
+msgstr "Vasıta"
+#
+msgid "Test Alert Sound"
+msgstr "Alarm Sesini Dene"
+#
+msgid "Testing"
+msgstr "Deneniyor"
+#
+msgid "Texture Compression"
+msgstr "Yapı Sıkıştırma"
+#
+msgid "Texture Compression Caching"
+msgstr "Yapı Sıkıştırma Önbelleğe Alma"
+#
+msgid "Texture Compression with Caching"
+msgstr ""
+#
+msgid "Texture Memory Size (MB)"
+msgstr "Yapı Bellek Boyutu (MB)"
+#
+msgid "Thailand"
+msgstr ""
+#
+msgid ""
+"The Man Over Board button could be an important safety feature.\n"
+"Are you sure you want to hide it?"
+msgstr ""
+"Denize Adam Düştü butonu güvenlik için önemli bir araçtır.\n"
+"Gene de gizlemek istiyor musunuz?"
+#
+msgid "The Open Source Chart Plotter/Navigator"
+msgstr "Açık kaynak Harita İzleme/Seyir programı"
+#
+#, c-format
+msgid ""
+"The amount of data used by the track\n"
+" was reduced by %d%%."
+msgstr ""
+"İzsürümün kullandığı veri miktarı\n"
+"%d%% değeriyle düzeltildi. "
+#
+msgid ""
+"The currently running Track was not merged.\n"
+"You can merge it later when it is completed."
+msgstr ""
+"Halen sürdürülen rotaizi birleştirilmedi.\n"
+" Bittikten sonra birleştirebilirsiniz."
+#
+msgid "The font colour."
+msgstr "Yazı rengi"
+#
+msgid "The font family."
+msgstr "Yazı türü"
+#
+msgid "The font point size."
+msgstr "Yazı nokta büyüklüğü"
+#
+msgid "The font style."
+msgstr "Yazı tipi"
+#
+msgid "The font weight."
+msgstr "Yazı kalınlığı"
+#
+msgid "The necessary configuration files were not found. "
+msgstr "Gerekli ayar dosyaları bulunamadı. "
+#
+msgid ""
+"The recently captured track of this target has been recorded.\n"
+"Do you want to continue recording until the end of the current OpenCPN "
+"session?"
+msgstr ""
+#
+msgid "The settings for own ship real size are not correct:"
+msgstr "Gerçek boyutlu tekne verileriniz doğru değil"
+#
+msgid ""
+"The waypoint you want to delete is used in a route, do you really want to "
+"delete it?"
+msgstr ""
+"Silmek istediğiniz seyirnoktası bir rotada kullanılıyor, gerçekten silmek "
+"istediğinizden emin misiniz?"
+#
+msgid "There"
+msgstr "Oraya"
+#
+msgid ""
+"There are existing waypoints at the same location as some of the ones you are "
+"pasting. Would you like to just merge the pasted data into them?\n"
+"\n"
+msgstr ""
+"Yapıştırdıklarınızdan bazılarıyla aynı yerde başka seyirnoktaları da var. "
+"Onlara sadece ortak verileri yapıştırmak ister misiniz?\n"
+" \n"
+#
+msgid ""
+"There are some waypoints used in routes or anchor alarms.\n"
+" Do you want to delete them as well?\n"
+" This will change the routes and disable the anchor alarms.\n"
+" Answering No keeps the waypoints used in routes or alarms."
+msgstr ""
+"Rotalarda ya da demir alarmlarında kullanılan bazı seyir noktaları var. "
+"Onları de silmek istiyor musunuz? Silerseniz, rotalar değişecek, demir "
+"alarmları iptal edilecek. \"Hayır\" derseniz seyirnoktalarını ve alarmlarını "
+"kullanılmaya devam edebileceksiniz."
+#
+msgid ""
+"There is an existing waypoint at the same location as the one you are "
+"pasting. Would you like to merge the pasted data with it?\n"
+"\n"
+msgstr ""
+"Yapıştırdığınızla aynı yerde bir seyirnoktası var, yapıştırılan veriyi o "
+"seyirnoktasındakiyle birleştirmek ister misiniz?\n"
+"\n"
+#
+msgid ""
+"There was a problem printing.\n"
+"Perhaps your current printer is not set correctly?"
+msgstr ""
+"Yazdırırken bir sorun oluştu.\n"
+" Kullanılan yazıcı doğru yapılandırılmamış olabilir mi?"
+#
+msgid "This Leg"
+msgstr "Bu Bacak"
+#
+msgid "This waypoint is part of a layer and can't be edited"
+msgstr "Bu seyirnoktası bir etiketin parçası olduğu için iptal edilemiyor"
+#
+msgid "Tide"
+msgstr ""
+#
+msgid "TideCurrentGraphRollover"
+msgstr "GelgitAkıntıÇizelgeUzantısı"
+#
+msgid "Tides && Currents"
+msgstr "Gelgitler && Akıntılar"
+#
+msgid "Time Enroute"
+msgstr "Yoldaki Süre"
+#
+msgid "Time enroute"
+msgstr "Yoldaki Süre"
+#
+msgid "Time shown as"
+msgstr "Zamanın gösterim şekli"
+#
+msgid "Times shown as"
+msgstr "Zamanın gösterim şekli"
+#
+msgid "Timestamp"
+msgstr "Zamanlama"
+#
+msgid "To"
+msgstr "Kalkış - Varış Limanları"
+#
+msgid "To Waypoint"
+msgstr "Seyirnoktasına"
+#
+msgid "To route"
+msgstr "Rotaya"
+#
+msgid "Today"
+msgstr ""
+#
+msgid "Toggle Full Screen"
+msgstr ""
+#
+msgid "Toggle track"
+msgstr "Seyirizi Ayarı"
+#
+msgid "Togolese Republic"
+msgstr ""
+#
+msgid "Tomorrow"
+msgstr ""
+#
+msgid "Tonga"
+msgstr ""
+#
+msgid "ToolTips"
+msgstr "Araç Çubuğu"
+#
+msgid "Toolbar and Window Style"
+msgstr "Araç Çubuğu ve Pencere Düzeni"
+#
+msgid "Total Distance"
+msgstr "Toplam Uzaklık"
+#
+msgid "Total Length: "
+msgstr "Toplam Uzunluk."
+#
+msgid "Total distance"
+msgstr "Toplam Mesafe"
+#
+msgid "Tow"
+msgstr "Yedek"
+#
+msgid "Track"
+msgstr "Seyirizi"
+#
+msgid "Track Mode"
+msgstr ""
+#
+msgid "Track Name"
+msgstr "Seyirizi Adı"
+#
+msgid "Track Properties"
+msgstr "Seyirizi Özellikleri"
+#
+#, c-format
+msgid "Track Properties, Layer: %d"
+msgstr "Seyirizi Özellikleri, Etiket: %d"
+#
+msgid "Tracking"
+msgstr ""
+#
+msgid "Tracking Precision"
+msgstr "Seyirizi Kesinliği"
+#
+msgid "Tracks"
+msgstr "Seyirizleri"
+#
+msgid "Transmit Sentences"
+msgstr "İleti Cümleleri"
+#
+msgid "Transmit sentences"
+msgstr "İleti Cümleleri"
+#
+msgid "Transverse Mercator"
+msgstr "Enine Mercator"
+#
+msgid "Treat WPL sentences as APRS position reports"
+msgstr "WPL Cümlelerini APRS Mevkileri Olarak Değerlendir"
+#
+msgid "Trinidad and Tobago"
+msgstr ""
+#
+msgid "Trk"
+msgstr "Seyirizi"
+#
+msgid "Tug"
+msgstr "Römork"
+#
+msgid "Tunisia"
+msgstr ""
+#
+msgid "Turkey"
+msgstr ""
+#
+msgid "Turkmenistan"
+msgstr ""
+#
+msgid "Turks and Caicos Islands"
+msgstr ""
+#
+msgid "Turn Rate"
+msgstr "Devir Hızı"
+#
+msgid "Tuvalu"
+msgstr ""
+#
+msgid "Type"
+msgstr "Tür"
+#
+msgid "UDP"
+msgstr "UDP"
+#
+msgid "URL"
+msgstr "URL"
+#
+msgid "UTC"
+msgstr "UTC"
+#
+msgid "Uganda"
+msgstr ""
+#
+msgid "Ukraine"
+msgstr ""
+#
+msgid "Undefined"
+msgstr "Tanımlanmamış"
+#
+msgid "Undefined (default)"
+msgstr "Tanımlanmamış (varsayılan)"
+#
+msgid "Under way sailing"
+msgstr "Yelkenle seyrediyor"
+#
+msgid "Underway"
+msgstr "Üzerinde yol var"
+#
+msgid "Undo"
+msgstr "Gerial"
+#
+msgid "United Arab Emirates"
+msgstr ""
+#
+msgid "United States Virgin Islands"
+msgstr ""
+#
+msgid "United States of America"
+msgstr ""
+#
+msgid "Units"
+msgstr ""
+#
+msgid "Unk"
+msgstr "Bilinmiyor"
+#
+msgid "Unknown"
+msgstr "Bilinmiyor"
+#
+msgid "Unlist contents"
+msgstr "İçeriği listeleme"
+#
+msgid "Unreadable PlugIn library detected, check the file permissions:\n"
+msgstr ""
+#
+msgid "Unspecified"
+msgstr "Belirlenmemiş"
+#
+msgid "Update Control"
+msgstr "Denetlemeyi Güncelle"
+#
+msgid "Uruguay"
+msgstr ""
+#
+msgid "Use Accelerated Graphics (OpenGL)"
+msgstr "Hızlandırılmış Grafikleri Kullan (OpenGL)"
+#
+msgid "Use Accelerated Panning"
+msgstr "Hızlandırılmış Grafikleri Kullan (OpenGL)"
+#
+msgid "Use Garmin (GRMN) mode for input"
+msgstr "Girişte Garmin (GRMN) Durumunu Kullan."
+#
+msgid "Use Garmin GRMN (Host) mode for uploads"
+msgstr "Yüklerken Garmin GRMN (Servis sağlayıcı) Durumunu Kullan"
+#
+msgid "Use magnetic bearings in output sentence ECAPB"
+msgstr "ECAP Cümlelerini Manyetik Kerteriz Olarak Kullan"
+#
+msgid "Use nearby waypoint?"
+msgstr "Yakındaki seyirnoktası kullanılsın mı?"
+#
+msgid "User Interface"
+msgstr "Kullanıcı Seçenekleri"
+#
+msgid "User X Offset"
+msgstr "Kullanıcı X Ayarı"
+#
+msgid "User X Offset (Metres)"
+msgstr "Kullanıcı X Ayarı (metre)"
+#
+msgid "User Y Offset"
+msgstr "Kullanıcı Y Ayarı"
+#
+msgid "User Y Offset (Metres)"
+msgstr "Kullanıcı Y Ayarı (metre)"
+#
+msgid "Uzbekistan"
+msgstr ""
+#
+msgid "VDM->VDO"
+msgstr ""
+#
+msgid "VTS active target"
+msgstr "VTS etkin hedefi"
+#
+msgid "Vanuatu"
+msgstr ""
+#
+msgid "Vatican City State"
+msgstr ""
+#
+msgid "Vector Chart Display"
+msgstr ""
+#
+msgid "Venezuela"
+msgstr ""
+#
+msgid "Vessel Diving"
+msgstr "Dalgıç Teknesi"
+#
+msgid "Vessel Dredging"
+msgstr "Tarayan Tekne"
+#
+msgid "Vessel Fishing"
+msgstr "Balık Avlayan Tekne"
+#
+msgid "Vessel Towing"
+msgstr "Yedeklenen Tekne"
+#
+msgid "Vessel Towing, Long"
+msgstr "Yedeklenen Tekne, Uzun"
+#
+msgid "Vessel requesting non-distress assistance"
+msgstr "Tehlikesiz yardım isteyen takne"
+#
+msgid "Viet Nam"
+msgstr ""
+#
+msgid "Virtual"
+msgstr "Sanal"
+#
+msgid "Virtual (Off Position)"
+msgstr "Sanal (Mevki Dışında)"
+#
+msgid "Virtual (On Position)"
+msgstr "Sanal (Mevkide)"
+#
+msgid "Visible buttons"
+msgstr "Görünür düğmeler"
+#
+msgid "WAV files (*.wav)|*.wav|All files (*.*)|*.*"
+msgstr "WAV dosyaları (*.wav)|*.wav|Tüm dosyalar (*.*)|*.*"
+#
+msgid "Wallis and Futuna Islands"
+msgstr ""
+#
+msgid "Warn if CPA less than (NMi)"
+msgstr "CPA Uyarısı İçin En Uzak Mesafe (NMi)"
+#
+msgid "Waypoint"
+msgstr "Seyirnoktası/İşaret"
+#
+msgid "Waypoint Arrival Circle Radius (NMi)"
+msgstr "Seyirnoktası Varış Daire Çapı (Mil)"
+#
+msgid "Waypoint Information"
+msgstr "Seyirnoktası Bilgisi "
+#
+msgid "Waypoint Name"
+msgstr "Seyirnoktası Adı"
+#
+msgid "Waypoint Properties"
+msgstr "Seyirnoktası Özellikleri"
+#
+msgid "Waypoint Properties, Layer: "
+msgstr "Seyirnoktası Özellikler Etiketi:"
+#
+msgid "Waypoint(s) Transmitted."
+msgstr ""
+#
+msgid "Waypoints"
+msgstr "Seyirnoktaları"
+#
+msgid ""
+"Waypoints can be renamed to reflect the new order, the names will be '001', "
+"'002' etc.\n"
+"\n"
+"Do you want to rename the waypoints?"
+msgstr ""
+"Seyirnoktaları yeni düzeni yansıtacak şekilde  '001', '002 gibi, yeniden "
+"sıralanabilir, adlandırılabilir\n"
+"\n"
+"Seyirnoktalarını yeniden adlandırmak istiyor musunuz?"
+#
+msgid "Welcome to OpenCPN"
+msgstr "OpenCPN'e Hoşgeldiniz"
+#
+msgid "Whether the font is underlined."
+msgstr "Yazı altının çizlii olup olmadığı"
+#
+msgid "White"
+msgstr "Beyaz"
+#
+msgid "Width"
+msgstr "Genişlik"
+#
+msgid "Width Over All (m)"
+msgstr "Tüm Genişlik (m)"
+#
+msgid "Width:"
+msgstr "Genişlik:"
+#
+msgid "Wing In Ground Effect"
+msgstr "Yer Etkili Kanat"
+#
+msgid ""
+"With a lower value, the same zoom level shows a less detailed chart.\n"
+"With a higher value, the same zoom level shows a more detailed chart."
+msgstr ""
+#
+msgid "Would you like include the Great Circle routing points for this leg?"
+msgstr "Bu ayağa Büyük Daire Seyri rotası eklemek ister misiniz?"
+#
+msgid "XTE         L"
+msgstr "Sapma     Sol"
+#
+msgid "XTE         R"
+msgstr "Sapma     Sağ"
+#
+msgid "Yat"
+msgstr "Yat"
+#
+msgid "Yellow"
+msgstr "Sarı"
+#
+msgid "Yemen"
+msgstr ""
+#
+msgid "Yes, hide it."
+msgstr "Evet, gizle."
+#
+msgid "You are trying to delete an active AIS MOB route, are you REALLY sure?"
+msgstr ""
+#
+msgid ""
+"You can't hide the last tool from the toolbar\n"
+"as this would make it inaccessible."
+msgstr ""
+"       Erişimi olanaksızlaştıracağı için\n"
+"Araç çubuğundaki son düğmeyi gizleyemezsiniz."
+#
+msgid ""
+"You do currently not have permission to access the serial ports on this "
+"system.\n"
+"\n"
+"It is suggested that you exit OpenCPN now,\n"
+"and add yourself to the correct group to enable serial port access.\n"
+"\n"
+"You may do so by executing the following command from the linux command "
+"line:\n"
+"\n"
+"                sudo usermod -a -G "
+msgstr ""
+"Şu sırada seri bağlantı noktalarına erişim izniniz yok. \n"
+"\n"
+"It OpenCPN'den çıkmanızı öneriyor. \n"
+" ve ardından kendinizi seri bağlantı noktasına erişebilecekler listesine "
+"ekleyin\n"
+"\n"
+" Bunu yapmak için linux komut satırına aşağıdaki komutu ekleyin.\n"
+"\n"
+" sudo usermod -a -G "
+#
+msgid "You must enter a port..."
+msgstr "Seçin ya da bir bağlantı noktası girin..."
+#
+msgid "You must enter the address..."
+msgstr "Adres girmelisiniz"
+#
+msgid "You must select or enter the port..."
+msgstr "Seçin ya da bir bağlantı noktası girin..."
+#
+msgid "Zambia"
+msgstr ""
+#
+msgid "Zero XTE"
+msgstr ""
+#
+msgid "Zimbabwe"
+msgstr ""
+#
+msgid "Zoom In"
+msgstr "Yakınlaştır"
+#
+msgid "Zoom Out"
+msgstr "Uzaklaştır"
+#
+msgid "Zoom to Cursor"
+msgstr "Fareye Yakınlaştır"
+#
+msgid "[Class] Type (Status)"
+msgstr "[Sınıf] Tür (Durum)"
+#
+msgid "_A"
+msgstr "_A"
+#
+msgid "_B"
+msgstr "_B"
+#
+msgid "_plus"
+msgstr "_artı"
+#
+msgid "cm"
+msgstr "m"
+#
+msgid "deg (+W, -E)"
+msgstr ""
+#
+msgid "fa"
+msgstr "fa"
+#
+msgid "fathoms"
+msgstr ""
+#
+msgid "feet"
+msgstr ""
+#
+msgid "ft"
+msgstr "Sol"
+#
+msgid "in"
+msgstr "Bağlantı"
+#
+msgid "in "
+msgstr "Bağlantı "
+#
+msgid "km"
+msgstr "km"
+#
+msgid "km/h"
+msgstr "km/saat"
+#
+msgid "kts"
+msgstr "Knot"
+#
+msgid "m"
+msgstr "m"
+#
+msgid "m/s"
+msgstr "m/saniye"
+#
+msgid "meters"
+msgstr ""
+#
+msgid "metres"
+msgstr ""
+#
+msgid "mi"
+msgstr "Dak. "
+#
+msgid "min"
+msgstr "Dak. "
+#
+msgid "mm"
+msgstr ""
+#
+msgid "mph"
+msgstr "mil/saat"
+#
+msgid "seconds"
+msgstr ""
+#
+msgid "track"
+msgstr "Seyirizi "
+#
+msgid "wgsox"
+msgstr "wgsox"
+#
+msgid "wgsoy"
+msgstr "wgsoy"
+#
+msgid "wxFB Website"
+msgstr "wxFB veb sayfası"
+#
+msgid "x"
+msgstr ""
+#
+msgid "x.x"
+msgstr ""
+#
+msgid "x.xx"
+msgstr ""
+#
+msgid "x.xxx"
+msgstr ""
+#
+msgid "x.xxxx"
+msgstr ""
